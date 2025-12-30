@@ -1,0 +1,30 @@
+# IDE/Editor settings
+.claude/
+.gemini/
+.vscode/
+.idea/
+
+# MCP config (may contain local paths)
+.mcp.json
+
+# Log files
+*.log
+RALPH_LOOP_LOG.txt
+
+# State files (regenerated on run)
+RALPH_LOOP_STATE.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+NUL
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
