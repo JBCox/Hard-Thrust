@@ -39,6 +39,9 @@ function Write-Log($message) {
 function Invoke-RalphIteration($iteration) {
     Write-Log "Starting iteration $iteration..."
 
+    $fixMode = "auto-fix is enabled"
+    if (-not $AutoFix) { $fixMode = "waiting for approval" }
+
     $prompt = @"
 Run /ralph-book-loop iteration $iteration on FULL_MANUSCRIPT.txt
 
@@ -56,7 +59,7 @@ At the end of your analysis, output a JSON block like this:
 }
 ```
 
-If issues are found and $($AutoFix ? "auto-fix is enabled" : "waiting for approval"), apply fixes.
+If issues are found and $fixMode, apply fixes.
 "@
 
     # Run Claude Code with the prompt
