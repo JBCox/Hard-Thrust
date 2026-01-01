@@ -15,6 +15,14 @@
 
 ## JOSH CAINE - FULL PROFILE
 
+### Physical Description
+- **Height:** 6'5" (tall enough that most people look up to him)
+- **Hair:** Copper/auburn, windblown style
+- **Eyes:** Blue-green with deeper green flecks
+- **Build:** Muscular, broad shoulders
+- **Facial hair:** Trimmed beard framing his jaw
+- **Style:** Brown leather jacket (worn, comfortable), casual but put-together
+
 ### What Josh Knows About Himself
 - He was adopted at age 5-6 after several years in foster care
 - His mother was murdered when he was 3 years old
@@ -125,7 +133,7 @@ She was ~85% sure when she lured Josh to Thornewood. She becomes 100% sure durin
 - She heard Josh announce his Thornewood trip ~2 years ago on his podcast
 - She delayed the estate reopening (probate, renovations, her control)
 - She timed it so Josh would arrive just before winter road closure
-- She engineered 5 months of being trapped together
+- She engineered 4 months of being trapped together
 - She posed as groundskeeper to observe him up close
 
 ---
@@ -208,8 +216,8 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 ### Timeline Overview
 - **Late October:** Josh arrives at Thornewood
 - **Mid-November:** Mountain roads close due to weather
-- **November - April:** Trapped together (~5 months)
-- **Mid-April:** Roads reopen
+- **November - March:** Trapped together (~4 months)
+- **Mid-March:** Roads passable; arrest occurs March 15
 
 ### Why This Works
 - Oregon Cascades can be impassable 5+ months in winter
@@ -272,12 +280,13 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 | **Feb 28** | **REVEAL 3:** Eleanor is Lily's sister | She owns the estate, not just groundskeeper; her real name is Ashford |
 | **Feb 28** | **REVEAL 4:** Josh is the killer | He's Marcus Webb; he killed Lily and others during fugue states |
 | **Feb 28 - March 1** | **REVEAL 5:** Josh's mother was killed at Thornewood | In 1998 - he's been returning to the site of his original trauma |
-| **March - early April** | The final weeks | Eleanor deteriorates rapidly; Josh cares for her; they review evidence together |
-| **~April 10** | **ELEANOR'S LAST ACT** | Before losing coherence, she sends everything to Rachel |
-| **~April 12** | **ELEANOR DIES** | In hospice. Josh is in psychiatric evaluation—he learns of her death at his sentencing. |
-| **April 12-14** | Eleanor's parents handle arrangements | Josh is in custody; he learns of her death at sentencing |
-| **~April 15** | **ROADS REOPEN** | The outside world can reach them again |
-| **April 15** | **ARREST** | Police arrive (Rachel called them). Josh goes quietly. |
+| **March 1-2** | Josh processes the truth | Reviews evidence with Eleanor; learns about his mother |
+| **~Feb 25** | **ELEANOR'S INSURANCE** | Eleanor mails backup evidence package to Rachel with March 20 deadline |
+| **March 15** | **CONFESSION & ARREST** | Josh confesses; Eleanor calls 911; police arrest Josh that evening |
+| **March 16-18** | Psychiatric evaluation begins | Josh evaluated; Eleanor in hospice with parents |
+| **April 3** | **ELEANOR DIES** | In hospice with parents. Josh is in psychiatric evaluation. |
+| **April 8** | **ARRAIGNMENT** | Josh pleads guilty to all counts |
+| **June 15** | **SENTENCING** | Victim impact statements; Josh learns of Eleanor's death; indefinite psychiatric commitment |
 | **Epilogue** | Josh alone | Cell, courtroom, or psychiatric evaluation. Remembering everything.
 
 ### PACING NOTES
