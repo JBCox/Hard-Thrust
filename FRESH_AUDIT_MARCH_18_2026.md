@@ -286,6 +286,86 @@ The manuscript works well for casual readers. For genre-experienced readers (50+
 
 ---
 
+## COMPREHENSIVE FIX PASS — March 18, 2026 (Post-Audit)
+
+Applied 45 additional fixes across 5 batches, addressing all CRITICAL, HIGH, MEDIUM findings from the deep audit plus prose/consistency LOW fixes.
+
+### Batch 1 (Ch 1-14): 10 fixes
+| Fix | Description |
+|-----|-------------|
+| H1 | Eleanor hair "pulled back" → "down past my shoulders" (Ch 2 consistency) |
+| H2 | Removed double symptom (headache + ibuprofen) from Ch 2 Eleanor intro |
+| H7a | Ch 14 Eleanor "wrap my arms around him" → "make him believe everything was fine" (hardened voice) |
+| H7b | Ch 14 "I'm scared too" → "I should be scared. I'm not." |
+| H8 | Ch 14 investigator language → "Let him watch himself unravel" |
+| H14 | Ch 10 deflection "got in my way" → "trusted the wrong person" |
+| M5 | Ch 12 "purpose" → "hunger" (forbidden term removal) |
+| M8 | Ch 12 "number six" → "the next one" |
+| M9 | Added Roy re-introduction acknowledgment in Ch 13 Josh POV |
+| L | Removed duplicate "common enough" (Ch 7) and consolidated duplicate mapping passage (Ch 7) |
+
+### Batch 2 (Ch 15-22 DANGER ZONE): 13 fixes
+| Fix | Description |
+|-----|-------------|
+| H3 | Removed "medical journals" / nursing knowledge from Ch 15 |
+| H4 | Tremor: removed "testing responsiveness" clinical language → "clenches fist, shakes it off" |
+| H5 | Recurring tremor pattern softened → "At one point her hand shook again" |
+| H9 | Near-confession "broken part of me did it" → "too broken to be what you need" |
+| H10/11 | Ch 20 photograph changed from grief-object to target-obsession ("photograph of him") |
+| H12 | Ch 22 fugue framed as sleepwalking, not dissociation |
+| H13 | "You were there" → "You came here for a reason" (less explicit) |
+| M1 | Varied 3 of 4 "episodes" instances → "blackouts," "hours I couldn't account for" |
+| M2 | Eleanor clinical DID description → "something's off with you. Distant." |
+| M3 | "Potential for violence" → "paranoia eating me alive" |
+| M13 | Denial spoiler "look like I'm the killer" → "look like I'm responsible for something I didn't do" |
+| L | Ch 20 "left everything behind" → "obsession that consumed me" |
+| L | Ch 20 moral wrestling reframed from guilty investigator to predatory obsession |
+
+### Batch 3 (Ch 23-28 REVEALS): 11 fixes
+| Fix | Description |
+|-----|-------------|
+| CR-1 | Body discovery "four days" expanded with Eleanor's guilt context |
+| H6 | Eleanor's knowledge date: "Since April 2023" → "Suspected since late 2022. Confirmed since April 2024." |
+| M6 | "Final entry" contradiction removed (not the final entry) |
+| M7 | Contract end date: "Contract ends tomorrow" → "Contract doesn't end until the 22nd" (matches Feb 8-22 records) |
+| M12 | Ch 25 ending trimmed ~40% of "tomorrow" repetitions |
+| — | "Clock ticking toward 8 AM" → "Clock past 8 AM" (time reference corrected) |
+| — | "Six impossibilities" → "Five impossibilities" (only 5 listed) |
+| — | "Three weeks" language clarified for post-reveal context |
+| L | Clumsy "dam" prose fixed |
+| L | Quotation marks removed from Eleanor paraphrase |
+| L | 500-word evidence paragraph broken into 5 shorter paragraphs |
+
+### Batch 4 (Ch 29-33 + Epilogue): 11 fixes
+| Fix | Description |
+|-----|-------------|
+| M4 | Kevin Chen injury: "oxygen deprivation → spinal cord" → "damaged cervical spine" / "damage to neck—vertebrae, spinal cord" (both instances) |
+| M10 | Roy at trial: added dual-layer acknowledgment (warned Josh + told prosecution) |
+| M11 | "Five states" → "Oregon and beyond" (unverifiable claim removed) |
+| M14 | Epilogue grave visit: added hospice transport logistics |
+| L | Mary Oliver attribution → "repeating the words she'd spoken at Lily's funeral" |
+| L | "Eleanor Moore's family" → "Eleanor's family" (natural speech) |
+| L | Dr. Nguyen → Dr. Patel (avoid surname collision with Rachel Nguyen) |
+| L | "Thornewood sold in August" → added "Eleanor's parents, I assume" |
+| L | Differentiated repeated "hands" phrasing (second instance → "fingers/fingerprints") |
+| L | Differentiated repeated "kind eyes" (nurse → "gentle eyes") |
+| L | Differentiated repeated "She leaves. Lock clicks." (second → "The bolt slides home.") |
+
+### Batch 5 (Documentation): 2 fixes
+| Fix | Description |
+|-----|-------------|
+| D3 | CHAPTER_MAP.md Ch 29: March 15 → March 16 |
+| D4 | CHAPTER_MAP.md Ch 31: March 18 → March 19 |
+
+### Regression Verification
+All 4 forbidden-terms grep scans passed after each batch:
+- Illness terms before Ch 26: CLEAN (all benign "dying ivy/light/coals")
+- DID terms before Ch 25: CLEAN (all "alternative" false positives)
+- Mother/Thornewood before Ch 27: CLEAN (one pre-existing foreshadowing line)
+- Sister terms before Ch 26: CLEAN (zero matches)
+
+---
+
 ## REMAINING ITEMS FOR AUTHOR REVIEW
 
 These items were identified but NOT fixed — they require structural/creative decisions:
@@ -300,7 +380,7 @@ These items were identified but NOT fixed — they require structural/creative d
 
 5. **Photo-scene callback in Ch 27:** Story Bible prescribes Eleanor saying "I recognized her from the photo you showed me" but this line is absent from the manuscript. Adding it would strengthen the reveal.
 
-6. **"Into the wild air" attribution (L10120):** Attributed to Mary Oliver but not a recognized quote. Consider vaguer attribution.
+6. ~~**"Into the wild air" attribution (L10120):** Attributed to Mary Oliver but not a recognized quote.~~ **FIXED** — Changed to "repeating the words she'd spoken at Lily's funeral" (no longer attributes to Mary Oliver).
 
 ---
 
