@@ -16,6 +16,7 @@
 ## JOSH CAINE - FULL PROFILE
 
 ### Physical Description
+- **Age:** 29 in October 2024 (born 1995; was 3 years old when mother killed in 1998)
 - **Height:** 6'5" (tall enough that most people look up to him)
 - **Hair:** Copper/auburn, windblown style
 - **Eyes:** Blue-green with deeper green flecks
@@ -54,7 +55,7 @@
 - He's a true crime podcaster/writer
 - He came to investigate the 2020 cold case murder (Lily's death)
 - He's writing a book about cold cases at remote estates
-- He used a fake name on the rental application (Joshua Michaels) to hide that he's a true crime podcaster
+- He described himself as "an author seeking solitude" on the rental application, omitting his true crime work
 - He has NO IDEA he's investigating his own crime
 - He has NO IDEA his mother was killed here in 1998
 
@@ -70,6 +71,14 @@
 ---
 
 ## ELEANOR MOORE/ASHFORD - FULL PROFILE
+
+### Physical Description
+- **Age:** 32 in October 2024 (was 6 in 1998 when she witnessed aftermath of Josh's mother's murder)
+- **Height:** 5'8"
+- **Hair:** Dark, nearly black, long past her shoulders, wavy
+- **Eyes:** Pale green (like sea glass)
+- **Skin:** Pale, almost translucent
+- **Style:** Practical - jeans, canvas jacket, worn leather; dresses for function not fashion
 
 ### Her True Identity
 - Born Eleanor Ashford - part of the family that owns Thornewood Estate
@@ -128,6 +137,37 @@ She was ~85% sure when she lured Josh to Thornewood. She becomes 100% sure durin
 - This is her final mission - get justice/closure before she dies
 - She takes medication (pills she crushes) - NOT to drug Josh
 - Josh sees her crushing pills and assumes the worst
+
+### Eleanor's Key Props (Consistency Rules)
+- **Journal:** PHYSICAL notebook (not digital). She also has a separate laptop. Never conflate the two — she opens/closes the journal, and separately opens/closes the laptop.
+- **Morning pills:** Referred to internally as "morning pills" (neutral). These are her cancer medication. NOT called "vitamins" (too casual for prescription meds in internal monologue).
+- **Crushed pills (Ch 3):** Same cancer medication, crushed for absorption. Josh observes this and it looks suspicious to him.
+- **Sleeping pills:** Separate medication, kept on nightstand. Taken at night.
+- **Loft:** Accessed by ladder from the cottage. Contains sealed boxes (her old life/investigation materials), her desk, and her journal. She locks it behind her.
+- **Cameras:** Hidden throughout the property, installed during her first months at Thornewood.
+
+### Cottage Architecture (Consistency Rules)
+- The cottage is **single story with a loft** (Ch1 says "single story"). The loft is a raised mezzanine space accessed by ladder, NOT a full second story. Never describe it as "second story" or "two-story."
+- The cottage has an "upper window" in the loft area — this is architecturally consistent with a single-story structure that has a loft (like a cabin with a sleeping loft).
+- From outside: "Stone cottage, single story, smoke curling from its chimney" (Ch1).
+- From inside: "One main room—kitchen and living space combined—with doors leading to bedroom and bathroom. A ladder in the corner led to a loft" (Ch5 visit).
+
+### Josh's Cover Story (Consistency Rules)
+- Josh's cover: "writer seeking solitude for a writing retreat" / cold case book about remote estates.
+- **His cover is THIN and Eleanor knows it.** She listened to his podcast episodes (she tells him in Ch3). He announced the Thornewood trip ~2 years ago on the podcast. Eleanor already knows he's a true crime podcaster interested in Thornewood's dark history.
+- Josh should acknowledge (internally) that his cover is compromised, but rationalize it.
+- Rachel (agent) believes he's writing a nonfiction cold cases book. NOT fiction. She doesn't know he's actively investigating a specific murder.
+
+### Eleanor's Tenure (Consistency Rules)
+- Eleanor **claims** 6 months at Thornewood (since ~April 2024).
+- Josh knows this claim from the rental listing. He should express doubt about it, not claim ignorance of when she started.
+- She was actually in the region much earlier (connected to the 2020 murder of her sister Lily). Roy mentions seeing her "years back."
+- She was NOT officially the groundskeeper during the 2019-2021 disappearances. Don't say she was "here through" them. Say she was "in the region" or that her "timeline overlaps."
+
+### Meal Arrangement (Consistency Rules)
+- Lease specifies meals **twice a week**.
+- Eleanor deliberately exceeds this (part of her strategy to get close to Josh).
+- Josh should notice the discrepancy — he's observant enough to flag it.
 
 ### The Trap She Set
 - She heard Josh announce his Thornewood trip ~2 years ago on his podcast
@@ -275,19 +315,19 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 | Date | Event | Notes |
 |------|-------|-------|
 | **Feb 28** | Tension reaches breaking point | Josh barricades himself; Eleanor forces confrontation |
-| **Feb 28** | **REVEAL 1:** Eleanor's not drugging him | The pills are cancer medication |
-| **Feb 28** | **REVEAL 2:** Eleanor is dying | Terminal brain tumor, months to live |
-| **Feb 28** | **REVEAL 3:** Eleanor is Lily's sister | She owns the estate, not just groundskeeper; her real name is Ashford |
-| **Feb 28** | **REVEAL 4:** Josh is the killer | He's Marcus Webb; he killed Lily and others during fugue states |
-| **Feb 28 - March 1** | **REVEAL 5:** Josh's mother was killed at Thornewood | In 1998 - he's been returning to the site of his original trauma |
-| **March 1-2** | Josh processes the truth | Reviews evidence with Eleanor; learns about his mother |
+| **Feb 28** | **REVEAL 4:** Josh is the killer (Ch 25) | He's Marcus Webb; evidence room confrontation; Eleanor confirms |
+| **March 1** | **REVEAL 1:** Eleanor's not drugging him (Ch 26) | The pills are cancer medication |
+| **March 1** | **REVEAL 2:** Eleanor is dying (Ch 26) | Terminal brain tumor, months to live |
+| **March 1** | **REVEAL 3:** Eleanor is Lily's sister (Ch 26) | She owns the estate; her real name is Ashford |
+| **March 2** | **REVEAL 5:** Josh's mother was killed at Thornewood (Ch 27) | In 1998 - he's been returning to the site of his original trauma |
+| **March 2** | Josh processes the truth | Reviews evidence with Eleanor; learns about his mother |
 | **~Feb 25** | **ELEANOR'S INSURANCE** | Eleanor mails backup evidence package to Rachel with March 20 deadline |
 | **March 15** | **CONFESSION & ARREST** | Josh confesses; Eleanor calls 911; police arrest Josh that evening |
 | **March 16-18** | Psychiatric evaluation begins | Josh evaluated; Eleanor in hospice with parents |
 | **April 3** | **ELEANOR DIES** | In hospice with parents. Josh is in psychiatric evaluation. |
 | **April 8** | **ARRAIGNMENT** | Josh pleads guilty to all counts |
 | **June 15** | **SENTENCING** | Victim impact statements; Josh learns of Eleanor's death; indefinite psychiatric commitment |
-| **Epilogue** | Josh alone | Cell, courtroom, or psychiatric evaluation. Remembering everything.
+| **Epilogue** | Eleanor (Mar 29), then Josh (Sep 2025) | Pt 1: Eleanor visits Lily's grave in wheelchair. Pt 2: Josh in psychiatric facility, naming victims nightly. Ends on "Forever."
 
 ### PACING NOTES
 
@@ -330,19 +370,19 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 | 2 | Kevin Chen | Nov 2019 | SURVIVED | Only survivor, age 28 at attack (34 at 2025 sentencing), uses wheelchair due to spinal damage |
 | 3 | Lily Ashford | Feb 2020 | Dead | Eleanor's sister, central case |
 | 4 | Jennifer Wallace | May 2020 | Dead | Teacher |
-| 5 | Robert Fischer | Jan 2021 | Dead | Trail volunteer |
-| 6 | David Park | Aug 2022 | Dead | Most recent |
+| 5 | Robert Fischer | Jan 2021 | Dead | Trail volunteer, 56, retired postal worker. Husband (20 yrs together), three grandchildren |
+| 6 | David Park | Aug 2022 | Dead | Most recent, 38, software engineer. Boyfriend; parents speak Korean |
 
 **Total: 6 victims (5 dead, 1 survivor)**
 
 ### IMPORTANT: Josh's Knowledge vs. Truth
 
-**Before the reveal (Chapters 1-25):** Josh knows about 6 victims from his research:
+**Before the reveal (Chapters 1-24):** Josh knows about 6 victims from his research:
 - Sarah Martinez, Kevin Chen, Lily Ashford, Jennifer Wallace, Robert Fischer, David Park
 
 The "five disappeared" phrase refers to the 5 cases Eleanor focused on in her investigation (excluding Lily, whose case she knew personally as her sister).
 
-**After the reveal (Chapter 26+):** Josh learns he IS the killer of all 6.
+**After the reveal (Chapter 25+):** Josh learns he IS the killer of all 6 (Marcus Webb reveal in Ch 25; sister/illness reveals in Ch 26).
 
 **Total: 6 victims (5 dead, 1 survivor Kevin Chen)**
 
@@ -381,8 +421,8 @@ The "five disappeared" phrase refers to the 5 cases Eleanor focused on in her in
 - Josh confronts what he is
 - Eleanor gets her answers but not peace
 - The love between them is real—and useless
-- Eleanor dies at Thornewood; Josh cares for her until the end
-- Josh is arrested when the roads open
+- Eleanor dies in hospice with her parents; Josh is in psychiatric evaluation
+- Josh is arrested March 15 after Eleanor calls 911
 - No redemption. No healing. Just consequences.
 
 ---
@@ -393,10 +433,9 @@ The "five disappeared" phrase refers to the 5 cases Eleanor focused on in her in
 - Rachel thinks Josh is writing a cold case book
 - She doesn't know he's trying to solve it himself
 - She checks in periodically during the isolation
-- **Role in ending:** Eleanor sends Rachel everything before she dies—evidence files, Josh's confession, Kevin Chen's contact. Rachel is horrified. She calls the police. She's the one who brings the outside world crashing in.
-- Possible closure scene: Rachel visits Josh after arrest, demanding to know how much was real
+- **Role in ending:** Eleanor mails Rachel a backup evidence package (~Feb 25) with instructions to contact FBI if she doesn't hear from Eleanor by March 20. Eleanor calls 911 herself on March 15 after Josh confesses. Rachel's package is insurance, not the trigger for the arrest. (Off-page; no Rachel POV scene.)
 
-### Josh and Roy (Handyman)
+### Josh and Roy Hendricks (Handyman)
 - Roy provides local knowledge about Thornewood's history
 - Source for the "list of incidents" (casually drops 1998 murder among others)
 - **Role in ending:** Potentially testifies about Josh's behavior during the stay, or provides context about Thornewood's history during trial
@@ -406,7 +445,7 @@ The "five disappeared" phrase refers to the 5 cases Eleanor focused on in her in
 - Genuine attraction develops (complicates everything)
 - Both hiding their true purposes
 - Both falling for each other despite the lies
-- **The tragedy:** The love was real. It saved no one. Eleanor dies in Josh's arms. He buries her near where he buried her sister. Then he waits for the police.
+- **The tragedy:** The love was real. It saved no one. Eleanor dies in hospice with her parents while Josh is in psychiatric evaluation. He learns of her death at his sentencing hearing—never gets to say goodbye.
 
 ---
 
@@ -604,118 +643,87 @@ Eleanor is investigating her sister's killer, but readers must think SHE is the 
 6. Why she's really at Thornewood
 7. What's in the boxes in the loft
 
-### Making Eleanor Seem Dangerous
+---
 
-**CRITICAL:** Eleanor should sound like she's going to KILL Josh, not like she's investigating a crime. She is a predator stalking prey, not a detective building a case.
+### DIAGNOSTIC QUESTIONS (Use These For Every Eleanor POV Section)
 
-**Words/Phrases to AVOID (sound like investigation):**
-- "cracks in the story" (detective looking for inconsistencies)
-- "building a case"
-- "evidence" (before Act 3)
-- "confirm my suspicions"
-- "piecing together"
-- Any language that suggests legal/journalistic investigation
+**For every Eleanor POV section in Acts 1-2, answer these three questions. If any answer is (b) or (c), the section needs revision.**
 
-**Words/Phrases to USE (sound like hunting/killing):**
-- "what hurts him" (looking for vulnerabilities)
-- "where he's weak"
-- "finish this" (sounds like murder)
-- "what comes next" (ominous)
-- "means to an end" (he's disposable)
-- "I know what he is" (certain, obsessive)
+#### 1. The Stranger Test
+*If a stranger read ONLY this Eleanor section (no context), would they think she's:*
+- **(a) Planning to kill someone** ← CORRECT
+- **(b) Investigating a crime** ← SPOILER LEAK - fix it
+- **(c) Grieving someone she lost** ← SPOILER LEAK - fix it
 
-**Predatory Language:**
-- "He has no idea what's coming"
-- "The friendly ones are always the most trusting"
-- "He's finally here"
-- "I know what he's capable of"
-- "He can hide it from everyone else, but not from me"
+**Why this matters:** Readers approaching Eleanor's POV should feel dread, not sympathy. Investigation language (evidence, case, confirming) gives away the twist. Grief language (loss, memorial, justice for the dead) reveals the sister connection.
 
-**Ambiguous Phrasing:**
+#### 2. The Motive Test
+*What does Eleanor seem to WANT in this section?*
+- **(a) To hurt/destroy Josh** ← CORRECT
+- **(b) To get answers/evidence** ← SPOILER LEAK - fix it
+- **(c) To find closure/justice** ← SPOILER LEAK - fix it
 
-| What Eleanor thinks | How readers interpret it | What it actually means |
-|---------------------|--------------------------|------------------------|
-| "What needs to be done" | She's planning to kill him | She needs to get proof/confront him |
-| "Finishing this" | Murder | Getting closure for Lily |
-| "He can't know. Not yet." | Hiding murderous intent | Hiding that she knows he's the killer |
-| "I've been waiting for this" | Waiting to kill | Waiting to catch him |
-| "He's exactly where I need him" | Trapped prey | Trapped for investigation |
-| "I know what he is" | Delusional obsession | She's actually right |
+**Why this matters:** Predators want to harm. Investigators want answers. Grieving sisters want closure. Eleanor must read as a predator.
 
-**Urgency Without Revealing Illness:**
-- "This can't go on forever"
-- "Winter will end eventually"
-- "I need to act before he figures out what I'm planning"
-- "Soon, one way or another, this will be over"
-- "I've waited too long already"
+#### 3. The Illness Test
+*Could Eleanor's physical symptoms in this section be explained by:*
+- **(a) Stress, exhaustion, isolation** ← SAFE
+- **(b) Something clearly medical** ← SPOILER LEAK - fix it
 
-(Readers think: She needs to kill him before they're no longer trapped)
-(Reality: She's dying and needs closure)
+**Why this matters:** Symptoms are fine if they could be situational. Naming tumors, cancer, terminal timelines, or specific medications before the reveal spoils the twist.
 
-### Eleanor's Certainty (NOT Doubt)
+---
+
+### Quick Fix Guide
+
+**If Eleanor sounds like an investigator, change:**
+| From (Investigation) | To (Predatory) |
+|---------------------|----------------|
+| "building a case" | "preparing for what comes next" |
+| "gathering evidence" | "watching for weaknesses" |
+| "confirming suspicions" | "seeing what I already know" |
+| "cracks in his story" | "cracks in his armor" |
+| "he doesn't recognize me" | "he doesn't fear me yet" |
+| "watching for recognition/memory" | "watching for fear/vulnerability" |
+| "the subject" | "him" or "the prey" |
+
+**If Eleanor sounds like a grieving sister, change:**
+| From (Grief) | To (Predatory) |
+|--------------|----------------|
+| "justice for her" | "finishing this" |
+| "she deserved better" | "he deserves what's coming" |
+| "I miss her" | "I remember what he took" |
+| "closure" | "ending this" |
+
+---
+
+### Pattern That Was Fixed (January 2026)
+
+**The Recognition-Watching Pattern:** Eleanor was repeatedly watching for Josh to REMEMBER things—classic investigator behavior. All instances changed to watching for FEAR.
+
+- ~~"Waited for recognition to crack through"~~ → "Waited for the room to unsettle him"
+- ~~"No flicker of recognition"~~ → "Just confusion in his face"
+- ~~"seems to recognize things he shouldn't"~~ → "flinches at things he can't explain"
+
+**The Rule:** Investigators watch for RECOGNITION/MEMORY. Predators watch for FEAR/VULNERABILITY/OPPORTUNITY.
+
+---
+
+### Eleanor's Certainty (Critical)
 - Eleanor must be CERTAIN about Josh's guilt
 - She CANNOT wonder "what if he's innocent?" - that would imply she might be the guilty one
 - Her certainty should read as dangerous obsession to readers
-- "I've seen the truth beneath the surface"
-- "He can fool everyone else, but I know"
-
-### How Her Actions Should Read
-
-| What Eleanor does | How readers see it | Reality |
-|-------------------|-------------------|---------|
-| Watches Josh | Stalking prey | Investigating suspect |
-| Documents his behavior | Building a murder plan | Gathering evidence |
-| Gets close to him | Manipulation/seduction | Investigation + genuine feelings |
-| Takes pills privately | Preparing to drug him | Cancer medication |
-| Keeps boxes hidden | Evidence of her crimes | Evidence of HIS crimes |
-| Plans "what comes next" | Murder plot | Confrontation/justice |
-
-### Eleanor's Attraction to Josh
-- She genuinely falls for him (horrifying for her)
-- But her attraction should READ as tactical manipulation
-- "I need to get closer to him"
-- "Physical intimacy will make him trust me"
-- Readers think: She's seducing him to lower his guard before killing
-- Reality: Investigation becomes complicated by real feelings
-
-### Journal Entries (Keep - But Transform)
-
-Short, cryptic, emotional entries that read as sinister. NOT investigation logs.
-
-**Examples:**
-
-*Day 5. He smiled at me today. A real smile. I almost forgot why I'm here. Almost.*
-- Readers: Predator distracted by prey
-- Reality: Investigator developing feelings for killer
-
-*Day 12. He asked about the boxes in the loft. I told him storage. He believed me. They always believe the simple answers.*
-- Readers: Hiding evidence of her crimes
-- Reality: Hiding evidence of HIS crimes
-
-*Day 18. I watched him sleep last night. Peaceful. Innocent-looking. But I know better.*
-- Readers: Creepy stalker planning murder
-- Reality: Grieving sister watching the man who killed Lily
-
-*Day 23. He's starting to suspect something. Good. Let him wonder. Let him worry. It won't change what's coming.*
-- Readers: Wants him scared before she kills him
-- Reality: Wants him off-balance for the confrontation
-
-**Journal entry rules:**
-- Short (1-3 sentences)
-- Cryptic and emotional
-- No investigation details
-- No mention of illness or symptoms
-- No mention of Lily as sister
-- Ominous tone that reads as predatory
+- Present it as: "I know what he is" (sounds delusional/obsessive to readers, but she's right)
 
 ### The Boxes in the Loft
-- Josh sees boxes of "investigation materials"
-- From his POV: Sinister, maybe evidence of other victims?
-- Eleanor's POV should reference them ominously without revealing contents
-- Reality: Lily's belongings, case files, evidence against Josh
+- From Josh's POV: Sinister, maybe evidence of other victims?
+- From Eleanor's POV: Reference them ominously without revealing contents
 - "The boxes hold everything. All the proof. All the answers."
 - Readers think: Trophies from victims / murder plans
-- Reality: Evidence of Josh's crimes
+- Reality: Evidence of HIS crimes
+
+### Cross-Reference
+See **CHAPTER_MAP.md** for chapter-by-chapter spoiler risk tracking and specific fixes applied.
 
 ---
 
@@ -728,6 +736,8 @@ Short, cryptic, emotional entries that read as sinister. NOT investigation logs.
 5. **Victim count:** 6 victims, 5 deaths, 1 survivor (Kevin Chen)
 6. **Timeline:** Story takes place October 2024 - April 2025
 7. **The 1998 murder:** Josh's mother - slipped into list, not highlighted
+8. **Josh's age:** 29 in October 2024 (born 1995, was 3 when mother killed in 1998)
+9. **Eleanor's age:** 32 in October 2024 (was 6 in 1998 when she witnessed aftermath of the murder)
 
 ---
 
@@ -735,8 +745,8 @@ Short, cryptic, emotional entries that read as sinister. NOT investigation logs.
 
 ### Setup
 
-**When:** Christmas Eve night, continuing directly from the argument at line 5299
-**Where:** Starts in great room, moves to Eleanor's cottage loft (the investigation room)
+**When:** February 28, after four months trapped together (see Ch 23-26)
+**Where:** Starts in mansion (Josh barricades), moves to Eleanor's cottage loft (the investigation room)
 **Conditions:** Heavy snow, roads impassable, no escape for either of them
 **Emotional state:**
 - Josh: Paranoid, accusatory, certain Eleanor is the killer framing him
@@ -744,7 +754,7 @@ Short, cryptic, emotional entries that read as sinister. NOT investigation logs.
 
 ### The Trigger
 
-Josh's challenge at line 5299 ("Let me guess—next you'll tell me you have evidence against me") is the trigger. Eleanor has been waiting for the right moment. Josh forcing the confrontation gives her permission to finally show him everything.
+Josh's challenge in Ch 17 (line ~5557: "Let me guess—next you'll tell me you have evidence against me") plants the seed. Two months later (Feb 28), Josh barricades the mansion and Eleanor forces entry—the actual confrontation (Ch 23-26). Josh forcing the confrontation gives her permission to finally show him everything.
 
 **Eleanor's response:**
 "Yes. I do have evidence. And you're going to see all of it. Tonight."
@@ -955,7 +965,7 @@ Josh doesn't run. Doesn't deny. The weight of truth is too heavy.
 This is her choice—the one she's been wrestling with since she lured him here.
 
 Option A (Justice):
-"When the roads open, I call the police. I have enough evidence for an investigation. Kevin Chen survived—he can identify you. The forensics will connect you to Lily. You'll face trial."
+"When the roads open, I call the police. I have enough evidence for an investigation. Employment records, security footage, your handwriting on contracts. The forensics will connect you to Lily. You'll face trial."
 
 Option B (Closure):
 "Or you stay. Face what you are. Help me understand WHY. Give me answers I can take with me when I die. And then we figure out what comes next."
@@ -1047,18 +1057,16 @@ Eleanor's condition deteriorates rapidly after the confrontation. The stress, th
 
 Josh stays. Not because he deserves to, but because leaving would be one more act of cowardice. He cares for her as she dies—the man who killed her sister, now holding her hand as cancer takes her. The obscenity of it isn't lost on either of them.
 
-**Eleanor's Last Act:**
-Before she loses coherence, Eleanor makes the call. Not to the police—to Rachel, Josh's agent. She sends everything. The evidence files. Josh's recorded confession. Kevin Chen's contact information. A letter explaining who she was and what Josh did.
+**Eleanor's Insurance (~Feb 25):**
+Before the confrontation, Eleanor mails a backup evidence package to Rachel, Josh's agent. Her investigation files, travel records, handwriting analysis, Kevin Chen's contact information. A letter explaining who she was and what Josh did. Instructions: if Rachel doesn't hear from Eleanor by March 20, contact the FBI. (The backup becomes unnecessary when Eleanor calls 911 on March 15.)
 
-"I'm not doing this for justice," she tells Josh. "Justice would have been Lily getting to live. I'm doing this because you can't be allowed to forget again. You can't go back to being Josh Caine, true crime podcaster, drinking away the blackouts. Someone has to know."
+"I'm not doing this for justice," she tells Josh (Ch 27). "Justice would have been Lily getting to live. I'm doing this because you can't be allowed to forget again. You can't go back to being Josh Caine, true crime podcaster, drinking away the blackouts. Someone has to know."
 
 **Eleanor's Death:**
 She dies in hospice with her parents by her side. Her mother reads to her from *The Secret Garden*—the book she read to Eleanor and Lily as children. Her father holds her hand. Josh is being psychiatrically evaluated—he destroyed her so completely he can't even be with her at the end. He learns of her death at his sentencing hearing. The cruelest punishment: he never got to say goodbye.
 
 **The Arrest:**
-The roads open three days after Eleanor dies. Josh doesn't run. He's sitting in the great room when the police arrive—Rachel called them after receiving Eleanor's package. Kevin Chen identified him from the photos. There's enough for an arrest, enough for a trial.
-
-Josh goes quietly. He's almost relieved.
+March 15: After Josh records his confession, Eleanor calls 911. Police arrest Josh that evening. He goes quietly. He's almost relieved. Eleanor deteriorates rapidly after the confrontation—dies in hospice April 3, nineteen days after Josh's arrest. He doesn't learn she's gone until the sentencing hearing.
 
 **The Final Scene:**
 Josh in a holding cell. Or a courtroom. Or a psychiatric evaluation room. Alone with what he is.
@@ -1133,11 +1141,14 @@ Any other ending would be a lie. Eleanor can't forgive—her sister is dead. Jos
 | "observation," "protocol" | ❌ NEVER | ✅ OK in his notes |
 | "the project," "the mission" | ❌ NEVER | ✅ OK if about his book |
 | Clinical detachment | ❌ Should feel predatory | ✅ Fits his journalist persona |
+| "recognition" / "recognize" | ❌ NEVER watch for Josh's memory | ✅ OK (he's testing Eleanor) |
+| "what he really is" | ❌ NEVER (exposure language) | ✅ OK about Eleanor |
+| Watching for memory/recognition | ❌ Watch for FEAR instead | ✅ OK in his investigation |
 
 ### TIMING-DEPENDENT ELEMENTS
 
-| Element | Act 1 (Ch 1-8) | Act 2 (Ch 9-20) | Act 3 (Ch 21+) |
-|---------|----------------|-----------------|----------------|
+| Element | Act 1 (Ch 1-11) | Act 2 (Ch 12-22) | Act 3 (Ch 23+) |
+|---------|-----------------|------------------|----------------|
 | Josh déjà vu / "been here before" | ❌ Too early | ✅ OK if dismissed | ✅ OK |
 | Josh fugue symptoms | ❌ None visible | ✅ Escalating, blamed on Eleanor | ✅ Full episodes |
 | Josh memory gaps | ❌ Only from drinking | ✅ Suspicious gaps | ✅ Confirmed |
@@ -1166,6 +1177,18 @@ Any other ending would be a lie. Eleanor can't forgive—her sister is dead. Jos
 5. Victim count inconsistency (TRUE count is 6 total, 5 dead, 1 survivor) - BUT NOTE: Josh refers to "five disappeared" in early chapters, which is Eleanor's focused investigation count (excluding Lily, her personal case).
 6. Wrong names (Kevin Chen not Marcus/Reid, Lily Ashford not Moore)
 7. Josh's age at mother's death anything other than 3
+8. **Eleanor watching for Josh's "recognition" or "memory"** - Predators watch for FEAR, not recognition. Investigators watch for recognition. This pattern was fixed in Session 6 (January 12, 2026).
+
+### Cross-Reference Document
+
+See **CHAPTER_MAP.md** for:
+- Chapter-by-chapter spoiler risk tracking
+- Specific line numbers where issues were found and fixed
+- Reader state tracking (what readers believe vs. know at each point)
+- Plants and payoffs by chapter
+- Consistency anchors (facts established per chapter)
+
+Use the Chapter Map for detailed audits. Use this Story Bible for rules and character reference.
 
 ---
 
@@ -1220,11 +1243,11 @@ Added 4 ambiguous symptoms spread across manuscript:
 
 ### New Scenes
 
-1. **Rachel Epilogue** - New scene after final chapter. Rachel visits Josh at the psychiatric facility six weeks after sentencing. She confronts him about how much was real, mentions Eleanor's package arrived. Provides closure for Rachel's character arc.
+1. **Rachel Epilogue** - ~~REMOVED~~ (January 2026). Introducing a peripheral character's POV in the final pages was disconnected from the Josh/Eleanor emotional arc. Epilogue now ends with Eleanor visiting Lily's grave.
 
 ### Orphaned Setup Payoffs (December 29, 2025)
 
-1. **Joshua Michaels Pseudonym Payoff** - Eleanor reveals she knew Josh's rental application name was fake before he arrived. Added to confrontation scene where she discusses the Marcus Webb signature.
+1. **Rental Application Irony Payoff** - Eleanor points out the irony of Josh (a true crime podcaster) applying to investigate a cold case at the exact location where he WAS the cold case. Added to confrontation scene.
 
 2. **Trunk Supplies/Kill Kit Explanation** - Eleanor explains the rope, plastic sheeting, shovel in her trunk were packed for "evidence collection, self-defense, or worse." Added after Josh asks "Why didn't you kill me?"
 
@@ -1235,3 +1258,146 @@ Added 4 ambiguous symptoms spread across manuscript:
 1. **Eleanor's Death Location** - Updated from "dies in cottage with Josh" to "dies in hospice with parents present" to match manuscript.
 
 2. **Burial Reference Removed** - Deleted "Josh buries Eleanor in eastern woods" since Josh is in psychiatric evaluation when she dies.
+
+### Consistency Audit Fixes (January 4, 2026)
+
+1. **Josh's Age Math Fixed** - Changed "midlife crisis at thirty" to "quarter-life crisis at twenty-nine" (line 1504). Math: born 1995 → age 3 in 1998 → age 29 in October 2024.
+
+2. **1998 Trauma Avoidance Strengthened** - Enhanced the visceral reaction when Josh reads the 1998 murder entry (line 828). Changed "I kept reading" to "My eyes kept sliding away from that line, and I let them. I moved on to 2003." Explains why a true crime journalist didn't investigate the murder that matches his mother's death year.
+
+3. **Eleanor's Eye Color Updated** - Changed from gray to pale green to match cover art. All references updated (January 2026).
+
+4. **Kevin Chen's Status Updated** - Changed "Graduate student. Runner. Or he was, before." to "Former graduate student. Former runner." (line 10203). More accurate 5+ years after attack and more impactful for victim statement.
+
+5. **Josh's Memory Fragment Softened** - Changed "I could feel her pulse under my thumbs" to "Pressure. Something alive becoming something that wasn't." (line 9374). Maintains "fragments only" rule for dissociative memory recovery.
+
+6. **Josh's Age Added to Story Bible** - Explicit age (29 in October 2024) added to Physical Description section to prevent future math errors.
+
+7. **Sarah Martinez Description Fixed** - Changed "Mother of two" to "Single mother" (line 10462). Only one daughter (Maria) appears at sentencing, and text already refers to "her daughter's soccer team" (singular).
+
+8. **Tower Architecture Fixed** - Changed "windows on all sides" to "tall windows facing outward on three sides" (line 605). A corner turret can't have windows on sides that adjoin the mansion.
+
+9. **Tower Room Logic Clarified** - Changed "But I'd seen the tower room" to "But I'd climbed to the tower room, which rose to this same level" (line 4762). Clarifies that the tower room IS at third-floor height, making Josh's structural logic valid.
+
+### Savvy Reader Audit Fixes (January 12, 2026)
+
+**Issue:** 33-agent chapter-by-chapter audit identified a "recognition-watching" pattern in Eleanor's POV. Eleanor repeatedly watched for Josh to REMEMBER things—investigator behavior that could tip off savvy readers.
+
+**Fixes Applied (6 total):**
+
+1. **Line 5997** - "Waited for recognition to crack through" → "Waited for the room to unsettle him"
+2. **Line 6009** - "No flicker of recognition" → "Just confusion in his face"
+3. **Line 7909** - "seems to recognize things he shouldn't" → "flinches at things he can't explain"
+4. **Line 7945** - "won't be able to hide what he really is" → "won't be able to resist what I need from him"
+5. **Line 10243** - "Recognition he couldn't place. Memory trying to surface." → "Unease he couldn't explain. Something dark stirring beneath the surface."
+6. **Line 10251** - "something in him recognized it" → "something in him was afraid"
+
+**Rationale:** Predators watch for FEAR/VULNERABILITY/OPPORTUNITY. Investigators watch for RECOGNITION/MEMORY. Eleanor must consistently read as predator in Acts 1-2.
+
+### 33-Agent Parallel Audit Fixes (January 16, 2026)
+
+**Issue:** Comprehensive 33-agent parallel audit identified multiple critical issues including factual errors, spoiler risks, and language pattern violations.
+
+**CRITICAL Fixes Applied:**
+
+1. **Oregon Death Penalty Error (Ch29)** - Oregon abolished the death penalty. Fixed three lines:
+   - Line 19215: "has the death penalty for aggravated murder" → "carries mandatory life without parole—or indefinite psychiatric commitment if you're found guilty but mentally ill"
+   - Line 19235: "The DA is going to want the death penalty" → "The DA is going to push for life without parole. Unless the psychiatric evaluation supports commitment instead."
+   - Line 19239: "I don't want to die" → "I'm not fighting for leniency"
+
+2. **Marcus/Josh Explicit Connection Removed (Ch20)** - Lines 12915-12919:
+   - Changed "Says he's a writer working on a book" → "Says he's working on some kind of project"
+   - Deleted "A writer. Like Josh." entirely - too explicit a connection
+
+3. **2-Year Surveillance Photo (Ch8, Ch12)** - Changed to recent, non-professional photos:
+   - Ch8 (Line 4745): "surveillance photo...at a coffee shop two years ago" → "a screenshot from his podcast, his face mid-sentence, captured in a moment where his charm looked like a mask"
+   - Ch12 (Line 7653): "surveillance photo...Portland book signing two years ago" → "photo...Portland book signing last spring, zoomed in from the crowd"
+
+**HIGH-SEVERITY Fixes Applied:**
+
+4. **"Building a case" Forbidden Phrase (Ch11, Line 6953)** - Josh confronting Eleanor:
+   - "Building a case like I'm some kind of suspect" → "Treating me like I'm some kind of threat"
+
+5. **"Case files" Investigator Language (Ch12, Line 7653)** - Eleanor's loft:
+   - "Case files I couldn't risk displaying downstairs" → "Things I couldn't risk displaying downstairs—photos, articles, everything that led me here"
+
+6. **Eleanor Investigator Language Pattern (Ch4, Ch6, Ch10, Ch16):**
+   - Ch4 (Line 2223): "cataloging details...He's looking for something" → "makes me uneasy. The intensity behind those eyes. He's hiding something"
+   - Ch6 (Line 3599): "I came here to finish something" → "I came here to destroy him"
+   - Ch10 (Line 6009): "Better that he stay blind to what I know" → "Better that he stay blind a while longer"
+   - Ch16 (Line 10231): "I needed to push him further. Keep him off balance" → "I wanted to push him further. Make him squirm"
+   - Ch16 (Line 10263): "Let his own fractured mind do the work" → "Let his own guilt consume him"
+   - Ch16 (Line 10271): "He was handing himself over to me. I showed him sympathy, promised to help him" → "He was surrendering to me. I held him, whispered promises"
+   - Ch16 (Line 10287): "He was almost ready" → "He was almost broken"
+
+7. **Josh "the killer" Self-Reference (Ch18, Line 11653):**
+   - "Not 'the killer.' Not 'the monster.' Not 'the case.'" → "Not 'the suspect.' Not 'the project.' Not 'the target.'"
+
+8. **Josh "investigator like me" (Ch15, Line 9381):**
+   - "An investigator like me would have checked for surveillance" → "A true crime writer like me would have noticed cameras"
+
+9. **Suspect Age Discrepancy (Ch19, Line 12043):**
+   - "Most estimated the suspect to be in his late forties or early fifties" → "Age estimates ranged wildly—anywhere from mid-thirties to early fifties"
+   - This broadens the range to include Josh's actual age (29) while maintaining witness unreliability
+
+**Previously Addressed in This Session:**
+
+10. **Rachel Backup Package (Ch27)** - Confirmed present in manuscript (added after line 18203)
+
+11. **Keystroke Logger Dialogue (Ch27)** - Confirmed present in manuscript (added after line 18035)
+
+**Verified Clean (No Fixes Needed):**
+- Victim count is consistent: 6 total (5 dead + Kevin Chen survivor)
+- Kevin Chen correctly in wheelchair at sentencing
+- Sarah Martinez correctly described as single mother
+- Eleanor dies with parents in hospice (not Josh)
+- Josh receives indefinite psychiatric commitment (not death penalty, not prison)
+
+### Codex Continuity Audit Fixes (January 24, 2026)
+
+**Issue:** Codex AI audit identified 9 continuity and plausibility issues in the manuscript.
+
+**Fixes Applied:**
+
+1. **Alias Contradiction Fixed (Ch23, Line 6951)**
+   - "I've never used an alias" → "I've never heard the name Marcus Webb"
+   - Rationale: Josh consciously used "Joshua Michaels" pseudonym; can't claim he never used aliases. Changed to deny knowledge of fugue-state alias specifically.
+
+2. **Eleanor's "Fake Name" Wording Fixed (Ch2, Line 338)**
+   - "My fake name. The one I'd chosen specifically because it was nothing like me." → "My fake last name. The one I'd chosen specifically because it was nothing like who I used to be."
+   - Rationale: Eleanor's real name is Eleanor Ashford; "Eleanor Moore" shares her real first name. Fixed to clarify only the last name is fake.
+
+3. **Timestamp Mismatch Fixed (Ch7, Line 1920)**
+   - "2:47 PM - subject took medication" → "7:23 AM - subject took medication"
+   - Rationale: Scene is clearly morning (Josh making coffee, breakfast time). Timestamp corrected to match narrative.
+
+4. **Guest Book Double-Discovery Fixed (Ch9, Line 2670)**
+   - "A few days later, I found the guest book" → "A few days later, I pulled out the guest book again"
+   - Added reference to already photographing torn pages
+   - Rationale: Josh discovered the guest book earlier in the same chapter; second reference now reads as re-examination.
+
+5. **Footage Identification Gap Filled (Ch26, after Line 8601)**
+   - Added new passage explaining why police couldn't identify Josh from footage:
+     - Facial recognition returned empty (no criminal/military database matches)
+     - Physical appearance changed (beard, haircut, muscle)
+     - Composite sketches from witnesses were inaccurate
+   - Rationale: Clear footage of Josh needed explanation for why police search failed.
+
+6. **Police Dismissal Justification Added (Ch26, after Line 8601)**
+   - Added Eleanor's explanation: went to police twice (2022, 2023), was dismissed as grief-stricken woman with circumstantial evidence
+   - Combined with Issue #5 into single cohesive passage
+   - Rationale: Eleanor's 2+ year private investigation needed justification for not going through official channels.
+
+7. **Lock Mechanism Clarified (Ch20, Lines 6435 & 6673)**
+   - "The padlock's combination... The trapdoor opened" → "The deadbolt at the top opened with a twist... crossed to the inner door... Its combination lock"
+   - "Locked the trapdoor" → "Locked both doors behind me"
+   - Rationale: Josh sees a deadbolt; Eleanor uses a combination lock. Fixed to show two-door system (deadbolt on loft access, combo lock on inner evidence room).
+
+8. **Chapter 6 Date Transition Clarified (Ch6, Line 1783)**
+   - Added "The clock on the wall reads 2:17 AM" before journal entry dated November 8
+   - Rationale: Chapter header says November 7, journal entry says November 8. Clock clarifies scene crosses midnight.
+
+9. **Encoding Artifacts Fixed (Global)**
+   - All instances of "ΓÇö" replaced with proper em dash "—"
+   - Affected lines: 517, 2041, 4663, 9699 (and any others)
+   - Rationale: Character encoding corruption from file conversion.

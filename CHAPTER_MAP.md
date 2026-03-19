@@ -157,7 +157,7 @@ The final confrontation. Josh nearly has another fugue episode but fights it off
 Josh in a holding cell. His public defender arrives. Josh insists on pleading guilty to all six counts—five murders, one attempted murder. He doesn't want leniency. He wants to be locked away forever.
 
 ### Chapter 30: STILLNESS
-**March 16 | Eleanor**
+**March 17 | Eleanor**
 Eleanor in hospice. Her parents arrive. She explains what she did. The brain tumor is terminal—weeks left. Lily's case is officially closed.
 
 ### Chapter 31: EVALUATION

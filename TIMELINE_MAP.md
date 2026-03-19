@@ -12,12 +12,12 @@
 | 6 | 1650 | Nov 7 | Eleanor | FIRELIGHT | First intimacy |
 | — | 1819 | Nov 8, 2 AM | Josh | (continued) | Josh sees Eleanor in woods at night |
 | 7 | 1861 | Nov 8 | Josh | THE JOURNAL | Josh's investigation continues |
-| 8 | 2245 | Nov 8, Evening | Eleanor | SURRENDER | Eleanor's response to intimacy |
-| 9 | 2396 | Nov 9-14 | Josh | CROSSING LINES | Investigation deepens; Thursday discovery |
-| 10 | 2959 | Nov 14 | Eleanor | THE COST | Eleanor's internal conflict |
-| 11 | 3038 | Nov 15-17 | Josh | FRACTURES | Roads close, trapped for winter |
-| 12 | 3707 | Dec 10 | Eleanor (mixed POV) | THE LIBRARY | 25-day gap; winter isolation deepens |
-| 13 | 4180 | Dec 10 | Josh | THE DISCOVERY | Same day as Eleanor's Ch 12 |
+| 8 | 2243 | Nov 8, Evening | Eleanor | SURRENDER | Eleanor's response to intimacy |
+| 9 | 2394 | Nov 9-14 | Josh | CROSSING LINES | Investigation deepens; Thursday discovery |
+| 10 | 2957 | Nov 14 | Eleanor | THE COST | Eleanor's internal conflict |
+| 11 | 3036 | Nov 15-17 | Josh | FRACTURES | Roads close, trapped for winter |
+| 12 | 3705 | Dec 10 | Eleanor (mixed POV) | THE LIBRARY | 25-day gap; winter isolation deepens |
+| 13 | 4178 | Dec 10 | Josh | THE DISCOVERY | Same day as Eleanor's Ch 12 |
 | 14 | 4573 | Dec 12 | Eleanor | VULNERABILITY | Eleanor's deterioration hints |
 | 15 | 4672 | Dec 14-19 | Josh | SURVEILLANCE | Multi-day span; Josh finds cameras |
 | 16 | 5169 | Dec 17 | Eleanor | EXPOSURE | Eleanor's perspective on being watched |
@@ -27,19 +27,19 @@
 | 20 | 6400 | Dec 27, 3:47 AM | Eleanor | PREPARATION | Eleanor prepares for confrontation |
 | 21 | 6664 | Jan-Feb 2025 | Josh | BLANK SPACES | Transition chapter |
 | 22 | 6771 | Jan-Feb 2025 | Eleanor | CERTAINTY | Building to confrontation |
-| 23 | 6846 | Feb 28, 5:17 AM | Josh | TWELVE HOURS | Day of confrontation begins |
-| 24 | 7469 | Feb 28 | Eleanor | THE BARRICADE | Eleanor forces confrontation |
-| 25 | 7850 | Feb 28 | Josh | THE BOXES | **REVEAL #4** - Josh sees evidence; Eleanor confirms he's Marcus Webb |
-| 26 | 8243 | Mar 1, 2:00 AM | Eleanor | THE REVELATION | **REVEALS #1-3** - Pills are cancer meds, Eleanor is dying, Lily is her sister |
-| 27 | 8768 | Mar 2 | Josh | THE PHOTOGRAPH | Josh processes truth; **REVEAL #5** - Mother killed at Thornewood |
-| 28 | 9305 | Mar 15, Evening | Eleanor | CONFESSION | Josh's recorded confession |
-| 29 | 9696 | Mar 16 | Josh | BRIDGE | Transition; Eleanor deteriorating |
-| 30 | 9821 | Mar 17 | Eleanor | STILLNESS | Eleanor with her parents |
-| 31 | 9924 | Mar 19 | Josh | EVALUATION | Psychiatric evaluation |
-| 32 | 9983 | Apr 3 | Eleanor | FINAL DAY | **Eleanor dies** |
-| 33 | 10134 | Apr 8 / Jun 15 | Josh | JUDGMENT | Arraignment (Apr 8); sentencing hearing (Jun 15) |
-| — | 10361 | Mar 29, 2025 | Eleanor | EPILOGUE Pt 1 | Five days before Eleanor's death; visits Lily's grave |
-| — | 10439+ | Sep 2025 | Josh | EPILOGUE Pt 2 | Psychiatric facility; names victims nightly; "Forever." |
+| 23 | 6848 | Feb 28, 5:17 AM | Josh | TWELVE HOURS | Day of confrontation begins |
+| 24 | 7471 | Feb 28 | Eleanor | THE BARRICADE | Eleanor forces confrontation |
+| 25 | 7852 | Feb 28 | Josh | THE BOXES | **REVEAL #4** - Josh sees evidence; Eleanor confirms he's Marcus Webb |
+| 26 | 8217 | Mar 1, 2:00 AM | Eleanor | THE REVELATION | **REVEALS #1-3** - Pills are cancer meds, Eleanor is dying, Lily is her sister |
+| 27 | 8750 | Mar 2 | Josh | THE PHOTOGRAPH | Josh processes truth; **REVEAL #5** - Mother killed at Thornewood |
+| 28 | 9287 | Mar 15, Evening | Eleanor | CONFESSION | Josh's recorded confession |
+| 29 | 9678 | Mar 16 | Josh | BRIDGE | Transition; Eleanor deteriorating |
+| 30 | 9803 | Mar 17 | Eleanor | STILLNESS | Eleanor with her parents |
+| 31 | 9906 | Mar 19 | Josh | EVALUATION | Psychiatric evaluation |
+| 32 | 9965 | Apr 3 | Eleanor | FINAL DAY | **Eleanor dies** |
+| 33 | 10116 | Apr 8 / Jun 15 | Josh | JUDGMENT | Arraignment (Apr 8); sentencing hearing (Jun 15) |
+| — | 10343 | Mar 29, 2025 | Eleanor | EPILOGUE Pt 1 | Five days before Eleanor's death; visits Lily's grave |
+| — | 10441+ | Sep 2025 | Josh | EPILOGUE Pt 2 | Psychiatric facility; names victims nightly; "Forever." |
 
 ---
 

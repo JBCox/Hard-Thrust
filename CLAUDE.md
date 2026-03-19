@@ -60,9 +60,9 @@ Each agent reports: line numbers, severity (CRITICAL/HIGH/MEDIUM/LOW), suggested
 ## Chapter Boundary References
 
 Key line-number landmarks in `FULL_MANUSCRIPT.txt`:
-- Ch 25 starts ~line 7850 (Marcus Webb reveal)
-- Ch 26 starts ~line 8243 (illness/sister reveals)
-- Ch 27 starts ~line 8768 (mother reveal)
+- Ch 25 starts ~line 7852 (Marcus Webb reveal)
+- Ch 26 starts ~line 8217 (illness/sister reveals)
+- Ch 27 starts ~line 8750 (mother reveal)
 
 **Note:** Both Josh and Eleanor chapters use first-person narration. Some chapters (e.g., Ch 6, Ch 12) have mixed-POV sections with explicit markers.
 
