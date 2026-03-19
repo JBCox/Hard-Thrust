@@ -368,7 +368,7 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 |---|------|------|--------|-------|
 | 1 | Sarah Martinez | Oct 2019 | Dead | First recent victim |
 | 2 | Kevin Chen | Nov 2019 | SURVIVED | Only survivor, age 28 at attack (34 at 2025 sentencing), uses wheelchair due to spinal damage |
-| 3 | Lily Ashford | Feb 2020 | Dead | Eleanor's sister, central case |
+| 3 | Lily Ashford | Feb 2020 | Dead | Eleanor's sister, central case. Age 22, blonde hair, bright smile (per news photo at L2009). Environmental science student. |
 | 4 | Jennifer Wallace | May 2020 | Dead | Teacher |
 | 5 | Robert Fischer | Jan 2021 | Dead | Trail volunteer, 56, retired postal worker. Husband (20 yrs together), three grandchildren |
 | 6 | David Park | Aug 2022 | Dead | Most recent, 38, software engineer. Boyfriend; parents speak Korean |
