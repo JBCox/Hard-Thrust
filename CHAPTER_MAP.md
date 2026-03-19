@@ -106,7 +106,7 @@ While Eleanor is away, Josh breaks into her cottage and finds her investigation 
 
 ### Chapter 20: PREPARATION
 **Dec 27, 3:47 AM | Eleanor**
-Eleanor can't sleep. She reviews her evidence, her purpose. Reflects on abandoning her old life for this obsession. Soon she'll have to tell Josh the truth. Running out of time and nerve.
+Eleanor can't sleep. She reviews her evidence, her purpose. Reflects on abandoning her old life for this obsession. Writes in her notebook about the impossible position — loving the man she came to destroy. Soon she'll have to tell Josh the truth. Running out of time and nerve. (Trimmed Mar 19 2026: removed ~80 lines of repetitive internal debate that rehashed the love-vs-mission conflict without new progression.)
 
 ### Chapter 21: BLANK SPACES
 **January 8 & February 4, 2025 | Josh**
