@@ -506,7 +506,7 @@ And access.
 
 I sipped the coffee and let myself think through why I was really here.
 
-Thornewood Estate. Four years ago, a young woman had been murdered on these grounds. The case had never been solved. The victim's identity had been withheld from official reports to protect the family's privacy—some forums and amateur sleuths had found the first name, but the full details had been kept out of official coverage. The case information was sparse, carefully controlled.
+Thornewood Estate. Nearly five years ago, a young woman had been murdered on these grounds. The case had never been solved. The victim's identity had been withheld from official reports to protect the family's privacy—some forums and amateur sleuths had found the first name, but the full details had been kept out of official coverage. The case information was sparse, carefully controlled.
 
 But the location wasn't private. Thornewood Estate. Public record. And anyone who Googled "Thornewood Estate Oregon" would find the headlines: "Body Found at Remote Estate." "Murder at Historic Oregon Mansion." "Case Remains Unsolved After Four Years."
 
@@ -602,7 +602,7 @@ The door was narrower than the others, the stairs beyond steep and winding. I cl
 
 From this vantage point, her front yard lay directly below. She was stepping out onto her porch with a steaming mug. Coffee, probably. She looked up—not at the tower exactly, but in the general direction of the mansion—and I stepped back from the window.
 
-She went back inside. Through the cottage window, movement—Eleanor at her kitchen table. She pulled out a pill bottle, shook two—no, three—pills into her palm. Then she set them on the table and used the back of a spoon to crush them into powder.
+She went back inside. I grabbed my DSLR from the desk and zoomed in through the cottage window. Eleanor at her kitchen table. She pulled out a pill bottle, shook two—no, three—pills into her palm. Then she set them on the table and used the back of a spoon to crush them into powder.
 
   I watched, unable to look away. She scraped the powder into something I couldn't see from this angle—a glass, maybe, or a small container.
 
@@ -757,7 +757,7 @@ Eleanor's expression didn't change, but her posture shifted. Became more alert. 
 
 It was a plausible explanation. Too plausible. Rehearsed.
 
-"Is that what happened to the young woman who was killed here four years ago? The one they found in the woods?"
+"Is that what happened to the young woman who was killed here? Back in 2020? The one they found in the woods?"
 
 The question hung in the air between us. Eleanor's expression didn't change, but her eyes shifted. Wariness. Calculation.
 
@@ -1347,7 +1347,7 @@ Opened my laptop. Read through my notes. I'd found three names in the guest book
 
 Not moved. Not relocated. Vanished. The kind of disappearance that doesn't happen by accident.
 
-The most recent case was what brought me here. A young woman, four years ago during winter. The details were sparse in the public record—the family had requested privacy, and the local paper had respected it. She'd been staying at Thornewood for the winter. Reported missing after she stopped responding to calls. The initial search had been cursory. Adult, no signs of foul play, probably just moved on. Case initially closed. But three months later, remains were discovered on the grounds. Cause of death: strangulation. Homicide investigation opened. No suspects. Case went cold.
+The most recent case was what brought me here. A young woman, almost five years ago during winter. The details were sparse in the public record—the family had requested privacy, and the local paper had respected it. She'd been staying at Thornewood for the winter. Reported missing after she stopped responding to calls. The initial search had been cursory. Adult, no signs of foul play, probably just moved on. Case initially closed. But three months later, remains were discovered on the grounds. Cause of death: strangulation. Homicide investigation opened. No suspects. Case went cold.
 
 But I'd found journal entries online, archived blog posts about coming to Thornewood. About how perfect it was. About the isolation. About being watched.
 
@@ -1867,7 +1867,7 @@ I woke to the smell of coffee and the memory of her lips.
 
 November had arrived—though I couldn't quite say when. The days since my arrival had started blurring together, meals and research and glimpses of Eleanor, the boundaries between them growing soft. I tried to count backward and couldn't quite pin down which day was which. November 8th, my phone said. Had it really been over two weeks already?
 
-The kitchen. Last night. Not like the first time, weeks ago, when she'd kissed me and I'd kissed her back and we'd both pretended it was the wine. This was different. This was the kiss that had stopped the world and restarted it spinning in a different direction. Eleanor's hand in my hair, the sharp inhale when I'd pulled her closer, the way she'd tasted like wine and darkness, an edge I couldn't name.
+The kitchen. Last night. Not like the first time, just days ago, when she'd kissed me and I'd kissed her back and we'd both pretended it was the wine. This was different. This was the kiss that had stopped the world and restarted it spinning in a different direction. Eleanor's hand in my hair, the sharp inhale when I'd pulled her closer, the way she'd tasted like wine and darkness, an edge I couldn't name.
 
 The way she'd fled.
 
@@ -1994,7 +1994,7 @@ I rubbed my eyes. The coffee had gone cold. I checked the time: 1:47 PM.
 
 The research had consumed me completely—hours of work, though I couldn't swear I'd been in this chair the whole time. I needed to take better breaks. Get outside more. The stress of the investigation combined with poor sleep was making me less sharp than I needed to be.
 
-The laptop screen had gone dark. I touched the trackpad, my hand still shaking. The document open wasn't the victim files. It was a browser window showing a news article from four years ago: *Body Found at Thornewood Estate - Investigation Ongoing*.
+The laptop screen had gone dark. I touched the trackpad, my hand still shaking. The document open wasn't the victim files. It was a browser window showing a news article from early 2020: *Body Found at Thornewood Estate - Investigation Ongoing*.
 
 Had I opened this? Or had she been in here using my computer, planting ideas?
 
@@ -2002,7 +2002,7 @@ The victim from 2020. The only body ever recovered on the grounds.
 
 The article was already open on my screen—I'd read it before, weeks ago, part of my initial research.
 
-The article described the discovery: hikers had found the body in a shallow grave in the woods near the estate, off an old logging trail. The victim had been missing for nearly three months before her remains were found. The autopsy showed evidence of strangulation, signs of a struggle, time of death estimated at late evening in winter, four years ago.
+The article described the discovery: hikers had found the body in a shallow grave in the woods near the estate, off an old logging trail. The victim had been missing for nearly three months before her remains were found. The autopsy showed evidence of strangulation, signs of a struggle, time of death estimated at late evening in winter 2020.
 
 That case nagged at me.
 
@@ -2112,7 +2112,7 @@ She turned to go.
 
 Finally she turned. Looked at me with eyes that held pain I couldn't read. Sadness. Anger. Grief.
 
-"What I want doesn't matter," she said. "A woman died here four years ago. That's horrible. But I didn't know her and I can't help you investigate her death. So please just drop it."
+"What I want doesn't matter," she said. "A woman died here almost five years ago. That's horrible. But I didn't know her and I can't help you investigate her death. So please just drop it."
 
 "I'm sorry," I said, and meant it. "I didn't mean to push."
 
@@ -2719,7 +2719,7 @@ The guest book sat in the drawer. After eating, I pulled it out again.
 
 Just old records. Nothing suspicious. I flipped through the pages more carefully this time. Names and dates. Signatures in various hands—some careful and precise, others scrawled quickly.
 
-I turned to winter four years ago. The timeframe when the victim had disappeared.
+I turned to winter 2020. The timeframe when the victim had disappeared.
 
 My fingers stopped.
 
@@ -2822,7 +2822,7 @@ I'd stared at that photo for a few moments while the clerk rang up firewood supp
 
 Now I sat at that desk, 12:17 AM according to my laptop, trying to make sense of the impossible.
 
-I pulled up my calendar archives, email history, anything that would show where I'd been four years ago.
+I pulled up my calendar archives, email history, anything that would show where I'd been in early 2020.
 
 Sparse. A handful of emails sent from my phone, locations unavailable. A few credit card charges in Oregon. Almost no photos. No social media posts. No article bylines.
 
@@ -2842,7 +2842,7 @@ Finally: **Found some things. Need to think.**
 
 **What things?**
 
-**Evidence I might have been here before. Four years ago.**
+**Evidence I might have been here before. In 2020.**
 
 The three dots appeared. Disappeared. Appeared again. Five minutes of typing and deleting.
 
@@ -3999,7 +3999,7 @@ Her response came five minutes later: *Okay. Sleep well.*
 
 Like nothing was wrong. Like she wasn't up there in her locked room, planning god knows what.
 
-I looked at my investigation materials spread across the library table. Six cases. Six people who'd been at or near Thornewood. And nothing connecting them except the place itself.
+I looked at my investigation materials spread across the library table. Six cases. Six people who'd disappeared or died in the wider region. And nothing connecting them except the Cascade wilderness corridor.
 
 And Eleanor, who'd said someone would "never see it coming."
 
@@ -4348,7 +4348,7 @@ I lean back against the stone hearth, the residual warmth against my back. "Beca
 
 Eleanor shifts closer, her shoulder against mine. We sit in comfortable silence for a while, watching the fire die.
 
-"My mother was murdered when I was three," I say finally. Words I rarely share. "I don't remember any of it. Foster care after that, then the Caines adopted me. They were good people. Gave me a real childhood. But I always wondered what happened to her—who did it, why. That's when I started investigating other people's tragedies. Easier than facing my own, I guess."
+"You know about my childhood," I say finally. "My mother. The foster care." I stare into the embers. "That's why I do this. Investigating other people's tragedies is easier than facing my own, I guess."
 
 "I'm sorry."
 
@@ -4694,15 +4694,15 @@ The question sounds concerned on first viewing. By the third, I recognize the in
 
 I make notes in a new document titled simply "Evidence." My fingers hover over the keyboard, then I type: *E has been tracking my movements. Documenting my patterns. Using my vulnerability against me.*
 
-But was I imagining this? That was the question that kept circling.
+But am I imagining this? That's the question that keeps circling.
 
-I needed more proof. More evidence before I could be sure.
+I need more proof. More evidence before I can be sure.
 
-I pulled up my system files, checking for anything unusual. It was paranoia, probably. But the drugging, the evasiveness, the way she watched me sometimes—maybe there was more I was missing.
+I pull up my system files, checking for anything unusual. It's paranoia, probably. But the drugging, the evasiveness, the way she watches me sometimes—maybe there's more I'm missing.
 
-The keystroke logger was small. Nearly invisible code buried in my system files. I wouldn't have found it if I hadn't been specifically looking, if I hadn't been paranoid enough to run a deep scan.
+The keystroke logger is small. Nearly invisible code buried in my system files. I wouldn't have found it if I hadn't been specifically looking, if I hadn't been paranoid enough to run a deep scan.
 
-But there it was.
+But there it is.
 
 A program recording every key I typed. Every search query. Every email to Rachel. Every journal entry in the private files I thought were safe. Every password. Every thought I'd committed to digital text.
 
@@ -4734,6 +4734,8 @@ Clean. Either it wasn't compromised or it was hidden better than I could find.
 
 If someone had been monitoring me—for how long?—what had I done to warrant that level of surveillance?
 
+---
+
 The library is cold despite the fire I've built. December wind rattles the tall windows. I'm on my fourth coffee, hands shaking from caffeine and lack of sleep. The footage plays on my laptop screen—multiple windows showing different camera angles, different days, a grid of Eleanor Moore performing her role.
 
 Because it has to be a role. Everything points to her manipulation—the forged signature, the planted photos, the systematic gaslighting. She's trying to make me doubt my own mind, my own perceptions. Classic psychological warfare.
@@ -4742,15 +4744,9 @@ The alternative—that I'm losing my grip on reality, that something's genuinely
 
 I scrub through footage from two weeks ago. Eleanor cooking dinner in the cottage, unaware of the camera I'd hidden in the decorative wooden beam. She moves efficiently, chopping vegetables with practiced precision. Nothing suspicious. Nothing revealing.
 
-Then her hand trembles. She has to grip the knife with both hands to finish cutting the onion.
+Then she stops. Sets the knife down. Goes to the window and stares out at the mansion for a long moment—checking if my lights are on, I realize. Making sure I'm inside before she continues whatever she's doing.
 
-I pause the footage. Rewind. Watch it again.
-
-The tremor lasts three seconds. She clenches her fist, shakes it off, and goes back to cooking.
-
-Stress? Fear? Or exhaustion?
-
-I add it to my notes: *Physical symptoms: hand tremor. Stress? Sleep deprivation? Something she's hiding?*
+I add it to my notes: *Keeps checking mansion windows. Watching for me? Or watching for someone else?*
 
 By noon, I've reviewed eighteen hours of footage and learned nothing conclusive. Eleanor chops wood, tends the greenhouse, reads on her cottage porch. Sometimes she stares at nothing for long minutes, her face blank in a way that suggests deep thought or deep exhaustion.
 
@@ -4992,7 +4988,7 @@ Morning brings the sound of wood splitting. I know without looking that it's Ele
 
 She's working harder than necessary, bringing the maul down with force that's almost violent. Therapeutic chopping, I recognize—working out frustration or fear through physical labor.
 
-But something's off. After each swing, she pauses longer than she should—bracing herself, resetting her stance. Once, she stops entirely, staring at something in the tree line, then shakes it off and continues.
+But something's off. After each swing, she pauses and scans the perimeter—the tree line, the mansion, the access road. Once, she stops entirely, staring at something in the woods that I can't see, then shakes it off and continues.
 
 She finishes her woodcutting earlier than usual and heads back toward the cottage, walking slower than her normal pace. I should go back to reviewing footage, but instinct makes me stay at the window.
 
@@ -5152,7 +5148,7 @@ Was she awake too? Watching feeds of me? Cataloging this breakdown?
 
 Or was she simply lying awake in her own bed, haunted by whatever secrets she carried?
 
-I lay awake until dawn, listening to the wind in the pines, watching that single light in the cottage window. Wondering which version of Eleanor Moore was real. The warm groundskeeper who'd shown me the greenhouse with genuine pride. The cold manipulator who'd drawn out my secrets so intently. The vulnerable woman whose hand was failing. The potential killer who might be playing an elaborate game.
+I lay awake until dawn, listening to the wind in the pines, watching that single light in the cottage window. Wondering which version of Eleanor Moore was real. The warm groundskeeper who'd shown me the greenhouse with genuine pride. The cold manipulator who'd drawn out my secrets so intently. The vulnerable woman who wept over buried boxes. The potential killer who might be playing an elaborate game.
 
 And terrified that I wanted her either way.
 
@@ -5203,7 +5199,7 @@ This was the moment that mattered. "Because I'm scared," I said. "After what hap
 
 The word landed between us. *Victim.* He was digging closer. I needed to redirect him before he found something I couldn't explain. I kept my face neutral.
 
-"No," I lied smoothly. "But it happened on my property. That makes you my responsibility."
+"No," I lied smoothly. "But it happened here. On this property. That makes you my responsibility."
 
 He didn't believe me. "Who was the victim to you, Eleanor?"
 
@@ -5251,7 +5247,7 @@ Then I reviewed the footage from the tower room. Watched his face when he saw th
 
 He was almost broken. But he was also coming apart faster than I'd expected. I couldn't wait much longer. Winter wouldn't last forever. The roads would reopen. Time was running short.
 
-Seven days. I would give it seven days. Then, I would initiate the end game. One way or another.
+Seven days. That was all the patience I had left. Then I'd take what I needed from him. One way or another.
 
 ---
 
@@ -5402,7 +5398,7 @@ My laptop sat on the library desk. I'd been avoiding it all day. But when I hear
 **TO:** JoshCaine@ProtonMail.com
 **FROM:** DerekHayes@TrueCrimeWeekly.com
 **SUBJECT:** RE: Pages (finally)
-**DATE:** December 22, 11:03 PM
+**DATE:** December 21, 11:03 PM
 
 Josh—
 
@@ -5474,7 +5470,7 @@ She looked up from her plate. "Okay."
 
 Eleanor set down her fork. "What did you tell him?"
 
-"That I researched it. But Eleanor, I didn't. I wrote it. Like I was remembering." I met her eyes. "I grew up around violence. Witnessed things as a kid that... those memories don't go away. They surface when I write. That's all Derek is seeing—trauma memory, not experience."
+"That I researched it. But Eleanor, I didn't research any of it. It just... poured out. Like something I'd absorbed without knowing when or how." I met her eyes. "I grew up around violence. Witnessed things as a kid that... those memories don't go away. They surface when I write. That's all Derek is seeing—trauma bleeding through, not experience."
 
 "You lost your mother young. You told me that. Childhood trauma—"
 
@@ -5520,7 +5516,7 @@ My blood turned to ice. "Generic crime scene details. Thousands of murders happe
 
 "Because you told me. Maybe not directly. But you've been describing the case, asking leading questions, watching how I respond. You even admitted you've been watching me on surveillance cameras. How many conversations did I forget? How many times did you talk about these details while I was half-asleep or drinking?"
 
-"That's not—" Her voice hardened. "You came here for a reason. Even if you don't remember what it is. And four years ago, someone else was here too."
+"That's not—" Her voice hardened. "You came here for a reason. Even if you don't remember what it is. And nearly five years ago, someone else was here too."
 
 "No. I came here to investigate you."
 
@@ -6185,7 +6181,7 @@ The photos were dated. Going back two years.
 
 Two years.
 
-She'd been stalking me since 2023. Long before I'd ever heard of Thornewood.
+She'd been stalking me since at least 2022. Long before I'd ever heard of Thornewood.
 
 My throat closed. I flipped through the photos with numb fingers. Me leaving my apartment in Portland. Me at a coffee shop. Me at Powell's bookstore. Me walking across the Portland State campus.
 
@@ -6408,7 +6404,7 @@ I didn't know how much longer I could keep this up. The waiting. The watching. T
 
 And I still hadn't finished what I came here to do.
 
-I gave up on sleep and climbed the ladder to the loft. I stepped onto the loft floor and crossed to the locked door, the one that led to my locked room. I pulled the key from the chain around my neck. The lock turned with a familiar click.
+I gave up on sleep and climbed the ladder to the loft. I stepped onto the loft floor and crossed to the locked door, the one that led to my locked room. I pulled the key from the chain around my neck, turned the deadbolt, then worked the combination on the padlock and pushed through the inner door.
 
 I flipped the light switch. Fluorescent bulbs flickered to life, washing everything in cold white light.
 
@@ -6468,7 +6464,7 @@ What if the man sitting across from me at dinner was hiding something darker tha
 
 I went through what I'd gathered.
 
-Everything I'd collected over the months. All the pieces I'd been trying to fit together. Questions I'd been asking myself over and over.
+Everything I'd collected over the months. All the leverage I'd been assembling. Questions that kept circling.
 
 I'd gone over it so many times. Looking for the weakness. The detail that would crack him open. The one piece I could hold up to his face and watch him crumble.
 
@@ -6582,7 +6578,7 @@ I sat on the floor surrounded by months of obsession. Everything I'd sacrificed 
 
 Now it was time to use it.
 
-And maybe—maybe—he'd react in a way that made this easier. That confirmed what I already believed. That let me stop second-guessing and finally act.
+And maybe—maybe—he'd react in a way that made this easier. That proved he was exactly what I suspected. That let me stop second-guessing and finally act.
 
 Or maybe he'd make it harder. Maybe he'd look at me with those confused, trusting eyes and I'd have to do it anyway.
 
@@ -6790,8 +6786,6 @@ He had no idea what I was planning. No idea why I was really here.
 And now I understood him differently. A new piece of the puzzle. The reason he kept coming back to this place.
 
 I went to the loft. Looked at the boxes. The files. Everything I'd been collecting.
-
-The woman in his photo. Something about her unsettled me. The vulnerability of it—him as a toddler, reaching for a woman he'd never see again. It was useful. Another vulnerability I could exploit.
 
 His past. Whatever happened to drive him here. Whatever wound kept pulling him back to this godforsaken place.
 
@@ -8445,9 +8439,9 @@ I click play.
 
 ---
 
-The video opens on the library. Black and white, high angle, timestamp in the corner: **February 18, 2020, 8:43 PM**.
+The video opens on the library. Black and white, high angle, grainy—the image flickers and warps, corrupted at the edges. Timestamp in the corner: **February 18, 2020, 8:43 PM**.
 
-The library looks the same as it does now. Same bookshelves, same leather furniture, same fireplace. But the fire is out. Cold. The room is empty.
+Through the static, the library looks the same as it does now. Same bookshelves, same leather furniture, same fireplace. But the fire is out. Cold. The room is empty.
 
 Josh is staring at the screen, barely breathing.
 
@@ -8471,7 +8465,7 @@ Josh makes a sound. Not quite a word. More like a wounded animal.
 
 Because the man on the screen is him.
 
-Same face. Same build. Same copper hair, though slightly longer than he wears it now. Same eyes. But everything is different. The way he moves. Fluid. Purposeful. Predatory.
+The resolution is terrible—pixelated, washed out—but Josh knows his own body. Same build. Same height. Same way of holding his shoulders. The hair could be copper, could be brown, impossible to tell in the grain. But everything else is different. The way he moves. Fluid. Purposeful. Predatory.
 
 The man—Josh but not Josh—approaches the woman. She looks up. Smiles. Says something—no audio, just the image of her lips moving. A greeting. A question about his day.
 
@@ -8561,11 +8555,11 @@ Third clip. "Episode seventy-one. You use the phrase 'the way the light falls th
 
 Josh is shaking his head. "Those are coincidences. Research details. I read articles, I study crime scenes from public records—"
 
-"You also attacked me." The words stop him cold. "February 4th. Three AM. You broke into my cottage during a fugue state. You put your hands on my throat, Josh. You stopped yourself. Blinked. Walked out like nothing had happened. You left bruises on my arms that took two weeks to fade. And the next morning, you had no memory of it. None. You asked me about the bruise on my arm like a concerned boyfriend. That's when I knew for certain. Not from podcast slips or travel records or handwriting analysis. From your hands on my neck in the dark."
+"You also attacked me." The words stop him cold. "February 4th. Three AM. You broke into my cottage during a fugue state. You put your hands on my throat, Josh. You stopped yourself. Blinked. Walked out like nothing had happened. You left a bruise on my arm that took two weeks to fade. And the next morning, you had no memory of it. None. You asked me about the bruise on my arm like a concerned boyfriend. That's when I knew for certain. Not from podcast slips or travel records or handwriting analysis. From your hands on my neck in the dark."
 
 I gesture at the frozen image on the laptop. "They had security footage of Marcus Webb. But Marcus Webb is a ghost—no birth certificate, no criminal record, no military service, nothing in any database. Facial recognition came back empty because the original camera was 720p at best, corrupted by a power surge, timestamp scrambled. The county forensics lab said the file was too degraded for reliable enhancement."
 
-"And Josh Caine, charming true crime podcaster, didn't exactly match the grainy figure on a five-year-old security tape. You grew a beard. Cut your hair differently. Put on muscle. The composite sketch witnesses gave made you look ten years older and fifty pounds heavier." I shake my head. "Without clear footage or a database match, it was just a grieving sister with a conspiracy theory. People see what they expect to see. No one expected a writer to be a killer."
+"And Josh Caine, charming true crime podcaster, didn't exactly match the grainy figure on a five-year-old security tape. You grew a beard. Cut your hair differently. Put on muscle. The man in that footage could have been anyone—and that's exactly what police concluded." I shake my head. "Without clear footage or a database match, it was just a grieving sister with a conspiracy theory. People see what they expect to see. No one expected a writer to be a killer."
 
 ---
 
@@ -9136,15 +9130,15 @@ Eleanor looks at me for a long moment. Then she nods. Gathers the documents. Beg
 
 She walks me through it. Morning: Lily made breakfast. Her journal was on the counter—she'd been planning to write about the greenhouse work later that evening.
 
-Mid-morning: Lily and Marcus—me, the other me—began winterizing the greenhouse together. Heavy equipment. Cold. Hours of physical labor side by side.
+Mid-morning: Lily and Marcus—me, the other me—began clearing deadfall from the eastern trail together. Heavy equipment. Cold. Hours of physical labor side by side.
 
 "Sometime between eleven and one, something changed," Eleanor says quietly. "I don't know what. Stress, maybe. The isolation. The intimacy of working closely with someone friendly and trusting. Whatever it was, it flipped a switch. Marcus disappeared. And whoever took his place..."
 
 She doesn't finish the sentence. Doesn't need to.
 
-Afternoon: Lily went to the library. Maybe for a reference book about plants, maybe just to warm up. The killer followed. The attack was quick but not instantaneous. Four minutes. Long enough for her to understand what was happening. Not long enough to escape.
+Evening: Lily went to the library. Maybe for a reference book about plants, maybe just to warm up. The killer followed. The attack was quick but not instantaneous. Four minutes. Long enough for her to understand what was happening. Not long enough to escape.
 
-Evening into night: The killer disposed of evidence. Moved her body to the woods. Cleaned the crime scene. Efficient. Methodical. No panic.
+Night: The killer disposed of evidence. Moved her body to the woods. Cleaned the crime scene. Efficient. Methodical. No panic.
 
 "February 19 through 21, you stayed," Eleanor continues. "Wrote in Lily's journal—erratic entries about 'staying focused' and 'controlling the narrative' and 'can't let them see.'" She shows me the pages. My handwriting. But not my thoughts. Someone else's thoughts in my hand.
 
@@ -9716,7 +9710,7 @@ He stops. Looks at me. "Mr. Caine, I haven't even outlined the charges yet."
 
 "You haven't been formally—"
 
-"I attacked six people." My voice is flat. Strange. Like I'm reading from a script. "Sarah Martinez. Kevin Chen—he survived. Jennifer Wallace. Lily Ashford. Robert Fischer. David Park. Five died and one survived, and I'm guilty of all of it. I'll plead guilty to everything."
+"I attacked six people." My voice is flat. Strange. Like I'm reading from a script. "Sarah Martinez. Kevin Chen—he survived. Lily Ashford. Jennifer Wallace. Robert Fischer. David Park. Five died and one survived, and I'm guilty of all of it. I'll plead guilty to everything."
 
 Brennan sets down his briefcase slowly. "Mr. Caine, are you aware that anything you say to me is protected by attorney-client privilege?"
 
@@ -9946,7 +9940,17 @@ I stop. Can't finish the sentence. Eleanor dying alone while I'm locked in this 
 
 "I deserve the uncertainty. I deserve to never know. I deserve all of this."
 
-She makes another note. Asks more questions. I answer mechanically. When she leaves, I lie down on the thin mattress and stare at the ceiling.
+She makes another note. Asks more questions. I answer mechanically.
+
+"Tell me about your mother," she says later. "Rebecca Holloway."
+
+The name I didn't know until Eleanor gave it to me. My mother, murdered in the same house where I would murder, twenty-two years later. The terrible symmetry.
+
+"I was three," I say. "I don't remember her. But apparently I remembered the house."
+
+Dr. Reeves makes a note. I stare at my hands.
+
+When she leaves, I lie down on the thin mattress and stare at the ceiling.
 
 The fluorescent lights hum. Constant. Never changing.
 
@@ -10441,9 +10445,9 @@ This is the ritual that matters.
 
 **Kevin Chen.** Was 28. Former graduate student. November 2019—survived. Uses a wheelchair now. Studied mathematics. Has a service dog named Bailey.
 
-**Jennifer Wallace.** 41. High school English teacher. May 2020. Taught AP Literature. Her favorite poet was Emily Dickinson.
-
 **Lily Grace Ashford.** 22. Environmental science student. February 2020. Thornewood Estate. Eleanor's sister. Wanted to work for the Park Service. Called her mother every Sunday. Died in the library where I slept, where I touched her sister, where I pretended to be human.
+
+**Jennifer Wallace.** 41. High school English teacher. May 2020. Taught AP Literature. Her favorite poet was Emily Dickinson.
 
 **Robert Fischer.** 56. Retired postal worker. January 2021. Volunteer trail maintenance. Had three grandchildren. Liked to hike alone. That's how I found them, the police say. The ones who went alone.
 
@@ -10525,11 +10529,11 @@ I don't tell Dr. Reeves about those moments.
 
 Some cages need to stay locked from both sides.
 
-I heard Thornewood sold in August. Eleanor's parents, I assume. Some developer plans to tear it down, build vacation rentals on the ridge. The house where my mother died, where I killed Lily, where Eleanor saved me by destroying us both—reduced to lumber and lot lines. Maybe that's the kindest thing anyone could do with it.
+Brennan mentioned during his last visit that Thornewood sold in August. Eleanor's parents, I assume. Some developer plans to tear it down, build vacation rentals on the ridge. The house where my mother died, where I killed Lily, where Eleanor saved me by destroying us both—reduced to lumber and lot lines. Maybe that's the kindest thing anyone could do with it.
 
 Before I turn out the light, I say the names:
 
-"Sarah Martinez. Kevin Chen. Jennifer Wallace. Lily Grace Ashford. Robert Fischer. David Park."
+"Sarah Martinez. Kevin Chen. Lily Grace Ashford. Jennifer Wallace. Robert Fischer. David Park."
 
 Five people who should be alive. One who barely is.
 

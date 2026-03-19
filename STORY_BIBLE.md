@@ -325,7 +325,7 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 | **March 15** | **CONFESSION & ARREST** | Josh confesses; Eleanor calls 911; police arrest Josh that evening |
 | **March 16-18** | Psychiatric evaluation begins | Josh evaluated; Eleanor in hospice with parents |
 | **April 3** | **ELEANOR DIES** | In hospice with parents. Josh is in psychiatric evaluation. |
-| **April 8** | **ARRAIGNMENT** | Josh pleads guilty to all counts |
+| **April 8** | **PLEA HEARING** | Josh enters guilty-except-for-insanity plea |
 | **June 15** | **SENTENCING** | Victim impact statements; Josh learns of Eleanor's death; indefinite psychiatric commitment |
 | **Epilogue** | Eleanor (Mar 29), then Josh (Sep 2025) | Pt 1: Eleanor visits Lily's grave in wheelchair. Pt 2: Josh in psychiatric facility, naming victims nightly. Ends on "Forever."
 
@@ -438,7 +438,14 @@ The "five disappeared" phrase refers to the 5 cases Eleanor focused on in her in
 ### Josh and Roy Hendricks (Handyman)
 - Roy provides local knowledge about Thornewood's history
 - Source for the "list of incidents" (casually drops 1998 murder among others)
-- **Role in ending:** Potentially testifies about Josh's behavior during the stay, or provides context about Thornewood's history during trial
+- Mentions "Helen" as the previous caretaker (pre-Eleanor), who was at Thornewood during David Park's disappearance (Aug 2022)
+- **Role in ending:** Appears in courtroom gallery at plea hearing. Testifies about Josh's obsessive questions during the stay.
+
+### Minor Characters
+- **Tom Greaves** — Property management contact Josh dealt with for the rental
+- **Helen** — Previous caretaker at Thornewood before Eleanor arrived (~spring 2024). Was present during David Park disappearance (Aug 2022).
+- **Susan and Mark Ashford** — Eleanor's parents; Lily's parents. Susan reads victim impact statement at sentencing.
+- **Rebecca Holloway** — Josh's birth mother, murdered at Thornewood in 1998 by Josh's father. Josh was 3 and witnessed it.
 
 ### Josh and Eleanor
 - Dual investigation: Josh investigating the murder, Eleanor investigating Josh
