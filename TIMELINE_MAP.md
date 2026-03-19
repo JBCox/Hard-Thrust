@@ -15,7 +15,7 @@
 | 8 | 2243 | Nov 8, Evening | Eleanor | SURRENDER | Eleanor's response to intimacy |
 | 9 | 2394 | Nov 9-14 | Josh | CROSSING LINES | Investigation deepens; Thursday discovery |
 | 10 | 2957 | Nov 14 | Eleanor | THE COST | Eleanor's internal conflict |
-| 11 | 3036 | Nov 15-17 | Josh | FRACTURES | Roads close, trapped for winter |
+| 11 | 3036 | Nov 15-22 | Josh | FRACTURES | Roads close, trapped for winter |
 | 12 | 3705 | Dec 10 | Eleanor (mixed POV) | THE LIBRARY | 25-day gap; winter isolation deepens |
 | 13 | 4178 | Dec 10 | Josh | THE DISCOVERY | Same day as Eleanor's Ch 12 |
 | 14 | 4573 | Dec 12 | Eleanor | VULNERABILITY | Eleanor's deterioration hints |
