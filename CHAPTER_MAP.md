@@ -64,7 +64,7 @@ After sleeping together, Josh catalogs 17 inconsistencies in Eleanor's backgroun
 Eleanor can't sleep, watches Josh's light in the mansion. The roads will close soon—they'll be trapped together. She reflects on the cost of getting close to him, the manipulation, her failing health. Time running out.
 
 ### Chapter 11: FRACTURES
-**Nov 15-17 | Josh**
+**Nov 15-22 | Josh**
 Josh's insomnia worsens. He hears humming, suspects hidden speakers. Background check confirms Eleanor Moore doesn't exist. He documents her movements obsessively. Growing paranoia that she's not who she claims.
 
 ### Chapter 12: THE LIBRARY
