@@ -18,7 +18,7 @@
 ### Physical Description
 - **Age:** 29 in October 2024 (born 1995; was 3 years old when mother killed in 1998)
 - **Height:** 6'5" (tall enough that most people look up to him)
-- **Hair:** Copper/auburn, windblown style
+- **Hair:** Copper, windblown style
 - **Eyes:** Blue-green with deeper green flecks
 - **Build:** Muscular, broad shoulders
 - **Facial hair:** Trimmed beard framing his jaw
