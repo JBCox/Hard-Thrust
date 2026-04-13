@@ -440,7 +440,7 @@ For a moment, I didn't know where I was. The ceiling above me was too high, the 
 
 My phone screen read 6:47 AM. Outside the tall windows, the world was still dark—October mornings came late this far north, this deep in the mountains. Wind tested the eaves. The house groaned and settled. Beneath it all, that particular quality of silence that only exists far from other human beings.
 
-I'd slept poorly. Dreams I couldn't quite remember had left residue—a tightness in my chest, the sense of pursuit. My T-shirt was damp with sweat despite the room's chill.
+I'd slept poorly. Anxiety dreams had left me unsettled—that familiar spiral of problems without solutions that bad sleep brings. My T-shirt was damp with sweat despite the room's chill.
 
 I sat up, ran my hands through my hair, and tried to orient myself.
 
@@ -450,7 +450,7 @@ I should establish a routine. Routines created structure, and structure created 
 
 Right. Because that had worked out so well before. All that control, all that structure. Until everything fell apart anyway.
 
-I pushed the thought away with the ease of long practice. Ancient history. Water under the bridge. I'd lost my mom young—murdered when I was three, though I don't remember any of it. Spent a couple years in foster care before the Caines adopted me and gave me a real childhood. They did their best. Not their fault I turned out to be a drunk who writes about other people's tragedies for a living. Maybe I'm still looking for something in these cases. Maybe I just like the darkness because it's familiar.
+I pushed the thought away with the ease of long practice. Ancient history. Water under the bridge. I'd lost my mom young—she died when I was three, before I could form memories of her. Spent a couple years in foster care before the Caines adopted me and gave me a real childhood. They did their best. Not their fault I turned out to be a drunk who writes about other people's tragedies for a living. Maybe I'm still looking for something in these cases. Maybe I just like the darkness because it's familiar.
 
 I pushed off the blankets and stood. Cold floor beneath bare feet. The floorboards creaked—old house, old wood, everything here had a voice. I moved to the window and looked out at the grounds.
 
@@ -1277,7 +1277,7 @@ The admission was raw. Vulnerable.
 
 "Sometimes," she said quietly. "I'll finish a day of work and realize I barely remember doing it. Like I was on autopilot the whole time."
 
-I understood that better than I wanted to admit. "Where does your mind go?"
+The admission was raw. Genuine enough to make me uncomfortable. "Where does your mind go?"
 
 She was quiet for a long moment. "The past. Things I can't change. Mistakes that can't be undone." She picked up her sandwich, but didn't take a bite. Held it, looking at it like she'd forgotten what it was for.
 
@@ -1295,7 +1295,7 @@ She nodded and screwed the cap back on.
 
 We ate in silence for a while. The rain kept falling. The fire crackled. Outside, the world was gray and close.
 
-"My mother was murdered when I was three," I said suddenly. I hadn't planned to say it. The words came out.
+"My mother died when I was three," I said suddenly. I hadn't planned to say it. The words came out.
 
 Eleanor looked up. "I'm sorry."
 
@@ -1307,7 +1307,7 @@ I took a bite of sandwich, chewed, swallowed. "I was too young to remember. Just
 
 Eleanor was quiet, watching me.
 
-"The case went cold," I continued. "They never found who did it. I was too young to be a witness. Spent a couple years in foster care, then the Caines adopted me. Good people. But I always wondered."
+"Spent a couple years in foster care. Then the Caines adopted me. Good people. But I always felt like I was missing something I couldn't name."
 
 The confession sat between us, heavy and cold. I'd never told anyone that directly. My therapists had known, of course. Rachel knew some version of it. But I never said it out loud like that. Flat. Factual.
 
@@ -1439,7 +1439,7 @@ I nodded. Started toward the bedroom, then stopped. "Eleanor?"
 
 She was very still. "Sure. Everyone does that sometimes. Why?"
 
-"I was at the desk all afternoon. Lost track of time completely. Must've been in that writing flow state—you know, when you're so absorbed in the work that everything else just disappears. Looked at the clock and realized it was almost dinner time." I smiled. "Happens to me a lot when I'm deep into research. One of the perks of being a writer, I guess. Total immersion. Hours can just vanish."
+"I was at the desk all afternoon. Lost track of time completely. Must've been in that writing flow state—you know, when you're so absorbed in the work that everything else just disappears. Looked at the clock and realized it was almost dinner time." I smiled. "Happens to me a lot when I'm deep into research. One of the perks of being a writer, I guess. Total immersion. Time stops meaning much when I'm really in it."
 
 "Your body telling you to slow down."
 
@@ -1941,7 +1941,7 @@ Victim two: Kevin Chen, 28, graduate student. Attacked November 2019—the only 
 
 The only survivor. I'd stared at that phrase for hours when I first found it. Survived, but at what cost? Kevin Chen's life had been irrevocably altered in a few minutes of violence. Now he lived with the physical reminder every day.
 
-Victim three: Lily, 22, last name withheld from public records. February 2020. The Thornewood case—the one that brought me here. Only body recovered on the grounds, found in a shallow grave. Cause of death: strangulation. Case unsolved.
+Victim three: Lily, 22, last name withheld from public records. February 2020. The Thornewood case—the one that brought me here. Only body recovered on the grounds, found in the woods quarter-mile from the mansion. Cause of death: strangulation. Case unsolved.
 
 Victim four: Jennifer Wallace, 41, high school teacher. May 2020. Last seen on a hiking trail near Forest Park. Found months later. Cause of death: strangulation.
 
@@ -1988,11 +1988,11 @@ While waiting, I checked my email. Three unread messages: spam, a newsletter, an
 
 I skimmed past most of it, noted the deadline change, closed the email. Four years. Had it really only been four years since I'd published my first article? Sometimes it seemed like this work had always been part of me, like I'd been investigating cold cases my whole life.
 
-Other times it felt like the career had built itself around me. Especially the early stuff—the pen names, the anonymous articles, back when I was just another voice writing about other people's tragedies.
+Other times it felt like the career had built itself around me. Especially the early stuff—the freelance pieces, the anonymous columns, back when I was just another voice writing about other people's tragedies.
 
 I rubbed my eyes. The coffee had gone cold. I checked the time: 1:47 PM.
 
-The research had consumed me completely—hours of work, though I couldn't swear I'd been in this chair the whole time. I needed to take better breaks. Get outside more. The stress of the investigation combined with poor sleep was making me less sharp than I needed to be.
+The research had consumed me completely—hours of work, my neck stiff from the same posture. I needed to take better breaks. Get outside more. The stress of the investigation combined with poor sleep was making me less sharp than I needed to be.
 
 The laptop screen had gone dark. I touched the trackpad, my hand still shaking. The document open wasn't the victim files. It was a browser window showing a news article from early 2020: *Body Found at Thornewood Estate - Investigation Ongoing*.
 
@@ -2520,7 +2520,7 @@ The footage was gone.
 
 Not just from last night—from the entire week. Files deleted, recycle bin emptied. Time stamps showed I'd done it myself this morning at 6:47 AM, right after Eleanor left.
 
-My hands found the edge of the desk, gripping hard. Breathe. There had to be an explanation. Maybe I'd done it half-asleep, autopilot cleaning up storage space. Maybe the files were corrupted and I'd cleared them without thinking.
+My hands found the edge of the desk, gripping hard. Breathe. There had to be an explanation. Whatever she'd been slipping into my food could have done something—made me do things while barely conscious, clear files I had no memory of clearing. Or she'd come back after I crashed, used my account to do it herself. She knew my password—she'd watched me type it enough times.
 
 Maybe I was losing my mind.
 
@@ -2758,9 +2758,9 @@ What if this time I wasn't seeing patterns that weren't there?
 
 What if I was failing to see the pattern that was?
 
-I pulled out my laptop and started searching in earnest. Not for evidence against Eleanor.
+I pulled out my laptop and started searching in earnest. Not for proof of Eleanor's guilt.
 
-For evidence against myself.
+For proof that she'd been doing something to me.
 
 But even as I typed, another thought kept surfacing. Unwanted. Insane. But impossible to ignore.
 
@@ -2997,7 +2997,7 @@ He didn't believe me. Accused me of lying. His paranoia was rising, and I couldn
 
 "Who was the victim to you, Eleanor?" he demanded.
 
-I met his eyes. Let him see something real. "Someone who trusted the wrong person," I whispered. "And it won't happen again."
+I met his eyes. Let him see something real. "Someone who trusted the wrong person," I said. "That's all."
 
 He softened then. He was trying to understand me—trying to decide if I was dangerous or broken. The answer depended on who was asking.
 
@@ -3392,13 +3392,13 @@ The word that came to mind was *targeting.*
 
 I closed the laptop. Pushed it away like it might bite.
 
-Someone had written this. During those lost hours, someone had documented Eleanor like prey. Measured her vulnerabilities. Cataloged her routines. Planned—
+Someone had written this. During those three hours I couldn't account for—the same stretch Eleanor had been in the mansion—someone had documented Eleanor like prey. Measured her vulnerabilities. Cataloged her routines. Planned—
 
 But who?
 
 Eleanor had access to my laptop. She could have created this file herself, typed it while I slept, planted it to make me think I was losing my mind. The footage showed someone at my desk, but the angle was bad, the lighting worse. Could that have been her? Same build, similar height when seated. She'd have my login password—she'd watched me type it enough times.
 
-Or was it me? Had I really spent three hours writing this and somehow blocked it out completely?
+That had to be it. Eleanor had been in here. She had access. She had my password.
 
 I was going to be sick.
 
@@ -3444,7 +3444,7 @@ Eleanor stood ten feet away, arms crossed, watching me with an expression I coul
 
 We stared at each other across the snowy ground. The cottage light behind her cast her face in shadow, but her posture was clear—ready, coiled, like she was prepared for me to do something violent.
 
-Like she knew what I was.
+Like she'd already decided what she thought I was.
 
 "What's in the locked room?" I asked. No point pretending anymore.
 
@@ -3602,11 +3602,11 @@ Because whatever truth was waiting up there, I wasn't ready to face it yet.
 
 Back in my room, I opened the laptop. Looked at the notes I'd written during that strange, unexplained stretch of time. The current surveillance of Eleanor, yes—but also older files. Embedded in the November 2024 timeline were entries I didn't remember writing. Different dates. Different seasons. Observations about trails I'd never hiked, rooms I'd never entered.
 
-And the typing style looked like mine—the same patterns, the same rhythms. As if I'd written them in my sleep.
+And the typing style looked like mine—or close to it. Close enough that she could have modeled it from my manuscript files, from months of watching me work.
 
 No. It couldn't be. I would remember being here before. Would remember writing those observations.
 
-Pressure surged behind my eyes. White light, blinding. The room was spinning and I couldn't breathe couldn't think couldn't be this person couldn't be—
+Pressure surged behind my eyes. White light, blinding. The room was spinning and I couldn't breathe couldn't think couldn't be reading this right couldn't be understanding what I was seeing—
 
 "Josh." Eleanor's voice, muffled through the library door.
 
@@ -3650,7 +3650,7 @@ I gripped the phone harder. "What kind of compound?"
 
 "I can't rule it out. But I also can't confirm it. The levels of everything we found are low. If someone were drugging you, they'd be doing it very carefully, with substances that metabolize quickly. Or—" she paused, clearly choosing words carefully, "—you could be experiencing symptoms from stress, lack of sleep, and mild over-the-counter medication use."
 
-"But I've been experiencing severe drowsiness. Blank stretches. I thought—"
+"But I've been experiencing severe drowsiness. Time that just slips by. I thought—"
 
 "Have you been taking anything for insomnia?" the nurse interrupted gently. "The diphenhydramine levels suggest regular use."
 
@@ -3674,7 +3674,7 @@ I looked at my hands. Wondered if they'd taken medication I didn't recall. Wonde
 
 Outside, I heard Eleanor's boots on the porch. Her key in the lock.
 
-I closed my eyes and pretended to be sleeping when she found me on the library couch twenty minutes later. Pretended the test had never happened. Pretended I knew who I was and what I was capable of.
+I closed my eyes and pretended to be sleeping when she found me on the library couch twenty minutes later. Pretended the test had never happened. Pretended I had answers.
 
 But the envelope with the test results stayed hidden in my jacket pocket, and every time I touched it, the same cold certainty gripped me: something was very, very wrong.
 
@@ -4252,7 +4252,7 @@ I pulled open the closet door and froze.
 
 There were two pairs of boots on the floor. My hiking boots, the ones I'd brought from Portland—brown leather, well-worn. And next to them, a pair I'd never seen before. Black. Muddy. The same size as mine, but caked with dried earth I didn't recognize.
 
-I crouched down, studied them. The mud was reddish-brown, clay-heavy. Not the black forest soil around the mansion. This was from somewhere else. Somewhere I hadn't been.
+I crouched down, studied them. The mud was reddish-brown, clay-heavy. Not the black forest soil around the mansion. Eleanor. Had to be Eleanor. This was her doing.
 
 Had Eleanor put them here? Was this part of whatever she was planning?
 
@@ -4623,7 +4623,7 @@ But I can't. Because it's not.
 
 He admits it has. Blames stress. Insomnia. Trauma responses from childhood. He's building a wall of explanations, trying to make sense of something that doesn't make sense.
 
-"I feel like I'm losing my grip," he whispers. "Like whole chunks of time just... disappear. And I can't figure out if it's the stress or if someone's doing this to me."
+"I feel like something's wrong with me," he whispers. "Stretches where I'm just... not right. Not myself. And I can't prove it, but I can feel it. Like someone's been doing something to me."
 
 The fear in his voice is real. He's spiraling, looking for someone to anchor him.
 
@@ -4633,7 +4633,7 @@ But comfort is a luxury neither of us can afford. Not when I'm this close to fin
 
 Instead, I kiss him. Because it's easier than answering. Because I don't know what else to do.
 
-He responds with desperate gratitude. We fall back onto the bed, and I try to focus on his body instead of his questions. Signs of the missing hours he can't explain.
+He responds with desperate gratitude. We fall back onto the bed, and I try to focus on his body instead of his questions. Signs of what the drugs are doing to him.
 
 When we come together, I tell myself I'm helping him. Giving him comfort. But the truth is, I need this too. Need to feel something besides the cold dread that's been growing in my chest.
 
@@ -4645,13 +4645,13 @@ Afterward, he holds me like I'm the only real thing in his world.
 
 "Will you?" His voice is small. Hopeful. "Even if the truth is bad?"
 
-"Yes," I whisper. The lie tastes like ash. I already know exactly what we'll find.
+"Yes," I whisper. The lie tastes like ash. Whatever those cameras find, I know how to use it.
 
 He falls asleep in my arms. I lie there in the darkness, listening to him breathe, wondering what happens next.
 
 **December 12.**
 
-*He lost seven hours today. Came back with scratches and bruises he doesn't remember getting. He's scared. I should be scared. I'm not.*
+*Seven hours today. Whatever I gave him, it hit harder than I expected—came back disoriented, scratched up, bruised. He doesn't know what happened. That's what I needed to see. I'm not afraid. I'm almost ready.*
 
 *I told him I'd help him find the truth. I meant it. He's coming undone. The more confused he gets, the easier this becomes.*
 
@@ -5219,7 +5219,7 @@ He didn't believe me. "Who was the victim to you, Eleanor?"
 
 He tried to justify his actions, speaking of his own fears, his own potential for danger. He was spiraling, turning his paranoia inward. Exactly where I wanted him. Breaking down, piece by piece.
 
-"I think you might be right about something being wrong," I said, my voice gentle. "And I think you came here because some part of you knows."
+"I think you might be right about something being wrong," I said, my voice gentle. "And I think some part of you is afraid of what that truth might be."
 
 His face went pale. "Knows what?"
 
@@ -5237,7 +5237,7 @@ He followed. In the tower room, he felt something—it showed in his face. Uneas
 
 Then he saw the carving. "M+L 2020. Who's M? And who's L?"
 
-He had no memory of the carving. Didn't remember the tower. That kind of gap meant he was vulnerable. Easy to push.
+He had no memory of the carving. Didn't remember the tower. The confusion in his face was real. Good—that made him easier to push.
 
 "You think I'm connected to what happened here," he stated.
 
@@ -5327,7 +5327,7 @@ Maybe because I was IN a library. In winter. With candles and Eleanor's perfume 
 
 Or maybe I'd just been doing this long enough that the research had seeped into something like muscle memory.
 
-The details felt uncomfortably right. That was the immersive writing process—losing yourself until fiction feels true.
+The details felt uncomfortably right. That was the immersive writing process—immersing yourself until the details feel true.
 
 ---
 
@@ -6398,7 +6398,7 @@ If I survived that long.
 
 I couldn't sleep.
 
-3:47 AM. I'd been lying in bed for two hours, staring at the cottage ceiling, listening to the grandfather clock downstairs mark every passing minute. Counting down. Always counting down.
+3:47 AM. I'd been lying in bed for two hours, staring at the cottage ceiling, listening to the grandfather clock downstairs mark every passing minute. Waiting for morning. Always waiting for morning.
 
 I couldn't stop thinking. Too many sleepless nights. Too much time alone with my thoughts.
 
@@ -6608,7 +6608,7 @@ I woke in my bed with no memory of how I got there.
 
 Last thing I remembered was dinner with Eleanor. Wine. Conversation. Her hand on mine across the table. Then... nothing. A gap. Hours of nothing.
 
-My head pounded. My throat was raw, like I'd been screaming.
+My head pounded. My throat was dry and scraped-feeling, like I'd been breathing through my mouth all night.
 
 The clock read 6:47 AM. Sunrise was a gray line on the horizon.
 
@@ -6699,13 +6699,13 @@ The vulnerability of that moment. Him showing me his one keepsake. Trusting me w
 
 He had no idea what I was planning. No idea what was coming.
 
-And now I understood him differently. A new piece of the puzzle. The reason he kept coming back to this place.
+And now I understood him differently. A new piece of the puzzle. Another wound he'd been carrying without knowing it.
 
 I went to the loft. Looked at the boxes. The files. Everything I'd been collecting.
 
-His past. Whatever happened to drive him here. Whatever wound kept pulling him back to this godforsaken place.
+His past. Whatever happened to shape him. Whatever wound he'd been carrying all this time.
 
-Now Josh was circling Thornewood like a moth to flame. Something broken inside him that he couldn't name, couldn't escape. And I was losing my chance to use what I knew against him.
+Josh was circling something he couldn't name and couldn't escape. And I was losing my chance to use what I knew against him.
 
 And when the time came, I'd finally use everything I'd collected against him.
 
@@ -8914,7 +8914,7 @@ She shows me another document. Photos from a social media account. Josh Caine, l
 
 The caption on one: "Battle scars from brush clearing yesterday! Blackberries fight back! 😅"
 
-My stomach turns. I make it to the bathroom just in time. Vomit until there's nothing left. Vomit until I'm dry-heaving, until my ribs hurt, until the physical pain is almost enough to distract from the other kind.
+My stomach turns. I stumble to the bathroom and lock the door. There's nothing elegant about what follows. My body does what bodies do with horror. When I can stand, I run cold water over my face and look at my reflection and try to recognize myself.
 
 When I come back out, Eleanor hasn't moved. Still sitting by the timeline. Still in that clinical space.
 
@@ -9253,7 +9253,7 @@ The sound of her name in his mouth is a physical assault. I feel it in my chest,
 
 "No," I say. "You don't get to ask about her. Not like that. Not like she's a story for you to understand."
 
-"Please." His voice breaks. "I need to know. Did she... did she suffer?"
+"Please." He can barely get the words out. "I need to know. Did she... did she suffer?"
 
 The question I've been dreading. The one I've researched obsessively, reading coroner reports until the technical language stopped meaning anything, until 'petechial hemorrhaging' and 'crushed hyoid bone' were just words, not descriptions of my sister's last moments.
 
