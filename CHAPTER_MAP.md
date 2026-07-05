@@ -169,8 +169,8 @@ Josh at Oregon State Hospital for psychiatric evaluation. Dr. Reeves evaluates h
 Eleanor's death. In hospice with her parents. Her mother reads The Secret Garden. She dies thinking of Lily, of Josh, of whether justice was worth the cost.
 
 ### Chapter 33: JUDGMENT
-**April 8 & June 15 | Josh**
-April 8: Arraignment. Josh pleads guilty to all counts. June 15: Sentencing. Victim impact statements. Kevin Chen in a wheelchair. Susan Ashford speaks of losing both daughters. Josh learns Eleanor died April 3. Sentenced to indefinite psychiatric commitment.
+**April 8 & June 16 | Josh**
+April 8: Arraignment. Josh pleads guilty to all counts. June 16: Sentencing. Victim impact statements. Kevin Chen in a wheelchair. Susan Ashford speaks of losing both daughters. Josh learns Eleanor died April 3. Sentenced to indefinite psychiatric commitment.
 
 ---
 
@@ -201,7 +201,7 @@ Six months later. Josh in the psychiatric hospital. Daily ritual: reciting the n
 ## KEY REVEALS (Canonical Numbering)
 1. **The Pills** (Ch 26) - Eleanor isn't drugging Josh; her pills are cancer medication
 2. **Eleanor Is Dying** (Ch 26) - Terminal brain tumor, months to live
-3. **Lily's Sister** (Ch 26) - Eleanor is Lily's older sister, owns Thornewood
+3. **Lily's Sister** (Ch 26) - Eleanor is Lily's older sister, a PI posing as the groundskeeper (does not own the estate)
 4. **Josh = Marcus Webb** (Ch 25) - He's the killer; evidence room confrontation
 5. **The Origin** (Ch 27) - Josh's mother was murdered at Thornewood in 1998 by his father; 3-year-old Josh witnessed it, creating the dissociative disorder
 
@@ -228,5 +228,5 @@ Six months later. Josh in the psychiatric hospital. Daily ritual: reciting the n
 - **March 15, 2025:** Josh confesses; arrested
 - **April 3, 2025:** Eleanor dies in hospice
 - **April 8, 2025:** Josh's arraignment
-- **June 15, 2025:** Josh sentenced to indefinite psychiatric commitment
+- **June 16, 2025:** Josh sentenced to indefinite psychiatric commitment
 - **September 2025:** Epilogue - Josh in psychiatric hospital

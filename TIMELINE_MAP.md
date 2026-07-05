@@ -37,7 +37,7 @@
 | 30 | 9697 | Mar 17 | Eleanor | STILLNESS | Eleanor with her parents |
 | 31 | 9800 | Mar 19 | Josh | EVALUATION | Psychiatric evaluation |
 | 32 | 9869 | Apr 3 | Eleanor | FINAL DAY | **Eleanor dies** |
-| 33 | 10020 | Apr 8 / Jun 15 | Josh | JUDGMENT | Arraignment (Apr 8); sentencing hearing (Jun 15) |
+| 33 | 10020 | Apr 8 / Jun 16 | Josh | JUDGMENT | Arraignment (Apr 8); sentencing hearing (Jun 16) |
 | — | 10252 | Mar 29, 2025 | Eleanor | EPILOGUE Pt 1 | Five days before Eleanor's death; visits Lily's grave |
 | — | 10328 | Sep 2025 | Josh | EPILOGUE Pt 2 | Psychiatric facility; names victims nightly; "Forever." |
 

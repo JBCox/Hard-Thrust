@@ -1,0 +1,31 @@
+﻿{
+    "chapter":  19,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "Age estimates varied: 5\u002710\" to 6\u00272\" according to different witnesses, which meant no one really knew.",
+                       "description":  "Josh\u0027s actual height is 6\u00275\" (Story Bible). The witness range of 5\u002710\" to 6\u00272\" excludes him completely, which contradicts the later reveal that Marcus Webb IS Josh. This creates a logical impossibility.",
+                       "fix":  "Age estimates varied wildlyΓÇöanywhere from mid-thirties to early fifties. Height estimates ranged from 5\u002710\" to well over six feet according to different witnesses, which meant no one really knew.",
+                       "rationale":  "This was partially fixed in the January 16 audit (age range broadened), but the height range still needs broadening. Josh is 6\u00275\", so witness estimates must plausibly include his actual height. \u0027Well over six feet\u0027 allows for 6\u00275\" without being so specific it triggers recognition. Maintains witness unreliability while fixing the logical impossibility."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "HIGH",
+                       "line_text":  "2020: Thornewood visit - February 8-19 (confirmed via guest book - handwriting analysis matches known samples)",
+                       "description":  "Story Bible states Lily was murdered in February 2020, but doesn\u0027t specify that Josh (as Marcus Webb) was there Feb 8-19. Need to verify this date range is consistent with the murder timeline and doesn\u0027t contradict other established facts.",
+                       "fix":  "2020: Thornewood visit - February (confirmed via guest book - handwriting analysis matches known samples)",
+                       "rationale":  "Removing the specific date range (Feb 8-19) eliminates potential timeline contradiction without losing the key information: Josh was there in February 2020 during Lily\u0027s murder. The guest book and handwriting analysis remain as evidence. This is safer and more consistent with the Story Bible\u0027s general \u0027February 2020\u0027 reference."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "The locksmith\u0027s lessons came backΓÇöfeel for the pins, gentle pressure, patience. The same lessons I\u0027d learned in Portland years ago.",
+                       "description":  "Josh references lock-picking lessons learned in Portland, but the setup in Chapter 3 (mentioned in Manuscript Additions Log) establishes he learned this skill \u0027from a Portland locksmith for a story.\u0027 This line should reference the story/journalism context to maintain consistency.",
+                       "fix":  "The locksmith\u0027s lessons came backΓÇöfeel for the pins, gentle pressure, patience. The same lessons I\u0027d learned in Portland years ago for a story.",
+                       "rationale":  "Adding \u0027for a story\u0027 maintains consistency with the Chapter 3 setup and reinforces Josh\u0027s true crime journalist cover. Minor addition that doesn\u0027t change meaning but tightens the payoff to the earlier plant."
+                   }
+               ],
+    "notes":  "Chapter is largely clean. The Marcus Webb file discovery is well-handledΓÇöJosh sees evidence but misinterprets it (thinks Eleanor is framing him, not that HE is Marcus Webb). The surveillance photo timeline (\u0027going back two years\u0027) is vague enough not to contradict the Story Bible\u0027s statement that Eleanor started investigating after podcast slip-ups. Josh\u0027s alternative explanations (medical conditions, Eleanor\u0027s delusion) are strong misdirection. The chapter maintains spoiler protection effectivelyΓÇöreaders should believe Josh is being framed, not that he IS the killer."
+}

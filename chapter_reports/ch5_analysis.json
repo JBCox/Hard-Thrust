@@ -1,0 +1,47 @@
+﻿{
+    "chapter":  5,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "My grandmother\u0027s trust fund covered the basics, stretched carefully across rent, travel, equipment.",
+                       "description":  "Story Bible states Josh\u0027s adoptive parents are \u0027the Caines\u0027 - this should reference them, not a grandmother. If the trust is from his birth family, it needs clarification. If from adoptive grandmother, should say \u0027my grandmother Caine\u0027 or similar.",
+                       "fix":  "The trust fund my adoptive parents set up covered the basics, stretched carefully across rent, travel, equipment.",
+                       "rationale":  "Clarifies the source of the trust fund without introducing new family members not established in Story Bible. Maintains financial independence backstory while staying consistent with known family structure."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "My agent thinks I\u0027m having a midlife crisis at thirty.",
+                       "description":  "Josh is 29 in October 2024 (born 1995, was 3 in 1998). This was previously fixed in Chapter 1 from \u0027midlife crisis at thirty\u0027 to \u0027quarter-life crisis at twenty-nine.\u0027 Same error appears here.",
+                       "fix":  "My agent thinks I\u0027m having a quarter-life crisis at twenty-nine.",
+                       "rationale":  "Maintains consistency with Josh\u0027s established age (29) and mirrors the fix already applied in Chapter 1. \u0027Quarter-life crisis\u0027 is age-appropriate for late twenties."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Just tired. Just a heavy meal on top of too much wine. That\u0027s all.",
+                       "description":  "This is Josh\u0027s internal rationalization for drowsiness after dinner. While he SHOULD dismiss the drugging possibility (since Eleanor isn\u0027t actually drugging him), the phrasing \u0027Just tired. Just... That\u0027s all.\u0027 creates a repetitive defensive pattern that might draw too much reader attention to the possibility. More natural to dismiss it once.",
+                       "fix":  "Just tired. Heavy meal, too much wine.",
+                       "rationale":  "More casual dismissal that doesn\u0027t overemphasize the drugging possibility. Josh genuinely IS just tired/tipsy here, so his internal voice should be more matter-of-fact, not defensively reassuring himself."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I\u0027d known Eleanor for what, five days? Six?",
+                       "description":  "Chapter is dated October 28. Eleanor\u0027s Chapter 2 and Josh\u0027s Chapter 1 are both October 22 (arrival day). October 22 to October 28 is 6 days. Josh should be more certain about this count since he\u0027s an investigative journalist who tracks details.",
+                       "fix":  "I\u0027d known Eleanor for what, six days?",
+                       "rationale":  "Math correction (Oct 22-28 = 6 days). Removes uncertainty that doesn\u0027t fit Josh\u0027s character as someone who meticulously tracks timelines and dates in his investigation."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "When I reached my bedroom, I checked my watch: 11:34 PM. Wait. We\u0027d finished dinner at... eight? Eight-thirty?",
+                       "description":  "The phrasing suggests Josh is trying to account for missing time (implying drugging/fugue state). However, per Story Bible, Josh\u0027s first blackout shouldn\u0027t occur until \u0027Early Dec\u0027 (Act 2). In late October, he should just be tired from wine, not experiencing time gaps that make him suspicious.",
+                       "fix":  "When I reached my bedroom, I checked my watch: 11:34 PM. Later than I\u0027d planned, but the conversation had flowed so easily I\u0027d lost track of time.",
+                       "rationale":  "Removes the implication of suspicious missing time. Josh can lose track of time due to engaging conversation and wine without it reading as a blackout. Maintains the intimacy of the evening without introducing fugue-state symptoms too early."
+                   }
+               ],
+    "notes":  "Chapter is generally clean. The dinner scene appropriately shows Josh falling for Eleanor while maintaining his investigative suspicions. The abandoned campsite discovery is a good plant. Eleanor\u0027s loft explanation (grief storage from Seattle teaching job) is an effective misdirection that will recontextualize later. The age error (\u0027thirty\u0027 vs \u0027twenty-nine\u0027) is the same issue previously fixed in Ch1, suggesting a need to verify this across all chapters. The \u0027grandmother\u0027s trust fund\u0027 is a new detail not in Story Bible and needs author confirmation or revision."
+}

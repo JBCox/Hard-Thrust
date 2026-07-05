@@ -1,0 +1,135 @@
+﻿{
+    "chapter":  18,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I came here because she needed someone to blame.",
+                       "description":  "Chapter title/opening line uses investigator language. \u0027Someone to blame\u0027 reveals Eleanor is seeking accountability for a crime, not hunting prey. Predators don\u0027t need someone to \u0027blame\u0027ΓÇöthey need victims. This phrase positions Eleanor as someone seeking justice/closure, which spoils the reveal that she\u0027s Lily\u0027s sister investigating her murder.",
+                       "fix":  "I came here because he had to be stopped.",
+                       "rationale":  "Predatory language. \u0027Had to be stopped\u0027 implies Josh is a threat she\u0027s neutralizing, maintaining the misdirection that Eleanor is dangerous. Removes the justice-seeking frame without introducing new spoilers."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I needed to take the pills. But not too manyΓÇöhad to stay sharp for what was coming. Josh had found the cameras. Found everything. This was the moment I\u0027d been preparing for.",
+                       "description":  "\u0027The moment I\u0027d been preparing for\u0027 is classic investigator languageΓÇöimplies a planned confrontation to reveal evidence/truth. Predators don\u0027t \u0027prepare for moments\u0027ΓÇöthey strike when ready. This reveals Eleanor has an investigative endgame, spoiling her true role.",
+                       "fix":  "I needed to take the pills. But not too manyΓÇöhad to stay sharp for what was coming. Josh had found the cameras. Found everything. This was the moment everything would break.",
+                       "rationale":  "\u0027Everything would break\u0027 is ambiguousΓÇöcould mean her plan to hurt him falls apart, or their relationship shatters. Removes the investigative \u0027preparation\u0027 frame while maintaining tension."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I had to finish this. Now. Before I lost my chance.\n\nBefore I lost my nerve.",
+                       "description":  "\u0027Before I lost my chance\u0027 + \u0027lost my nerve\u0027 together imply a specific mission with limited timeΓÇöinvestigation language. The phrasing suggests Eleanor has a goal she needs courage to complete (confronting a suspect, revealing truth), not predatory intent.",
+                       "fix":  "I had to end this. Now. Before I fell apart completely.\n\nBefore I couldn\u0027t finish what I started.",
+                       "rationale":  "\u0027End this\u0027 is more terminal/predatory. \u0027Fell apart\u0027 ties to her physical deterioration (pills just mentioned). \u0027Finish what I started\u0027 is vague enough to read as violent intent while actually referring to her investigation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Deep winter already, and the isolation was showing cracks. All three cameras. Every single one I\u0027d placed. He\u0027d found everything I\u0027d been using to... to what? Watch him? Understand him? Prove something I wasn\u0027t even sure of?",
+                       "description":  "\u0027Prove something\u0027 is investigator languageΓÇöpredators don\u0027t need to prove things, they act on certainty. The self-questioning (\u0027I wasn\u0027t even sure of\u0027) undermines the predatory certainty Eleanor must project in Acts 1-2.",
+                       "fix":  "Deep winter already, and the isolation was showing cracks. All three cameras. Every single one I\u0027d placed. He\u0027d found everything I\u0027d been using to watch him. To see what he\u0027d do when he thought no one was looking.",
+                       "rationale":  "Removes \u0027prove\u0027 and uncertainty. \u0027See what he\u0027d do\u0027 maintains predatory observation without revealing investigative intent. Predators watch for vulnerability/opportunity, not proof."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I should tell him. Should lay it all out. But looking at himΓÇöat the suspicion building behind his eyes, at the way he\u0027s already pulling backΓÇöI knew he wouldn\u0027t believe me. Not yet. Not without seeing the proof himself.",
+                       "description":  "\u0027The proof\u0027 reveals Eleanor has evidence to show JoshΓÇöinvestigator behavior. Predators don\u0027t worry about whether victims will \u0027believe\u0027 them or need \u0027proof.\u0027",
+                       "fix":  "I should tell him. Should lay it all out. But looking at himΓÇöat the suspicion building behind his eyes, at the way he\u0027s already pulling backΓÇöI knew it would only make things worse. Not yet. Not while he was still fighting me.",
+                       "rationale":  "\u0027Make things worse\u0027 is ambiguousΓÇöcould mean escalate conflict or ruin her plans. \u0027Still fighting me\u0027 positions Josh as resisting her control (predatory frame) rather than needing to see evidence (investigative frame)."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "The irony was staggering. He thought I was trying to frame him, when I was actually trying to save him from himself.",
+                       "description":  "\u0027Save him from himself\u0027 is completely antithetical to predatory intent. This is investigator/grief languageΓÇöreveals Eleanor\u0027s true protective/justice-seeking motivation, spoiling the misdirection.",
+                       "fix":  "The irony was staggering. He thought I was trying to frame him, when I was actually trying to make him see what he really was.",
+                       "rationale":  "\u0027Make him see what he really was\u0027 maintains ambiguityΓÇöreaders can interpret this as Eleanor forcing Josh to see himself as weak/vulnerable (predatory gaslighting) while it actually means confronting his fugue state crimes."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I\u0027d tried to tell him. Tried to show him who he really was. And he\u0027d rejected it completely.",
+                       "description":  "\u0027Show him who he really was\u0027 explicitly reveals Eleanor\u0027s investigative goalΓÇöexposing Josh\u0027s true nature. This is investigator language that spoils her role as Lily\u0027s sister seeking to prove Josh is the killer.",
+                       "fix":  "I\u0027d tried to push him. Tried to break through that wall he\u0027d built. And he\u0027d only reinforced it.",
+                       "rationale":  "\u0027Push him\u0027 and \u0027break through\u0027 can read as psychological manipulation (predatory gaslighting). \u0027Reinforced the wall\u0027 shows Josh resisting her control, maintaining the predator-prey dynamic."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Of course he had. It\u0027s easier to believe I\u0027m the threat. Easier to make me the villain in his story. The mind will do anything to protect itself from uncertainty.",
+                       "description":  "Eleanor analyzing Josh\u0027s psychology in clinical terms (\u0027The mind will do anything to protect itself\u0027) is investigator/analyst language. The framing positions Eleanor as understanding Josh\u0027s denial of truthΓÇöreveals she HAS truth to reveal.",
+                       "fix":  "Of course he had. It\u0027s easier to believe I\u0027m the threat. Easier to make me the villain in his story than to face what he was really afraid of.",
+                       "rationale":  "\u0027What he was really afraid of\u0027 is ambiguousΓÇöreaders think Josh fears Eleanor (predatory threat). Actually refers to his fugue states. Removes clinical analysis while maintaining psychological pressure."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "How had I become someone who couldn\u0027t separate truth from suspicion anymore?",
+                       "description":  "\u0027Truth from suspicion\u0027 reveals Eleanor has been seeking truthΓÇöinvestigator motivation. Predators don\u0027t struggle with truth vs. suspicion; they act on desire/compulsion.",
+                       "fix":  "How had I become someone who couldn\u0027t separate what I wanted from what I needed anymore?",
+                       "rationale":  "\u0027Want vs. need\u0027 is ambiguousΓÇöcould reference her desire to hurt Josh vs. need to finish her plan (predatory read) or her emotional attachment vs. mission (actual meaning). Removes truth-seeking language."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I walked through the mansion turning off lights. Collecting the cameras Josh had found. Straightening the furniture we\u0027d knocked over. Erasing the physical traces of what had happened while the emotional wreckage remained.",
+                       "description":  "\u0027Erasing the physical traces\u0027 explicitly frames Eleanor as covering up evidenceΓÇöinvestigator behavior protecting a crime scene or surveillance operation. This language reveals she\u0027s operating with investigative methodology, not predatory instinct.",
+                       "fix":  "I walked through the mansion turning off lights. Collecting the cameras Josh had found. Straightening the furniture we\u0027d knocked over. Cleaning up the mess we\u0027d made while the real damage remained untouched.",
+                       "rationale":  "\u0027Cleaning up the mess\u0027 is neutralΓÇöcould reference literal disorder or relationship damage. \u0027Real damage remained untouched\u0027 focuses on emotional aftermath rather than evidence management."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "From my window, lights glowed in the mansion. Josh moving past windows. Pacing. Probably reviewing his own surveillance footage, building his case against me, convincing himself he was the hunter and I was the predator.\n\nThe irony would be funny if it wasn\u0027t so tragic.",
+                       "description":  "Eleanor explicitly acknowledging \u0027the irony\u0027 of role reversal reveals she knows the truth about who\u0027s really hunting whom. This meta-awareness spoils the twist that Eleanor is the actual investigator.",
+                       "fix":  "From my window, lights glowed in the mansion. Josh moving past windows. Pacing. Probably reviewing his own surveillance footage, building his case against me, convincing himself he\u0027d figured me out.\n\nHe had no idea what was coming.",
+                       "rationale":  "\u0027No idea what was coming\u0027 maintains predatory menaceΓÇöreaders think Eleanor plans to strike. Removes the ironic meta-awareness that reveals her investigative role."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I couldn\u0027t make him understand. Couldn\u0027t force him to face what was happening to him. His mind would fight me every step.",
+                       "description":  "\u0027What was happening to him\u0027 + \u0027force him to face\u0027 is investigator languageΓÇöreveals Eleanor is trying to make Josh confront a truth about himself (his fugue states). Predators don\u0027t try to make victims \u0027understand\u0027 or \u0027face\u0027 things.",
+                       "fix":  "I couldn\u0027t make him see reason. Couldn\u0027t make him stop fighting long enough to realize how vulnerable he really was.",
+                       "rationale":  "\u0027Make him see reason\u0027 + \u0027realize how vulnerable\u0027 positions Eleanor as trying to break Josh\u0027s resistance (predatory gaslighting). Removes the truth-confrontation framing while maintaining psychological manipulation angle."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "And the pattern was accelerating. The episodes coming closer together. The stress and isolation amplifying something I still didn\u0027t fully understand.",
+                       "description":  "Eleanor tracking \u0027the pattern\u0027 and \u0027episodes\u0027 in clinical terms reveals she\u0027s monitoring Josh\u0027s fugue statesΓÇöinvestigator behavior. \u0027Still didn\u0027t fully understand\u0027 reveals she\u0027s seeking to understand his condition, not to hurt him.",
+                       "fix":  "And he was falling apart faster now. The cracks showing more often. The stress and isolation breaking down whatever control he\u0027d been clinging to.",
+                       "rationale":  "\u0027Falling apart\u0027 + \u0027cracks showing\u0027 + \u0027breaking down control\u0027 can read as Eleanor watching Josh weaken (predatory satisfaction at prey\u0027s vulnerability). Removes clinical pattern-tracking language."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "SoonΓÇömaybe days, maybe hoursΓÇösomething would break. And when it did, I\u0027d have to decide what to do with everything I knew.",
+                       "description":  "\u0027Everything I knew\u0027 reveals Eleanor possesses knowledge/evidenceΓÇöinvestigator position. The phrasing implies she\u0027ll make a decision based on information (investigative methodology), not predatory impulse.",
+                       "fix":  "SoonΓÇömaybe days, maybe hoursΓÇösomething would break. And when it did, I\u0027d have to finish what I came here to do.",
+                       "rationale":  "\u0027Finish what I came here to do\u0027 is predatory closure languageΓÇöreaders think she means to harm Josh. Actually refers to confronting him with evidence. Removes the knowledge-based decision framing."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I was out of time. Out of options. Out of the certainty I\u0027d started with.",
+                       "description":  "\u0027Certainty I\u0027d started with\u0027 reveals Eleanor began with conviction (investigative certainty about Josh\u0027s guilt) that\u0027s now wavering. Predators don\u0027t start with \u0027certainty\u0027ΓÇöthey act on desire/compulsion.",
+                       "fix":  "I was out of time. Out of options. Out of the control I thought I had.",
+                       "rationale":  "\u0027Control I thought I had\u0027 can read as Eleanor\u0027s plan to dominate Josh failing (predatory frame) or her investigation becoming complicated by emotions (actual meaning). Removes investigative certainty language."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "All I had left was the questions, the fading weeks of my own life, and a man who loved me while suspecting I was trying to destroy him.",
+                       "description":  "\u0027The questions\u0027 reveals Eleanor is seeking answersΓÇöinvestigator motivation. Combined with \u0027fading weeks of my own life,\u0027 this comes dangerously close to revealing her terminal illness before the planned reveal.",
+                       "fix":  "All I had left was the fading weeks, the man who loved me while suspecting I was trying to destroy him, and the choice I still had to make.",
+                       "rationale":  "\u0027Fading weeks\u0027 is ambiguous enough (could mean winter weeks, time before roads open). \u0027Choice I still had to make\u0027 is predatoryΓÇöreaders think she\u0027s deciding when/how to strike. Removes question-seeking language."
+                   }
+               ],
+    "notes":  "Chapter 18 contains extensive investigator language violations throughout Eleanor\u0027s POV. The core issue is Eleanor explicitly framing herself as seeking truth, proof, and understandingΓÇöall investigative goals. She also acknowledges irony about role reversal, tracks Josh\u0027s \u0027episodes\u0027 clinically, and struggles with certainty vs. doubt. These patterns collectively spoil her true role as Lily\u0027s sister investigating Josh. The sexual content is intense but not problematic for spoiler protection. The \u0027fading weeks of my own life\u0027 reference is a near-miss on spoiling the terminal illness revealΓÇökept vague enough to pass but should be monitored. Multiple CRITICAL issues require fixes before this chapter is reader-safe."
+}

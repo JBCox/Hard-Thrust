@@ -1,0 +1,55 @@
+﻿{
+    "chapter":  7,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I\u0027d done this before on other investigations. Worked until dawn, gotten so deep in the hunt that I\u0027d write feverishly for hours. Found pages of notes later that barely made sense, written in that late-night clarity that dissolves by morning.",
+                       "description":  "Josh claiming he\u0027s done \u0027other investigations\u0027 before implies a history of investigative work that doesn\u0027t exist. Josh is a podcaster/writer who\u0027s only been doing this for 4 years (per his email from Derek). More critically, this inadvertently hints at a pattern of fugue-state behavior (writing he doesn\u0027t remember clearly) that he\u0027s normalizing. The phrase \u0027pages of notes later that barely made sense\u0027 is too close to dissociative behavior.",
+                       "fix":  "I\u0027d done this before on other stories. Worked until dawn, gotten so deep in the research that I\u0027d write feverishly for hours. Found pages of notes later that seemed overwrought, written in that late-night intensity that feels profound at 3 AM but melodramatic by morning.",
+                       "rationale":  "Changes \u0027investigations\u0027 to \u0027stories\u0027 (fits his writer persona), changes \u0027barely made sense\u0027 to \u0027seemed overwrought\u0027 (removes dissociative hint while keeping the self-doubt), and clarifies it\u0027s about emotional intensity rather than memory gaps."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I checked my phone: 1:47 PM. The research had consumed me completelyΓÇöhours of work, though I couldn\u0027t swear I\u0027d been in this chair the whole time.",
+                       "description":  "The phrase \u0027couldn\u0027t swear I\u0027d been in this chair the whole time\u0027 hints at dissociative time loss. While Josh later rationalizes this as needing better breaks, the initial framing is too close to fugue-state symptoms in Act 1 (Chapter 7 is still early).",
+                       "fix":  "I checked my phone: 1:47 PM. The research had consumed me completelyΓÇöhours of work in what felt like minutes, the way deep focus always warped time.",
+                       "rationale":  "Reframes as normal hyperfocus (flow state) rather than memory gaps. This is safer for Act 1 while still showing Josh\u0027s obsessive work habits."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Or maybe she was destroying evidence while I stood here mooning over her like an idiot.",
+                       "description":  "Josh jumping to \u0027destroying evidence\u0027 is premature. What evidence? At this point he suspects Eleanor of something vague but hasn\u0027t articulated a specific crime theory. This phrase implies he already believes she\u0027s guilty of something specific enough to have evidence.",
+                       "fix":  "Or maybe she was hiding something while I stood here mooning over her like an idiot.",
+                       "rationale":  "Changes \u0027destroying evidence\u0027 to \u0027hiding something\u0027ΓÇökeeps Josh\u0027s suspicion without prematurely committing to a specific crime theory. More consistent with his still-forming doubts."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "The victim from four years ago. The only body ever recovered on the grounds.",
+                       "description":  "Lily died in February 2020, and the story takes place in November 2024. That\u0027s 4 years and 9 months, which rounds to \u0027nearly five years\u0027 more accurately than \u0027four years.\u0027 The article Josh reads should reflect when it was written (2020), not the current date.",
+                       "fix":  "The victim from 2020. The only body ever recovered on the grounds.",
+                       "rationale":  "Using the year (2020) is more precise and sidesteps the rounding issue. It\u0027s also how Josh would naturally reference itΓÇöby the case year, not elapsed time."
+                   },
+                   {
+                       "category":  "spatial",
+                       "severity":  "MEDIUM",
+                       "line_text":  "When I tried it on, it fit loosely, the leather stiff from weather and time. The fingers were longer than mine, the palm wider. Someone bigger had worn this.",
+                       "description":  "Josh is 6\u00275\" with broad shoulders and a muscular build per the Story Bible. Very few people would be \u0027bigger\u0027 than him with \u0027longer fingers\u0027 and a \u0027wider palm.\u0027 This description suggests the glove belonged to someone significantly larger, which is statistically unlikely and draws unnecessary attention.",
+                       "fix":  "When I tried it on, it fit roughlyΓÇöthe leather stiff from weather and time. Standard size large, common enough. Could belong to anyone.",
+                       "rationale":  "Removes the specific comparison to Josh\u0027s size (which would make the wearer exceptionally large) and reframes as generic/common. The glove is meant to be a red herring, not a clue, so making it non-distinctive serves the story better."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I needed to be careful. Stay rational. Follow the evidence wherever it led.",
+                       "description":  "This closing thought positions Josh as the rational investigator following evidence. However, the chapter has shown him engaging in increasingly irrational behavior (watching Eleanor\u0027s cottage for hours, documenting her movements like surveillance, eavesdropping at 2 AM). The self-perception doesn\u0027t match his actions, which is good dramatic irony, but the final beat should hint at his lack of self-awareness rather than reinforce his self-image as rational.",
+                       "fix":  "I needed to be careful. Stay focused. Not let paranoia win.",
+                       "rationale":  "Changes \u0027Stay rational\u0027 to \u0027Stay focused\u0027 (less self-assured) and adds \u0027Not let paranoia win\u0027 (acknowledges the internal battle). This preserves Josh\u0027s unreliable narrator status while showing he\u0027s aware something is slipping, even if he can\u0027t name it."
+                   }
+               ],
+    "notes":  "Overall the chapter does a good job maintaining Josh\u0027s unreliable narrator voice and his investigative obsession. The late-night documentation, the eavesdropping, and the surveillance behavior all read as concerning to readers while Josh rationalizes it as \u0027normal investigator behavior.\u0027 The glove at the cairn is appropriately treated as a red herring (Josh photographs the clearing but not the glove specifically). Eleanor\u0027s phone call (\u0027running out of time\u0027) is ambiguous enough that readers will interpret it as sinister rather than terminal illness. The confrontation at the cairn where Eleanor tells Josh to \u0027leave this alone\u0027 reinforces reader perception that she\u0027s hiding guilt rather than grief. Strong misdirection overall with only minor technical issues to address."
+}

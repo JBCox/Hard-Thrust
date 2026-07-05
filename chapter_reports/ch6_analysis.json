@@ -1,0 +1,47 @@
+﻿{
+    "chapter":  6,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I need to get closer. Close enough to learn his secrets. Close enough to see what he\u0027s hiding beneath that charming smile. Close enough to finish what I started.",
+                       "description":  "Eleanor\u0027s language sounds like an investigator trying to uncover secrets, not a predator planning harm. \u0027Learn his secrets\u0027 and \u0027see what he\u0027s hiding\u0027 are investigative goals. This violates the Diagnostic Question #2 (Motive Test) - she should want to HURT/DESTROY, not GET ANSWERS.",
+                       "fix":  "I need to get closer. Close enough to make him vulnerable. Close enough to watch him squirm beneath that charming smile. Close enough to finish what I started.",
+                       "rationale":  "Changes investigative language (\u0027learn secrets\u0027, \u0027see what he\u0027s hiding\u0027) to predatory language (\u0027make him vulnerable\u0027, \u0027watch him squirm\u0027). Maintains the ominous tone while shifting from investigator seeking answers to predator seeking control."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I\u0027ve been watching him for weeks now. Getting to know his patterns. His habits.",
+                       "description":  "While \u0027patterns\u0027 and \u0027habits\u0027 could be predatory, this phrasing leans toward surveillance/investigation terminology. Borderline issue - could be read either way, but combined with other investigative language in the chapter, it tips the balance.",
+                       "fix":  "I\u0027ve been watching him for weeks now. Studying his routines. His weaknesses.",
+                       "rationale":  "Changes \u0027patterns\u0027 (investigation term) to \u0027routines\u0027 (more neutral) and \u0027habits\u0027 to \u0027weaknesses\u0027 (predatory focus). Maintains the surveillance aspect but shifts the intent from data collection to identifying vulnerabilities for exploitation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I can see him decidingΓÇöweighing solitude against company. He\u0027s careful. Smart. That makes what I\u0027m doing both harder and easier.",
+                       "description":  "The phrase \u0027makes what I\u0027m doing both harder and easier\u0027 suggests a complex plan or investigation requiring intelligence and strategy. This is investigator thinking (building a case requires careful maneuvering). A predator would think in terms of his caution making him harder to trap or more satisfying to break.",
+                       "fix":  "I can see him decidingΓÇöweighing solitude against company. He\u0027s careful. Smart. That makes him more of a challenge.",
+                       "rationale":  "Removes the analytical \u0027harder and easier\u0027 construction that suggests investigative complexity. Replaces with predatory \u0027challenge\u0027 framing - prey that\u0027s harder to catch is more satisfying to hunt."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I\u0027ve seen beneath the surface. He can fool everyone else, but not me.",
+                       "description":  "This is classic investigator language - \u0027seen beneath the surface\u0027 implies having evidence or knowledge that others lack. This directly violates the Eleanor POV craft rule about hiding that she\u0027s investigating. A predator wouldn\u0027t talk about seeing beneath surfaces; they\u0027d talk about sensing danger or recognizing what he is.",
+                       "fix":  "I know what he is. He can fool everyone else, but not me.",
+                       "rationale":  "Changes investigative \u0027seen beneath the surface\u0027 (implies evidence-gathering) to predatory certainty \u0027I know what he is\u0027. Per Story Bible: \u0027Eleanor must be CERTAIN about Josh\u0027s guilt... should read as dangerous obsession to readers\u0027. This maintains ominous tone while sounding delusional rather than evidence-based."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I ask about his past, listening for what hurts him.",
+                       "description":  "Minor issue but worth noting - \u0027listening for what hurts him\u0027 could imply either predatory exploitation OR investigative pattern-building. In context of other investigative language, this tips toward the latter.",
+                       "fix":  "I ask about his past, probing for weaknesses.",
+                       "rationale":  "Changes sympathetic/analytical \u0027listening for what hurts\u0027 to predatory \u0027probing for weaknesses\u0027. More directly threatening and less about understanding/gathering information."
+                   }
+               ],
+    "notes":  "The intimate scene itself is fine and doesn\u0027t spoil twists. The main issues are concentrated in Eleanor\u0027s internal monologue in the first half and final reflection. The 2 AM woods scene (Josh\u0027s POV) is good misdirection - readers will assume she\u0027s doing something sinister. Overall chapter structure works, but Eleanor\u0027s voice needs adjustment to maintain predatory rather than investigative tone. The self-doubt at the end (\u0027I think I\u0027m falling for him too\u0027) is excellent - it reads as a manipulator losing control, not an investigator with moral conflict."
+}

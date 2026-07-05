@@ -1,0 +1,62 @@
+﻿{
+    "chapter":  4,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "What am I doing? I came here with a purpose. I can\u0027t let him distract me. Can\u0027t let myself forget why I\u0027m here.",
+                       "description":  "Eleanor\u0027s internal monologue sounds too much like an investigator with a mission rather than a predator. \u0027Purpose\u0027 + \u0027why I\u0027m here\u0027 reads as someone on a justice quest, not someone planning harm. Per Story Bible diagnostic questions: fails the Motive Test - she should seem to want to HURT Josh, not get ANSWERS.",
+                       "fix":  "What am I doing? I came here to end this. I can\u0027t let him distract me. Can\u0027t let myself soften now.",
+                       "rationale":  "Changes \u0027purpose/why I\u0027m here\u0027 (investigator language) to \u0027end this\u0027 (predatory finality). \u0027Can\u0027t let myself soften\u0027 maintains the emotional conflict but frames it as a predator wavering in resolve, not an investigator losing objectivity."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I\u0027d left everything behindΓÇömy job, the apartment, the people who would have tried to stop me if they knew. No one understood. No one could.",
+                       "description":  "This reads as someone on a grief-driven justice mission (\u0027no one understood\u0027 implies moral righteousness). Per Story Bible: Eleanor should read as dangerous/obsessive, not sympathetic/grieving. Fails the Stranger Test - sounds like someone seeking closure, not planning violence.",
+                       "fix":  "I\u0027d left everything behindΓÇömy job, the apartment, the people who would have interfered if they knew what I was planning. They would have tried to stop me. They couldn\u0027t.",
+                       "rationale":  "Changes \u0027no one understood\u0027 (sympathy-seeking) to \u0027interfered/tried to stop me\u0027 (implies questionable actions). Removes emotional plea for understanding, makes her sound more calculating and isolated by choice rather than tragedy."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Someone who needed to finish what she started before the opportunity slipped away.",
+                       "description":  "\u0027Finish what she started\u0027 + \u0027before opportunity slipped away\u0027 could imply terminal illness timing (she\u0027s running out of time due to cancer). Too close to revealing Reveal #2 (Eleanor is dying). Should sound more about Josh\u0027s presence being temporary, not Eleanor\u0027s time running out.",
+                       "fix":  "Someone who needed to finish this before he slipped away.",
+                       "rationale":  "Shifts focus from Eleanor\u0027s timeline to Josh\u0027s temporary presence at Thornewood. Removes \u0027opportunity\u0027 language that hints at Eleanor\u0027s limited time. Simpler, more predatory focus on the target."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Had coffee with him today. Twenty-three minutes of small talk and careful smiles. He\u0027s charming. Too charming. The kind of man who makes you want to tell him everything.",
+                       "description":  "Journal entry reads like investigator notes documenting a subject. The time precision (twenty-three minutes) feels surveillance-oriented. Per Story Bible: Eleanor should avoid \u0027observation log\u0027 language in her journal.",
+                       "fix":  "Had coffee with him today. Small talk and careful smiles. He\u0027s charming. Dangerously charming. The kind of man who makes you want to trust him.",
+                       "rationale":  "Removes precise timing (feels less like surveillance logs). Changes \u0027tell him everything\u0027 to \u0027trust him\u0027 - more about emotional vulnerability than information sharing. Maintains her conflict but less investigator-coded."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "His questions about the trails, about the history of this placeΓÇöinnocent enough. But the way he watches everything, cataloging details, makes me uneasy. He\u0027s not just a writer on retreat. He\u0027s looking for something.",
+                       "description":  "Eleanor observing that Josh is \u0027cataloging details\u0027 and \u0027looking for something\u0027 is accurate (he IS investigating), but this makes Eleanor sound like she\u0027s tracking his investigation behavior. This is investigator-vs-investigator framing, not predator-vs-prey. Per Story Bible: she should seem to want him vulnerable, not analyzed.",
+                       "rationale":  "Reframes Josh\u0027s behavior as something that makes him seem dangerous/calculating (predator interpretation) rather than investigative (investigator interpretation). Eleanor should read his curiosity as a threat to her, not as confirmation he\u0027s investigating."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I\u0027m reading too much into nothing. The isolation is making me paranoid. Or maybe it\u0027s making me careless. I can\u0027t decide which is worse.",
+                       "description":  "This self-doubt reads more like investigator anxiety (\u0027am I building a case on nothing?\u0027) than predator certainty. Per Story Bible: Eleanor must be CERTAIN about Josh\u0027s guilt. She shouldn\u0027t wonder if she\u0027s wrong - that implies she might be the dangerous one.",
+                       "fix":  "I\u0027m seeing exactly what I need to see. The isolation is sharpening me. Or maybe it\u0027s making me reckless. I can\u0027t decide which is more dangerous.",
+                       "rationale":  "Flips from self-doubt to dangerous certainty. \u0027Seeing what I need to see\u0027 sounds obsessive (predator reading signs). \u0027Sharpening me\u0027 vs \u0027making me reckless\u0027 maintains internal conflict without questioning her core belief about Josh."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I find myself wanting to trust him. That\u0027s the most dangerous thing of all. I have to remember why I came here. What happens when winter ends. What I\u0027m going to do to him.",
+                       "description":  "Journal entry combines \u0027why I came here\u0027 (mission/purpose language) with \u0027what I\u0027m going to do to him\u0027 (implies premeditated plan). This is too explicitly investigator/justice-seeker language. Per Story Bible: avoid mission statements. Also \u0027what happens when winter ends\u0027 could hint at the March confrontation timeline.",
+                       "fix":  "I find myself wanting to trust him. That\u0027s the most dangerous thing of all. I have to remember what he is. What happens when I stop pretending. What I want to do to him.",
+                       "rationale":  "\u0027What he is\u0027 (not why I\u0027m here) focuses on Josh being the threat. \u0027When I stop pretending\u0027 implies she\u0027s holding back violence/true nature (predatory). \u0027Want to do to him\u0027 (not \u0027going to\u0027) sounds more emotional/dangerous, less calculated plan execution."
+                   }
+               ],
+    "notes":  "Chapter 4 has significant Eleanor POV spoiler leakage. Multiple instances of investigator language (\u0027purpose,\u0027 \u0027why I\u0027m here,\u0027 \u0027cataloging details\u0027), grief-driven mission framing (\u0027no one understood\u0027), and self-doubt about her certainty. Per Story Bible diagnostic questions, this chapter fails the Stranger Test (sounds like grieving investigator) and Motive Test (wants answers/closure, not to harm Josh). All fixes aim to maintain Eleanor\u0027s emotional conflict while reframing her internal voice as predatory/obsessive rather than investigative/sympathetic."
+}

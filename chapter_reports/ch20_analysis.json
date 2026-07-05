@@ -1,0 +1,55 @@
+﻿{
+    "chapter":  20,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I pull out her journal. The one I\u0027ve been carrying for two years. My hands shake as I open it to February 16th, 2020:\n\n*\"Marcus is super nice. I think he really gets me. We talked for hours today about conservation and climate change and he actually listened, didn\u0027t just wait for his turn to talk like most guys. I feel safe with him.\"*\n\nShe was safe.\n\nShe trusted him.\n\nAnd two days later she was dead. Found on the grounds of this estate. Gone before anyone could help her.\n\nI close the journal. Press it against my chest. Feel the weight of it.",
+                       "description":  "CRITICAL SPOILER: Eleanor explicitly reveals that (1) the victim is \u0027her\u0027 (sister relationship), (2) she has the victim\u0027s journal, (3) the victim knew \u0027Marcus\u0027, and (4) Eleanor is seeking justice for this specific person. This completely spoils Reveal #3 (Eleanor is Lily\u0027s sister). The grief language (\u0027She deserves better\u0027, \u0027the person I failed to protect\u0027) makes the sister connection obvious. This section fails all three diagnostic tests: Stranger Test (reads as grieving sister, not predator), Motive Test (justice/closure, not harm), and violates the rule that Eleanor\u0027s relationship to Lily must stay hidden until Ch26.",
+                       "fix":  "REMOVE ENTIRE JOURNAL SECTION (from \u0027I could let it go.\u0027 through \u0027another world where neither of us was broken.\u0027). Replace with:\n\nI could stop now.\n\nThe thought kept circling, insistent as the pain in my head. I could walk away. Leave this place. Let the questions stay unanswered.\n\nBut I\u0027ve come too far. Sacrificed too much. And he\u0027s so close to breaking. So close to showing me what I need to see.\n\nI just need a few more days. A few more chances to watch him unravel.\n\nThen I\u0027ll know for certain what he is.",
+                       "rationale":  "Removes explicit sister relationship reveal and grief language. New version maintains predatory tone (watching him unravel, wanting to see what he is) without revealing Eleanor\u0027s true connection to Lily. Preserves the \u0027hunter watching prey\u0027 dynamic required for Acts 1-2."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "The one I\u0027d been staring at for months. The reason I was here. The reason I\u0027d left everything behind to take a groundskeeper job at an isolated estate in the middle of nowhere.\n\nSomething happened here. Years ago. Something that took someone I loved.",
+                       "description":  "Explicitly states Eleanor is here because \u0027something took someone I loved\u0027 - reveals personal grief connection (sister) rather than predatory obsession. Should read as dangerous fixation, not mourning.",
+                       "fix":  "The one I\u0027d been staring at for months. The reason I was here. The reason I\u0027d left everything behind to take a groundskeeper job at an isolated estate in the middle of nowhere.\n\nSomething happened here. Years ago. Something that needs to be finished.",
+                       "rationale":  "\u0027Something that needs to be finished\u0027 maintains ominous tone without revealing Eleanor\u0027s personal loss or relationship to the victim. Sounds threatening rather than grief-stricken."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I\u0027d been trying to make peace with it ever since. Trying to accept the loss. Trying to figure out if the pain would ever stop.",
+                       "description":  "\u0027Accept the loss\u0027 and \u0027the pain\u0027 are grief language that reveals Eleanor is mourning someone, not hunting someone. Fails Motive Test (reads as closure-seeking, not harm-seeking).",
+                       "fix":  "I\u0027d been trying to finish this ever since. Trying to get what I came for. Trying to figure out if it would ever be enough.",
+                       "rationale":  "Removes grief/loss language. \u0027Get what I came for\u0027 and \u0027if it would ever be enough\u0027 sound predatory and obsessive without revealing personal connection to victim."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I pulled out the journal. The one I\u0027d found in the cottage loft last summer, hidden in a box of belongings the estate management had stored but never claimed. Five months of entries from a winter caretaker. From 2020.",
+                       "description":  "CRITICAL LOGIC ERROR: Eleanor OWNS Thornewood (she\u0027s an Ashford). She would not \u0027find\u0027 a journal in estate storage - she would have full access to all estate records and belongings as the owner. This backstory contradicts her true identity. Additionally, presenting this as a \u0027winter caretaker\u0027s journal\u0027 creates confusion about whose journal it is.",
+                       "fix":  "REMOVE ENTIRE JOURNAL PASSAGE (from \u0027I pulled out the journal\u0027 through \u0027Just desperate pattern-making in grief.\u0027). This section is redundant - Eleanor\u0027s suspicions are already established earlier in the chapter, and the journal material either spoils twists or creates logical contradictions.",
+                       "rationale":  "Eleanor\u0027s ownership of Thornewood means she can\u0027t credibly \u0027find\u0027 stored belongings. Removing this section eliminates the logic error and removes investigator-language patterns (\u0027Looking for answers. Connections. Proof.\u0027). The chapter functions without it."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I stared at the photo until my vision blurred.\n\nPart of me had wanted simple answers. Clear villains. Someone to blame who deserved all my rage and grief.",
+                       "description":  "\u0027Rage and grief\u0027 explicitly reveals Eleanor is mourning a personal loss. Should read as obsessive hunt, not bereavement.",
+                       "fix":  "I stared at the photo until my vision blurred.\n\nPart of me had wanted simple answers. Clear proof. Something I could use to finish this without doubt.",
+                       "rationale":  "\u0027Clear proof\u0027 and \u0027finish this\u0027 maintain investigation tone but sound more predatory than grief-stricken. Removes emotional vulnerability that reveals sister connection."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Today I would tell Josh the truth about why I was here.\n\nToday I would show him what I\u0027d found. What I suspected. What terrified me.\n\nToday I would ask him the questions I\u0027d been too afraid to ask.",
+                       "description":  "Eleanor says she\u0027ll tell Josh \u0027today\u0027 (Dec 27), but the confrontation doesn\u0027t happen until Feb 28 (Ch23). This is a minor timeline issue - she loses her nerve, which is plausible, but the repetition of \u0027today\u0027 feels overly definitive for something that won\u0027t happen for 2 months.",
+                       "fix":  "Soon I would tell Josh the truth about why I was here.\n\nSoon I would show him what I\u0027d found. What I suspected. What terrified me.\n\nSoon I would ask him the questions I\u0027d been too afraid to ask.",
+                       "rationale":  "\u0027Soon\u0027 instead of \u0027today\u0027 makes Eleanor\u0027s intention clear without creating a false timeline promise. Maintains the tension of her preparing for confrontation while allowing for the actual 2-month delay."
+                   }
+               ],
+    "notes":  "This chapter has severe spoiler protection issues. The journal section explicitly reveals Eleanor\u0027s sister relationship to the victim, which is Reveal #3 (not until Ch26). The grief language throughout (\u0027loss\u0027, \u0027pain\u0027, \u0027rage and grief\u0027, \u0027someone I loved\u0027) fails the Stranger Test and Motive Test - Eleanor reads as a mourning sister seeking closure, not a predator. The journal logic also contradicts Eleanor\u0027s ownership of the estate. Recommend substantial revision to remove all grief/sister references and maintain predatory \u0027hunter watching prey\u0027 tone required for Act 2."
+}

@@ -1,0 +1,47 @@
+﻿{
+    "chapter":  26,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "timeline",
+                       "severity":  "CRITICAL",
+                       "line_text":  "Five years of investigation. Two years of active surveillance. Almost a year of living a lie so complete I sometimes forgot it was a lie.",
+                       "description":  "Timeline contradiction. Lily died February 2020. Josh arrives October 2024. That\u0027s 4 years 8 months, not 5 years. Also, Eleanor\u0027s tenure at Thornewood is ~6 months (since April 2024), not \u0027almost a year.\u0027",
+                       "fix":  "Two years of planning. Two years of active surveillance. Six months of living a lie so complete I sometimes forgot it was a lie.",
+                       "rationale":  "Aligns with Story Bible: Lily died Feb 2020, Eleanor investigated 2+ years after (2020-2022), lured Josh in 2024 after hearing his podcast announcement ~2 years prior. Eleanor claimed 6 months tenure at Thornewood (since ~April 2024)."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "CRITICAL",
+                       "line_text":  "Lily\u0027s timeline. My timeline. Josh\u0027s timeline. All three converging on February 2020, right here at Thornewood.",
+                       "description":  "Timeline reference is correct for Lily\u0027s death (Feb 2020) and matches Story Bible.",
+                       "fix":  "NO FIX NEEDED - This line is accurate.",
+                       "rationale":  "This is actually correct upon review - Lily died Feb 2020 per Story Bible."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "HIGH",
+                       "line_text":  "I\u0027ve spent two years building this case. I quit my job. Became a PI. Tracked every movement, every alias, every lie. I didn\u0027t come here on a hunch. I came here because I know.",
+                       "description":  "Eleanor says \u0027two years building this case\u0027 but the timeline shows Lily died Feb 2020 and Josh arrives Oct 2024 (4 years 8 months later). Eleanor\u0027s active investigation was 2+ years per Story Bible, but saying \u0027two years\u0027 in March 2025 is understating it.",
+                       "fix":  "I\u0027ve spent years building this case. I quit my job. Became a PI. Tracked every movement, every alias, every lie. I didn\u0027t come here on a hunch. I came here because I know.",
+                       "rationale":  "Removes specific timeframe that creates math problems. \u0027Years\u0027 is vague enough to cover the 2+ years of investigation Eleanor conducted between 2020-2024."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Six confirmed victims. Possibly more. The pattern goes back at least five years.",
+                       "description":  "Story Bible states pattern goes back to 2019 (Sarah Martinez, Oct 2019). Current date is March 2025. That\u0027s 5.5 years, which rounds to \u0027at least five years\u0027 - technically accurate but could be clearer as \u0027at least six years\u0027 since we\u0027re in early 2025.",
+                       "fix":  "Six confirmed victims. Possibly more. The pattern goes back to late 2019.",
+                       "rationale":  "More precise dating avoids rounding ambiguity. \u0027Late 2019\u0027 (Sarah Martinez, Oct 2019) to March 2025 is clearly the 5+ year span without math confusion."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Tomorrow I have to reveal that every time we touched, every time we made love, every intimate moment between us was Eleanor sleeping with Lily\u0027s killer.",
+                       "description":  "This internal thought is fine for Eleanor\u0027s POV, but the phrase \u0027sleeping with Lily\u0027s killer\u0027 is very direct. Eleanor would know this more viscerally - it\u0027s not an abstraction to her.",
+                       "fix":  "Tomorrow I have to reveal that every time we touched, every time we made love, every intimate moment between us was me betraying my sister with the man who strangled her.",
+                       "rationale":  "More visceral and personal. Eleanor\u0027s guilt is about betraying Lily specifically, not the abstract concept of \u0027the killer.\u0027 Makes the emotional truth sharper without changing spoiler level."
+                   }
+               ],
+    "notes":  "Chapter is remarkably clean overall. The main issues are timeline math (5 years vs. 4.8 years since Lily\u0027s death, \u0027almost a year\u0027 at Thornewood vs. 6 months established). The emotional core and reveals are well-executed. Eleanor\u0027s voice maintains appropriate investigator tone while revealing her grief. The letter is a strong narrative device. The footage scene is visceral without being gratuitous. One minor issue: Eleanor says she\u0027s watched the footage \u0027237 times\u0027 - hyper-specific number feels authentic to obsessive reviewing. No spoiler leaks detected about protected twists (Josh\u0027s mother, Eleanor\u0027s identity already revealed at this point in story)."
+}

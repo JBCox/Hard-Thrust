@@ -81,11 +81,11 @@
 - **Style:** Practical - jeans, canvas jacket, worn leather; dresses for function not fashion
 
 ### Her True Identity
-- Born Eleanor Ashford - part of the family that owns Thornewood Estate
+- Born Eleanor Ashford - Lily Ashford's older sister
 - Lily Ashford was her younger sister
 - "Moore" is her married name (divorced/widowed, kept the name)
-- She inherited Thornewood after Lily's death
-- She's posing as "groundskeeper" but actually OWNS the property
+- After Lily's murder she quit teaching and became a private investigator to hunt Josh
+- She does NOT own Thornewood: the estate is unsold and run by a third-party management company; she APPLIED for the groundskeeper position and got hired under the name "Moore" so she could watch Josh (outside owners sell the estate in Aug 2025)
 
 ### What Eleanor Knows
 - Josh killed her sister Lily in February 2020
@@ -318,7 +318,7 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 | **Feb 28** | **REVEAL 4:** Josh is the killer (Ch 25) | He's Marcus Webb; evidence room confrontation; Eleanor confirms |
 | **March 1** | **REVEAL 1:** Eleanor's not drugging him (Ch 26) | The pills are cancer medication |
 | **March 1** | **REVEAL 2:** Eleanor is dying (Ch 26) | Terminal brain tumor, months to live |
-| **March 1** | **REVEAL 3:** Eleanor is Lily's sister (Ch 26) | She owns the estate; her real name is Ashford |
+| **March 1** | **REVEAL 3:** Eleanor is Lily's sister (Ch 26) | She's a PI who got herself hired as groundskeeper; her real name is Ashford |
 | **March 2** | **REVEAL 5:** Josh's mother was killed at Thornewood (Ch 27) | In 1998 - he's been returning to the site of his original trauma |
 | **March 2** | Josh processes the truth | Reviews evidence with Eleanor; learns about his mother |
 | **~Feb 25** | **ELEANOR'S INSURANCE** | Eleanor mails backup evidence package to Rachel with March 20 deadline |
@@ -326,7 +326,7 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 | **March 16-18** | Psychiatric evaluation begins | Josh evaluated; Eleanor in hospice with parents |
 | **April 3** | **ELEANOR DIES** | In hospice with parents. Josh is in psychiatric evaluation. |
 | **April 8** | **PLEA HEARING** | Josh enters guilty-except-for-insanity plea |
-| **June 15** | **SENTENCING** | Victim impact statements; Josh learns of Eleanor's death; indefinite psychiatric commitment |
+| **June 16** | **SENTENCING** | Victim impact statements; Josh learns of Eleanor's death; indefinite psychiatric commitment |
 | **Epilogue** | Eleanor (Mar 29), then Josh (Sep 2025) | Pt 1: Eleanor visits Lily's grave in wheelchair. Pt 2: Josh in psychiatric facility, naming victims nightly. Ends on "Forever."
 
 ### PACING NOTES
@@ -356,7 +356,7 @@ Early in the book (Chapter 1-3) when Josh is explaining why Thornewood interests
 
 1. **Eleanor's not drugging Josh** - The pills are her cancer medication
 2. **Eleanor is dying** - Terminal brain tumor, months to live
-3. **Eleanor is Lily's sister** - And she owns the estate (not just groundskeeper)
+3. **Eleanor is Lily's sister** - And she's the PI hunting Josh, only posing as the groundskeeper
 4. **Josh is the killer** - He's Marcus Webb, he killed Lily and others
 5. **Josh's mother was killed at Thornewood (1998) by his father** - He witnessed it at age 3; he's been returning to the site of his original trauma without knowing it
 
@@ -644,7 +644,7 @@ Eleanor is investigating her sister's killer, but readers must think SHE is the 
 ### What Eleanor's POV Must HIDE (Until Reveals)
 1. That she's dying (terminal illness) - NO hints about symptoms or limited time due to health
 2. That Lily was her sister
-3. That she owns the estate
+3. That she's a PI posing as the groundskeeper (not the real caretaker)
 4. That Josh is her suspect (not her prey)
 5. That she's investigating, not hunting
 6. Why she's really at Thornewood
@@ -818,7 +818,7 @@ The power dynamic shifts. Eleanor is vulnerable in a way she hasn't shown before
 
 ---
 
-### REVEAL #3: Eleanor Is Lily's Sister (And Owns the Estate)
+### REVEAL #3: Eleanor Is Lily's Sister (The PI Posing as the Groundskeeper)
 
 **The moment:**
 They climb to the loft. Josh sees the investigation room for the first time—boxes, photos, case files, maps with pins.
@@ -834,14 +834,14 @@ She picks up a framed photo. Two young women, arms around each other, laughing. 
 **The evidence cascade:**
 - Family photos spanning decades
 - Lily's journal (the phrases Josh "somehow knew" on his podcast)
-- Property deed showing Eleanor Ashford as owner
+- Two years of PI surveillance records tracking Josh to Thornewood
 - Obituary, funeral program
 - Eleanor's real ID (Ashford, not Moore)
 
 **Eleanor's explanation:**
 "Moore was my married name. I kept it after the divorce because I didn't want to be Eleanor Ashford anymore. Ashford meant Lily. Meant this place. Meant everything I lost."
 
-"I own Thornewood. I inherited it when Lily died. I've been pretending to be the groundskeeper because I needed to watch you. Needed to understand what you are."
+"I've been pretending to be the groundskeeper because I needed to watch you. I applied for the job, faked the references, got myself hired. Two years of tracking you, and it led here. I needed to understand what you are."
 
 **Josh's reaction:**
 The world is inverting. Eleanor isn't hunting random victims—she's investigating her sister's murder. But that means...

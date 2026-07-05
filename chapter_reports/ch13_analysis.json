@@ -1,0 +1,39 @@
+﻿{
+    "chapter":  13,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "CRITICAL",
+                       "line_text":  "And underneath it all, wrapped in clothΓÇöa handgun. Smith \u0026 Wesson 9mm. Loaded.",
+                       "description":  "Josh shouldn\u0027t be able to confirm the gun is loaded without handling it and checking the magazine. When documenting evidence, he would note uncertainty about load status.",
+                       "fix":  "And underneath it all, wrapped in clothΓÇöa handgun. Smith \u0026 Wesson 9mm. I didn\u0027t handle it to check if it was loaded.",
+                       "rationale":  "Maintains realism without changing the scene\u0027s impact. Josh is an investigator who documents what he can verify versus what he assumes."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I\u0027ve been avoiding the upper shelves. Something about heights in the dark, maybe, or the way the ladder sways slightly, or how the second-story shelves are deep in shadow even with the fire. But insomnia makes me brave, or stupid, or both.",
+                       "description":  "The phrase \u0027second-story shelves\u0027 creates confusion. The library is described as \u0027two stories of shelves\u0027 meaning height, not building floors. But \u0027second-story\u0027 could mislead readers into thinking the library occupies two floors of the mansion, which could create spatial inconsistency issues.",
+                       "fix":  "I\u0027ve been avoiding the upper shelves. Something about heights in the dark, maybe, or the way the ladder sways slightly, or how the highest shelves are deep in shadow even with the fire. But insomnia makes me brave, or stupid, or both.",
+                       "rationale":  "Clarifies that these are the highest shelves (requiring the ladder) without suggesting the library spans multiple building floors. Maintains the atmospheric tension."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I circle the room, trailing fingers along book spines. The library is two stories of shelves connected by a wrought-iron rolling ladder.",
+                       "description":  "Josh describes this as if seeing it for the first time, but he\u0027s been working in this library \u002712-14 hours a day\u0027 for nearly two months. The phrasing suggests discovery rather than familiar description.",
+                       "fix":  "I circle the room, trailing fingers along book spines. Two stories of shelves connected by the wrought-iron rolling ladder I\u0027ve mostly avoided.",
+                       "rationale":  "Acknowledges his familiarity with the space while setting up why he hasn\u0027t explored the upper shelves yet. Maintains narrative flow."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "*Nov 15 - Refused Eleanor\u0027s lunch. Stayed alert all afternoon. No drowsiness. No gaps. Correlation or causation? Can\u0027t tell. Need more data.*",
+                       "description":  "The journal entry is dated Nov 15, but the chapter header says December 10. The trunk discovery happened \u0027earlier that day\u0027 (Dec 10), and the food refusal scene happened \u0027that afternoon.\u0027 The journal entry date should be Dec 10.",
+                       "fix":  "*Dec 10 - Refused Eleanor\u0027s lunch. Stayed alert all afternoon. No drowsiness. No gaps. Correlation or causation? Can\u0027t tell. Need more data.*",
+                       "rationale":  "Aligns journal date with chapter date. The food refusal happened the same day as the trunk discovery (Dec 10), not a month earlier."
+                   }
+               ],
+    "notes":  "The 3:47 AM scene where Eleanor enters Josh\u0027s room is effectively creepy and maintains ambiguityΓÇöreaders will think she\u0027s planning to drug/harm him, but she\u0027s actually checking on him (possibly documenting his sleep patterns as part of her investigation). The dog Scout\u0027s wariness of both of them is excellent misdirection. The kill kit discovery is powerful but verify against Story Bible that this trunk scene is canonicalΓÇöI don\u0027t see it referenced in the Story Bible\u0027s confrontation mechanics section where Eleanor eventually explains these items."
+}

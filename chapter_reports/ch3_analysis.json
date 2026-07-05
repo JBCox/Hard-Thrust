@@ -1,0 +1,47 @@
+﻿{
+    "chapter":  3,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "CRITICAL",
+                       "line_text":  "The victim\u0027s identity had been withheld from official reports to protect the family\u0027s privacyΓÇösome forums and amateur sleuths had found the first name, but the full details had been kept out of official coverage.",
+                       "description":  "Josh refers to \u0027the victim\u0027 (singular) of the 2020 murder, but he doesn\u0027t yet know her name is Lily. However, the phrasing \u0027some forums...had found the first name\u0027 creates a spoiler riskΓÇösavvy readers might think \u0027what first name did they find?\u0027 and this draws attention to Lily\u0027s identity before the reveal. Also, Story Bible confirms Josh researched this case extensively, so claiming forums found \u0027the first name\u0027 is inconsistent with his deep research.",
+                       "fix":  "The case details had been carefully controlledΓÇövictim identity withheld to protect the family, no suspects named, minimal information released. The kind of case that frustrated amateur investigators and forum sleuths alike.",
+                       "rationale":  "Removes the \u0027first name found\u0027 detail that draws attention to Lily\u0027s identity. Maintains Josh\u0027s research credibility while keeping victim details vague. Frames it as information control rather than partial leaks."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "HIGH",
+                       "line_text":  "Eleanor Moore, had been here six months.",
+                       "description":  "Story Bible states Eleanor CLAIMS 6 months but Josh should express doubt about this claim since he\u0027s investigating her. Per Story Bible: \u0027Josh knows this claim from the rental listing. He should express doubt about it, not claim ignorance of when she started.\u0027",
+                       "fix":  "Eleanor Moore claimed she\u0027d been here six monthsΓÇöat least, that\u0027s what the rental listing said.",
+                       "rationale":  "Adds Josh\u0027s investigative skepticism about Eleanor\u0027s timeline claim, consistent with his suspicious nature and Story Bible guidance. Doesn\u0027t confirm or deny, just notes the claim."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I\u0027d applied under a pseudonymΓÇöJoshua Michaels instead of Joshua CaineΓÇöbecause my real name would pull up my podcast, my true crime work, and that might make the property manager nervous about renting to someone who\u0027d obviously want to dig into the murder.",
+                       "description":  "This contradicts Eleanor\u0027s dialogue in this same chapter where she says \u0027I listened to a few episodes after you booked the stay\u0027 and \u0027I know...I listened to a few episodes.\u0027 If Josh used a pseudonym on the rental application, how did Eleanor connect \u0027Joshua Michaels\u0027 to Josh Caine\u0027s podcast? Story Bible confirms Eleanor already knows about his podcast from his announcement 2 years ago, so she would have recognized him regardless of the pseudonym.",
+                       "fix":  "I\u0027d applied as \u0027an author seeking solitude\u0027 on the rental application, carefully omitting any mention of true crime work or podcasting. Not exactly a lieΓÇöI was writing a book. I just left out the part about investigating an unsolved murder.",
+                       "rationale":  "Removes the pseudonym contradiction. Story Bible confirms Josh described himself as \u0027author seeking solitude\u0027 on the application. Eleanor already knew who he was from his podcast announcement 2 years ago (Story Bible: \u0027She heard Josh announce his Thornewood trip ~2 years ago on his podcast\u0027). This fix aligns with established facts."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I paused at that entry. An unsolved murderΓÇöexactly the kind of material I\u0027d come here for. The podcast practically wrote itself: atmospheric location, tragic history, questions that never got answers. I made a mental note to dig deeper into the 1998 case.",
+                       "description":  "Josh makes a note to investigate the 1998 murder but then never follows up on it in this chapter or subsequent research. Story Bible says Josh has a visceral reaction to the 1998 entry and his eyes \u0027slide away\u0027 from it (trauma avoidance). This line suggests active interest in investigating it, which contradicts the avoidance pattern and draws too much attention to the 1998 case.",
+                       "fix":  "I paused at that entry. An unsolved murder in the house itselfΓÇötragic. My eyes kept sliding away from that line. Something about it made my chest tight. I moved on to the more recent cases.",
+                       "rationale":  "Replaces active interest with the trauma avoidance pattern from Story Bible (line 828 consistency fix: \u0027My eyes kept sliding away from that line\u0027). Josh unconsciously avoids the 1998 case because it\u0027s his mother\u0027s murder. This prevents drawing attention to 1998 while showing his psychological defense mechanism."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "That left three I couldn\u0027t account for. Three that fit the pattern of Thornewood.",
+                       "description":  "Josh says \u0027three I couldn\u0027t account for\u0027 but Story Bible victim list shows 6 total victims (Sarah Martinez, Kevin Chen, Lily Ashford, Jennifer Wallace, Robert Fischer, David Park). The \u0027three\u0027 is unclearΓÇödoes he mean three still missing? The context suggests he\u0027s narrowed down his research but the number doesn\u0027t match established facts. Story Bible notes Josh refers to \u0027five disappeared\u0027 in early chapters (Eleanor\u0027s investigation count, excluding Lily), but here he says \u0027three.\u0027",
+                       "fix":  "That left five I couldn\u0027t account for. Five disappearances or deaths that clustered around this area, this estate, over the past few years.",
+                       "rationale":  "Changes to \u0027five\u0027 to match Story Bible\u0027s established \u0027five disappeared\u0027 reference (the cases Eleanor focused on: Sarah, Kevin, Jennifer, Robert, DavidΓÇöexcluding Lily, her personal case). This aligns with Josh\u0027s research scope and avoids number inconsistencies."
+                   }
+               ],
+    "notes":  "Chapter is relatively clean overall. Main issues are: (1) the pseudonym contradiction with Eleanor already knowing his podcast, (2) Josh showing interest in 1998 case when he should be unconsciously avoiding it, (3) timeline claim about Eleanor that needs skepticism, and (4) victim count clarity. The crushing pills observation is handled wellΓÇöJosh sees it, questions it, Eleanor deflects plausibly. No forbidden investigator language detected in Eleanor\u0027s dialogue. Josh\u0027s suspicious observations of Eleanor are appropriate for his POV."
+}

@@ -1,0 +1,127 @@
+﻿{
+    "chapter":  12,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "He trusts me completely.",
+                       "description":  "Eleanor framing Josh\u0027s trust as a strategic advantage reads like an investigator executing a plan. Should sound predatory (exploiting vulnerability) not investigative (using trust to extract information).",
+                       "fix":  "He trusts me completely. That makes him vulnerable.",
+                       "rationale":  "Shifts from investigator language (\u0027using trust to get information\u0027) to predator language (\u0027trust equals vulnerability to exploit\u0027). Maintains the ominous tone while avoiding investigation framing."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Tonight will be different. Tonight I\u0027ll find out what I need to know.",
+                       "description":  "\u0027Find out what I need to know\u0027 is classic investigator language seeking answers/evidence. Predators don\u0027t seek informationΓÇöthey seek opportunities to harm.",
+                       "fix":  "Tonight will be different. Tonight I\u0027ll push him further.",
+                       "rationale":  "Changes from seeking information (investigator) to escalating manipulation (predator). Maintains ominous tone without revealing Eleanor\u0027s true investigative purpose."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "That fear makes him vulnerable. Easier to reach. Easier to control.",
+                       "description":  "\u0027Easier to control\u0027 is fine predator language, but \u0027easier to reach\u0027 sounds like building investigative rapport rather than exploiting weakness.",
+                       "fix":  "That fear makes him vulnerable. Easier to exploit. Easier to control.",
+                       "rationale":  "Replaces \u0027reach\u0027 (which implies connection-building for information gathering) with \u0027exploit\u0027 (pure predatory intent). Maintains parallel structure while avoiding investigator framing."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I came here with a purpose. Instead, I\u0027m losing myself. Every time we\u0027re together, I forget a little more what I came here to do.",
+                       "description":  "\u0027What I came here to do\u0027 combined with earlier \u0027find out what I need to know\u0027 creates an investigative mission frame. Should read as violent intent being undermined by feelings.",
+                       "fix":  "I came here to destroy him. Instead, I\u0027m losing myself. Every time we\u0027re together, I forget a little more why I wanted to.",
+                       "rationale":  "Changes from mission/purpose language (investigative) to explicit violent intent (predatory). The shift to \u0027wanted to\u0027 (past tense desire) shows feelings eroding her resolve without revealing investigation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "The time has come. He trusts me completely. He\u0027ll believe whatever I show him. I have to be ready to finish this.",
+                       "description":  "\u0027He\u0027ll believe whatever I show him\u0027 implies presenting evidence/information (investigator revealing findings). Should sound like exploiting trust for harm, not revelation.",
+                       "fix":  "The time has come. He trusts me completely. He won\u0027t see it coming. I have to be ready to finish this.",
+                       "rationale":  "Removes \u0027show him\u0027 (evidence presentation) and replaces with \u0027won\u0027t see it coming\u0027 (predator advantage). Maintains ominous intent without investigative framing. Echoes her earlier phone call line for consistency."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "Things I couldn\u0027t let go of. Things that proved I wasn\u0027t imagining this. All the pieces of a puzzle I\u0027d been circling for so long.",
+                       "description":  "\u0027Pieces of a puzzle\u0027 is explicit investigative language. This directly reveals Eleanor is solving a mystery rather than planning violence.",
+                       "fix":  "Things I couldn\u0027t let go of. Things that fed the anger. All the pieces of what drove me here.",
+                       "rationale":  "Removes puzzle/investigation metaphor entirely. Replaces with emotional/vengeful motivation (anger, being driven) which reads as predatory obsession rather than investigative work."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Because I\u0027d kissed him. Let him inside me. And if something\u0027s wrong with himΓÇöif he\u0027s not who he seemsΓÇöwhat does that make me?",
+                       "description":  "\u0027If something\u0027s wrong with him\u0027 reads like uncertainty/investigation. Eleanor is 85% certain Josh is the killer before he arrives (per Story Bible). She should be certain, not questioning.",
+                       "fix":  "Because I\u0027d kissed him. Let him inside me. And if I\u0027m falling for the man I came here to destroyΓÇöwhat does that make me?",
+                       "rationale":  "Removes investigative uncertainty and replaces with moral conflict about her violent intent versus developing feelings. Maintains her certainty while showing the emotional complication."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "endless acres of frozen wilderness and too many unanswered questions.",
+                       "description":  "\u0027Unanswered questions\u0027 frames Eleanor as seeking information (investigator). She should already be certain, with the conflict being execution not discovery.",
+                       "fix":  "endless acres of frozen wilderness and too much time to second-guess myself.",
+                       "rationale":  "Removes \u0027unanswered questions\u0027 (investigative uncertainty) and replaces with self-doubt about her resolve. Shows internal conflict without suggesting she\u0027s still gathering information."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "There was what I knew: Something\u0027s wrong with him. He loses time. Forgets things. The cracks are showing, and soon he won\u0027t be able to hide what he really is.",
+                       "description":  "\u0027Won\u0027t be able to hide what he really is\u0027 is investigator language watching for exposure/revelation. Per Story Bible diagnostic: predators watch for FEAR, not exposure. This is the exact pattern fixed in Session 6.",
+                       "fix":  "There was what I knew: Something\u0027s wrong with him. He loses time. Forgets things. The cracks are showing, and soon he won\u0027t be able to resist what\u0027s inside him.",
+                       "rationale":  "Changes from watching for exposure (investigator) to watching for the danger to manifest (predator observing threat escalation). Maintains observation of Josh\u0027s fugue states without framing Eleanor as seeking revelation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "But I had to keep trying. Had to see this through.",
+                       "description":  "\u0027Keep trying\u0027 implies investigative effort to find answers. Eleanor should be preparing to act, not investigating.",
+                       "fix":  "But I had to keep going. Had to see this through.",
+                       "rationale":  "Subtle change from \u0027trying\u0027 (seeking/investigating) to \u0027going\u0027 (continuing on a set path). Maintains determination without suggesting ongoing investigation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Because I couldn\u0027t let it go. Couldn\u0027t stop. Not until I knew for sure.",
+                       "description":  "\u0027Not until I knew for sure\u0027 reveals Eleanor is still investigating/confirming. Per Story Bible, she\u0027s already 85% certain and becomes 100% certain during the blackout scene (Ch16+). In December, she should already be certain enough to act.",
+                       "fix":  "Because I couldn\u0027t let it go. Couldn\u0027t stop. Not until this was finished.",
+                       "rationale":  "Removes investigative uncertainty (\u0027knew for sure\u0027) and replaces with completion language (\u0027finished\u0027). Shows obsession with seeing her plan through, not gathering evidence."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "This was my penance. This was my purpose. This was the only thing that mattered.",
+                       "description":  "\u0027Penance\u0027 has grief/justice connotations (making amends, atoning) which could hint at Eleanor\u0027s sister connection. Should sound like obsession/vengeance without justice framing.",
+                       "fix":  "This was my obsession. This was my purpose. This was the only thing that mattered.",
+                       "rationale":  "Changes \u0027penance\u0027 (grief/justice language that hints at personal loss) to \u0027obsession\u0027 (predatory fixation). Maintains intensity without hinting at Eleanor\u0027s true motivation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I watched him the way I always watched him nowΓÇösearching for signs of whatever I\u0027d seen that morning. Any hint of wrongness.",
+                       "description":  "\u0027Searching for signs\u0027 is investigative observation. Should be watching for vulnerability/opportunity (predator) not evidence gathering.",
+                       "fix":  "I watched him the way I always watched him nowΓÇöwaiting for the wrongness to surface again. Any hint of what he tries to hide.",
+                       "rationale":  "Changes from active searching (investigator) to passive waiting (predator watching prey). \u0027What he tries to hide\u0027 maintains menace without framing Eleanor as evidence-gathering."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "on all the questions I still couldn\u0027t answer, all the things that didn\u0027t add up",
+                       "description":  "\u0027Questions I couldn\u0027t answer\u0027 and \u0027things that didn\u0027t add up\u0027 is explicit investigative language suggesting Eleanor is still puzzling things out.",
+                       "fix":  "on all the ways I was losing control, all the feelings I couldn\u0027t afford",
+                       "rationale":  "Removes investigative framing entirely. Replaces with emotional conflict about her plan being compromised by feelings for Josh. Maintains tension without revealing investigation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "Not until I understood what really happened. Why I\u0027d come to Thornewood in the first place.",
+                       "description":  "Final line reveals Eleanor is seeking understanding (investigative goal). Directly contradicts that she already knows Josh is the killer and came to confront him.",
+                       "fix":  "Not until I finished what I came to Thornewood to do. Why I\u0027d trapped us here together.",
+                       "rationale":  "Removes \u0027understood what happened\u0027 (investigation) and replaces with completion of violent intent. \u0027Trapped us here together\u0027 is predatory action consistent with her luring him to the estate."
+                   }
+               ],
+    "notes":  "This chapter has systemic spoiler protection issues. Eleanor\u0027s internal monologue consistently uses investigative language (questions, understanding, finding out, pieces of a puzzle) when it should use predatory language (destroying, finishing, exploiting). The sexual content is fine and serves misdirection. The phone call with her mother is excellent misdirection (\u0027made my peace\u0027, \u0027when it\u0027s done\u0027). But Eleanor\u0027s private thoughts need complete reframing to sound like violent obsession rather than investigation. This is the exact \u0027recognition-watching\u0027 pattern that was fixed in Session 6, appearing here in different forms."
+}

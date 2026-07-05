@@ -1,0 +1,39 @@
+﻿{
+    "chapter":  14,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I watch the empty driveway from my cottage window. Six in the morning, he drove away. Now it\u0027s past one, and I don\u0027t know where he went. Don\u0027t know what he\u0027s been doing. Don\u0027t know which version of him is out there in the world.",
+                       "description":  "The phrase \u0027which version of him\u0027 is investigator language that reveals Eleanor knows Josh has multiple states/identities. This exposes the Marcus Webb twist. Per Story Bible diagnostic questions: Eleanor should sound predatory/dangerous, not like she\u0027s investigating dissociative states.",
+                       "fix":  "I watch the empty driveway from my cottage window. Six in the morning, he drove away. Now it\u0027s past one, and I don\u0027t know where he went. Don\u0027t know what he\u0027s been doing. Don\u0027t know what he\u0027s capable of when I\u0027m not watching.",
+                       "rationale":  "Changes from investigator analyzing his mental states (\u0027which version\u0027) to predator concerned about losing surveillance (\u0027what he\u0027s capable of when I\u0027m not watching\u0027). Maintains ominous tone while removing clinical observation language."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "This is what I\u0027ve been waiting for. Proof that he\u0027s not what he seems.",
+                       "description":  "Eleanor is explicitly waiting for \u0027proof\u0027 - this is investigator language that reveals she\u0027s building a case, not hunting prey. Per Story Bible: \u0027gathering evidence\u0027 should be \u0027watching for weaknesses\u0027. Fails the Motive Test (sounds like she wants answers, not to destroy him).",
+                       "fix":  "This is what I\u0027ve been waiting for. The cracks spreading wider. He\u0027s coming apart.",
+                       "rationale":  "Changes from investigator collecting proof to predator watching victim deteriorate. Maintains Eleanor\u0027s satisfaction at his vulnerability while removing case-building language."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "The final piece is almost in place. Soon I\u0027ll know everything.",
+                       "description":  "Eleanor wanting to \u0027know everything\u0027 is investigator/truth-seeking language. Per Story Bible Quick Fix Guide: change \u0027getting answers/evidence\u0027 to predatory intent. This sounds like she\u0027s solving a mystery, not destroying someone.",
+                       "fix":  "The final piece is almost in place. Soon he\u0027ll have nowhere left to hide.",
+                       "rationale":  "Changes from investigator seeking knowledge to predator cornering prey. Maintains the sense of approaching climax while removing truth-seeking language."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "In the loft, I write in my journal.",
+                       "description":  "Minor consistency check: Per Story Bible, Eleanor\u0027s journal is a PHYSICAL notebook kept in the loft, separate from her laptop. The text doesn\u0027t specify \u0027physical\u0027 but also doesn\u0027t contradict it. Acceptable as-is but worth noting for consistency.",
+                       "fix":  "No fix needed - line is acceptable",
+                       "rationale":  "The phrase \u0027write in my journal\u0027 appropriately implies physical writing. No laptop mentioned, so no conflation issue."
+                   }
+               ],
+    "notes":  "Chapter mostly maintains Eleanor\u0027s predatory POV well. The intimacy scene appropriately shows her conflicted emotions without revealing her investigator role. The journal entry at the end is borderline - \u0027I need to know\u0027 could read as investigative, but in context of her helping Josh set up cameras, it plays as concern/manipulation rather than case-building. The three HIGH/CRITICAL issues all involve Eleanor using investigator language (\u0027which version\u0027, \u0027proof\u0027, \u0027know everything\u0027) that could tip off savvy readers to the twist inversion."
+}

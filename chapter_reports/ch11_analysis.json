@@ -1,0 +1,47 @@
+﻿{
+    "chapter":  11,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Roy glanced toward the cottage. Eleanor\u0027s car wasn\u0027t thereΓÇöshe\u0027d gone to town for supplies. We were alone.",
+                       "description":  "Eleanor doesn\u0027t have a car mentioned in the Story Bible. She walks/runs everywhere. This is the only reference to \u0027Eleanor\u0027s car\u0027 in the manuscript.",
+                       "fix":  "Roy glanced toward the cottage. Eleanor wasn\u0027t aroundΓÇöshe\u0027d gone to town for supplies. We were alone.",
+                       "rationale":  "Removes the car reference while maintaining the scene\u0027s purpose (Josh and Roy alone to discuss David Park). Consistent with Eleanor\u0027s established transportation methods."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "HIGH",
+                       "line_text":  "Eleanor wasn\u0027t here yet. She only started earlier this year.",
+                       "description":  "Roy says Eleanor \u0027only started earlier this year\u0027 (2024) but Story Bible states Eleanor claims 6 months tenure (since ~April 2024), and Josh already knows this claim from the rental listing. The phrasing \u0027earlier this year\u0027 is vague and could mean January-March, contradicting the April timeline.",
+                       "fix":  "Eleanor wasn\u0027t here yet. She only started in the spring.",
+                       "rationale":  "Spring is more consistent with April 2024 start date. Maintains Roy\u0027s knowledge while avoiding specific month contradiction."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "The call came on a gray November afternoon.",
+                       "description":  "Timeline tracking: Josh goes to clinic, nurse says \u0027two days\u0027 for results, then \u0027The call came on a gray November afternoon.\u0027 But no specific date is given for when he went to the clinic. Given the chapter spans Nov 15-17, this scene likely occurs Nov 17, but should be clearer.",
+                       "fix":  "The call came two days later, on a gray November afternoon.",
+                       "rationale":  "Clarifies the two-day wait mentioned by the nurse, maintaining timeline consistency without requiring a specific date."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "The measurements. The hunting observations.\n\nHer. The winter one. YoungΓÇöearly twenties. Alone up here. Trusting.\n\nNot Eleanor. Someone else. Someone from before.",
+                       "description":  "This passage reveals Josh is reading notes about a previous victim (\u0027the winter one\u0027 = Lily, killed Feb 2020). The phrase \u0027Someone from before\u0027 combined with \u0027winter\u0027 and \u0027early twenties\u0027 makes it too obvious Josh has been here before and killed someone. This is a protected twist (Josh doesn\u0027t know he killed Lily until Chapter 25).",
+                       "fix":  "The measurements. The surveillance notes.\n\nDetails about the property. Weather patterns. Security gaps.\n\nNot current observations. Something from another time.",
+                       "rationale":  "Maintains the unsettling discovery that Josh has older files he doesn\u0027t remember writing, but removes the explicit \u0027hunting\u0027 language and victim description that spoils his connection to Lily\u0027s murder."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "HIGH",
+                       "line_text":  "I looked at my hands. Wondered if they\u0027d taken medication I didn\u0027t recall. Wondered what else they\u0027d done that I couldn\u0027t remember.",
+                       "description":  "This line comes dangerously close to Josh suspecting himself of violence. While some self-doubt is appropriate in Act 2, this specific formulation (\u0027what else they\u0027d done\u0027) suggests potential violent acts, which is premature for Chapter 11 (still Act 1/early Act 2).",
+                       "fix":  "I looked at my hands. Wondered if they\u0027d taken medication I didn\u0027t recall. Wondered what else I was forgetting.",
+                       "rationale":  "Maintains Josh\u0027s concern about memory gaps without the violent implication. \u0027What I was forgetting\u0027 is general enough to preserve tension without spoiling that he\u0027s capable of violence."
+                   }
+               ],
+    "notes":  "Chapter 11 is generally clean. The toxic testing scene is well-handledΓÇöambiguous results maintain tension without confirming drugging. The David Park revelation (victim who stayed at Thornewood) is a good plant. The \u0027voice inside my head\u0027 ending effectively sets up dissociative episodes without being too explicit. Main issues are: (1) car reference inconsistency, (2) one critical spoiler about previous victim observations, (3) timeline clarity needed for clinic results, (4) minor self-suspicion language that\u0027s slightly premature for Act 1/2 boundary."
+}

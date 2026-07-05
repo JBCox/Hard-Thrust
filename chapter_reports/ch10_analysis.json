@@ -1,0 +1,39 @@
+﻿{
+    "chapter":  10,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "Waited for recognition to crack through.",
+                       "description":  "Eleanor watching for Josh to RECOGNIZE/REMEMBER the tower room. This is investigator language, not predator language. Predators watch for FEAR/VULNERABILITY. This pattern was flagged in Session 6 (January 12, 2026) and fixed in other chapters (lines 5997, 6009, 7909, etc.).",
+                       "fix":  "Waited for the room to unsettle him.",
+                       "rationale":  "Matches the fix applied at line 5997 in the comprehensive audit. Maintains Eleanor\u0027s predatory presentation while removing the investigator \u0027watching for memory\u0027 tell."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Nothing. No recognition. Still hiding. Even from himself.",
+                       "description":  "Eleanor\u0027s internal monologue uses \u0027recognition\u0027 (investigator term) and \u0027hiding even from himself\u0027 (reveals she knows about his dissociative condition). This is too investigative and reveals her certainty about his fugue states before Act 3.",
+                       "fix":  "Nothing. Just confusion in his face. Still oblivious.",
+                       "rationale":  "Removes \u0027recognition\u0027 language and the dissociative hint. \u0027Oblivious\u0027 fits predator mindset (he doesn\u0027t fear her yet) without revealing she knows about his condition. Matches the fix applied at line 6009."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "The tower room. He found it and felt nothing. No recognition. No unease. He has no idea. He stands right on top of the truth and doesn\u0027t see it.",
+                       "description":  "Eleanor\u0027s journal entry uses \u0027recognition\u0027 again and \u0027stands right on top of the truth\u0027 which reveals she knows a specific truth about the tower room (that he was there in 2020 as Marcus). This is investigator language exposing her certainty.",
+                       "fix":  "The tower room. He found it and felt nothing. No fear. No unease. He has no idea what\u0027s coming. He stands where it happened and doesn\u0027t feel a thing.",
+                       "rationale":  "Changes \u0027recognition\u0027 to \u0027fear\u0027 (predator watching). \u0027Stands where it happened\u0027 is vague (could mean anything threatening) vs. \u0027stands on top of the truth\u0027 (too specific/investigative). \u0027What\u0027s coming\u0027 maintains predatory threat tone."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "\"Someone I lost,\" I whispered. \"Someone who deserved better.\"",
+                       "description":  "While Eleanor is revealing emotion here (which is fine in a charged confrontation), the phrasing \u0027someone I lost\u0027 + \u0027deserved better\u0027 leans toward grief/memorial language rather than predatory deflection. Not critical, but could be slightly more guarded.",
+                       "fix":  "\"Someone who mattered,\" I whispered. \"Someone who deserved better than what happened here.\"",
+                       "rationale":  "Maintains emotional authenticity without the \u0027I lost\u0027 phrasing that tips toward personal grief. \u0027Someone who mattered\u0027 + \u0027what happened here\u0027 keeps it more about the place/event than personal loss, while still showing vulnerability that makes Josh soften."
+                   }
+               ],
+    "notes":  "This chapter has the same \u0027recognition-watching\u0027 pattern that was systematically fixed in the January 12, 2026 audit. Eleanor should watch for FEAR/VULNERABILITY (predator behavior), not RECOGNITION/MEMORY (investigator behavior). The tower room scene is particularly at risk because Eleanor is testing if Josh remembers being there in 2020ΓÇöbut that test must read as predatory manipulation, not investigative confirmation. The journal entry at the end also needs tightening to maintain her predator voice rather than investigator certainty."
+}

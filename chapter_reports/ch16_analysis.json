@@ -1,0 +1,71 @@
+﻿{
+    "chapter":  16,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "\"I knew of them,\" I said carefully. \"Everyone around here does.\"",
+                       "description":  "Eleanor\u0027s evasiveness sounds like someone hiding a connection to the victim, not someone hiding that she IS the victim\u0027s sister. Combined with \u0027Someone I lost\u0027 immediately after, this reads as protective grief, not predatory misdirection. Savvy readers will suspect she\u0027s connected to the victim, which is correct but spoils Reveal #3.",
+                       "fix":  "\"No,\" I lied smoothly. \"But it happened on my property. That makes you my responsibility.\"",
+                       "rationale":  "Reframes her concern as ownership/control over the property rather than grief over the victim. Maintains predatory possessiveness (\u0027my property\u0027, \u0027my responsibility\u0027) and removes the grief tell. Doesn\u0027t spoil the sister connection."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "\"Someone I lost,\" I whispered.",
+                       "description":  "This is explicit grief language that reveals Eleanor lost someone in the 2020 murder. This directly spoils that she has a personal connection to the victim (Reveal #3: Lily is her sister). The line \u0027landed perfectly\u0027 confirms Josh sees her as grieving, which means readers will too.",
+                       "fix":  "\"Someone who threatened everything I built here,\" I whispered.",
+                       "rationale":  "Reframes as territorial/possessive rather than grief. Sounds like the victim was a threat to her plans or safety. Maintains the emotional weight without revealing the sister connection. Still \u0027lands perfectly\u0027 because Josh interprets it as fear/trauma."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "\"The murder?\" Josh\u0027s eyes narrowed. \"Did you know them? The victim?\"",
+                       "description":  "Eleanor\u0027s internal narration doesn\u0027t show her reaction to \u0027the victim\u0027 being mentioned. Given that Lily is her sister, this moment should be emotionally charged for her internally, even if she hides it externally. The absence of internal reaction feels like a gap.",
+                       "fix":  "\"The murder?\" Josh\u0027s eyes narrowed. \"Did you know them? The victim?\"\n\nThe word hit like a punch. *Victim.* As if Lily was just a case file. Just another tragedy. But I kept my face neutral.",
+                       "rationale":  "Adds Eleanor\u0027s internal reaction without spoiling who the victim was. The reaction reads as general offense at the clinical term, not specific grief. Shows her emotional investment without revealing the sister connection. The anger could be interpreted as protectiveness over \u0027her property\u0027s reputation\u0027 by readers."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I needed to push him further. Keep him off balance.",
+                       "description":  "This is classic investigator language (strategic manipulation to extract information/confession). Per Story Bible diagnostic questions: Motive Test fails - Eleanor sounds like she wants ANSWERS (investigator) not HARM (predator). Should read as predatory cruelty, not strategic interrogation.",
+                       "fix":  "I wanted to push him further. Make him squirm.",
+                       "rationale":  "Changes strategic investigator language (\u0027needed to\u0027, \u0027keep him off balance\u0027) to predatory sadism (\u0027wanted to\u0027, \u0027make him squirm\u0027). Maintains the action but reframes the motive from professional to personal/cruel. Already applied this exact pattern in previous chapter fixes (Session 6, January 12, 2026)."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Recognition he couldn\u0027t place. Memory trying to surface.",
+                       "description":  "Eleanor is watching for Josh\u0027s RECOGNITION/MEMORY - classic investigator behavior. Per Story Bible: \u0027The Recognition-Watching Pattern\u0027 was identified and fixed in Session 6 (January 12, 2026). Predators watch for FEAR/VULNERABILITY, not recognition. This is the exact pattern that was systematically removed from other chapters.",
+                       "fix":  "Unease he couldn\u0027t explain. Something dark stirring beneath the surface.",
+                       "rationale":  "Replaces recognition-watching with fear-watching. Eleanor observes his discomfort and psychological disturbance, not memory access. Maintains the moment\u0027s tension while keeping Eleanor in predatory observer mode, not investigator mode. Matches fixes applied in Ch10 (line 6009), Ch12 (line 7909), and Ch25 (line 10243)."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Let his own fractured mind do the work.",
+                       "description":  "Eleanor thinking about Josh\u0027s \u0027fractured mind\u0027 implies she understands his dissociative condition. This is investigator knowledge (she\u0027s studied his fugue states). It also uses clinical/diagnostic language. Should sound like she\u0027s exploiting weakness, not analyzing a condition.",
+                       "fix":  "Let his own guilt consume him.",
+                       "rationale":  "Removes the clinical understanding of his mental state and focuses on emotional manipulation. \u0027Guilt\u0027 is something anyone could exploit; \u0027fractured mind\u0027 suggests psychiatric knowledge. Maintains her strategic thinking but removes the diagnostic awareness that comes from investigation."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "He was handing himself over to me. I showed him sympathy, promised to help him.",
+                       "description":  "Eleanor describing her own actions in past tense (\u0027I showed\u0027, \u0027promised\u0027) when she should be narrating in present tense as the scene unfolds. This reads like a summary after-the-fact, not immediate POV. Breaks immersion and creates temporal confusion.",
+                       "fix":  "He was surrendering to me. I held him, whispered promises.",
+                       "rationale":  "Changes to present-tense action and removes the clinical summary tone. \u0027Surrendering\u0027 is more predatory than \u0027handing himself over\u0027. \u0027Whispered promises\u0027 shows the manipulation in action rather than summarizing it. Maintains predatory framing."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "He was almost ready.",
+                       "description":  "This reads like Eleanor is preparing Josh for interrogation or revelation (investigator motive: ready to confess/break). Per Story Bible Motive Test: should sound like she wants to HARM him, not extract answers. \u0027Almost ready\u0027 for what? The phrasing is too strategic/calculated.",
+                       "fix":  "He was almost broken.",
+                       "rationale":  "Reframes from strategic preparation to predatory sadism. \u0027Almost broken\u0027 sounds like she\u0027s enjoying his psychological collapse, not preparing him for a reveal. Clearer predatory intent without the investigator planning undertone."
+                   }
+               ],
+    "notes":  "Chapter 16 is Eleanor\u0027s POV and contains multiple violations of the predator-not-investigator rule established in the Story Bible. The grief language around \u0027Someone I lost\u0027 is a critical spoiler for Reveal #3 (Lily is her sister). The recognition-watching pattern that was systematically removed in Session 6 appears twice in this chapter. The investigator language pattern (\u0027needed to push him\u0027, \u0027let his fractured mind do the work\u0027, \u0027almost ready\u0027) directly contradicts the diagnostic questions in the Story Bible. All fixes maintain the scene\u0027s emotional beats and plot progression while reframing Eleanor\u0027s motivations from investigator to predator."
+}

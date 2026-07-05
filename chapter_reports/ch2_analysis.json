@@ -1,0 +1,47 @@
+﻿{
+    "chapter":  2,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "I\u0027d studied his photos for so long I could draw his face from memoryΓÇöthe line of his jaw, the way his copper hair fell across his forehead, the exact shade of his blue-green eyes. Months of research, of preparation, of waiting for the right moment.",
+                       "description":  "Eleanor refers to \u0027months of research\u0027 which reveals investigator behavior too early. According to Story Bible, she\u0027s been at Thornewood 6 months (since ~April 2024) but her investigation started earlier. The phrase \u0027months of research, of preparation\u0027 makes her sound like an investigator rather than a predator.",
+                       "fix":  "I\u0027d studied his photos for so long I could draw his face from memoryΓÇöthe line of his jaw, the way his copper hair fell across his forehead, the exact shade of his blue-green eyes. Months of waiting, of imagining this moment.",
+                       "rationale":  "Removes \u0027research\u0027 and \u0027preparation\u0027 (investigator language) while keeping the obsessive studying behavior (predatory). \u0027Months of waiting, of imagining\u0027 maintains the ominous tone without revealing her investigator role."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "My stomach twisted. Anticipation. Hunger. Something darker I didn\u0027t want to name.",
+                       "description":  "The phrase \u0027something darker I didn\u0027t want to name\u0027 is ambiguous but could read as reluctance about violence (predator interpretation) OR reluctance about her investigation/grief (which would be a spoiler). The diagnostic tests: Does this make her seem like she wants to hurt him? BorderlineΓÇöcould be improved.",
+                       "fix":  "My stomach twisted. Anticipation. Hunger. The need to finish what I started.",
+                       "rationale":  "More direct and predatory. \u0027Finish what I started\u0027 sounds ominous (readers think: her killing plan) but is actually true (finishing her investigation). Removes ambiguity that could leak grief/investigation motive."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "CRITICAL",
+                       "line_text":  "The friendly exterior didn\u0027t fool me. Nobody came to a place like this without reason. Without something to hide.",
+                       "description":  "This is investigator thinkingΓÇö\u0027the friendly exterior didn\u0027t fool me\u0027 implies she\u0027s analyzing him skeptically, looking for deception. A predator wouldn\u0027t be skeptical of their prey\u0027s friendliness; they\u0027d exploit it. This fails the Motive Test (sounds like she wants answers, not to harm).",
+                       "fix":  "The friendly exterior was perfect. Made him easy to read. Easy to predict. Nobody came to a place like this without something broken inside.",
+                       "rationale":  "Predators see friendliness as vulnerability/opportunity, not as a facade to see through. \u0027Easy to read, easy to predict\u0027 shows she\u0027s assessing him as prey. \u0027Something broken inside\u0027 sounds like she\u0027s identifying weakness, not investigating motives."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "Six months I\u0027d been here. Six months preparing.",
+                       "description":  "\u0027Preparing\u0027 is investigator/planner language. What has she been preparing? Evidence collection, surveillance setup, investigation materials. A predator would say they\u0027ve been \u0027waiting\u0027 not \u0027preparing.\u0027",
+                       "fix":  "Six months I\u0027d been here. Six months waiting for this.",
+                       "rationale":  "Predators wait for the right moment/opportunity. \u0027Waiting for this\u0027 sounds ominous (readers think: waiting to strike) without revealing the investigation/evidence-gathering activities implied by \u0027preparing.\u0027"
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Everything was finally in motion.",
+                       "description":  "Borderline acceptable but slightly clinical. \u0027In motion\u0027 is neutral planner language. Could be more viscerally predatory.",
+                       "fix":  "Everything was finally beginning.",
+                       "rationale":  "\u0027Beginning\u0027 is simpler and more ominous. Less tactical/planner language, more inevitable-fate language that suits the predator framing."
+                   }
+               ],
+    "notes":  "Most of the chapter is strong and maintains Eleanor\u0027s predatory framing well. The masturbation scene is excellent misdirectionΓÇöreaders will think obsession = dangerous predator, not grieving investigator. The \u0027watching\u0027 theme is well-executed. The main issues are scattered investigator-language patterns (\u0027research,\u0027 \u0027preparation,\u0027 \u0027analyzing his facade\u0027) that need to shift toward predator-language (\u0027waiting,\u0027 \u0027watching for weakness,\u0027 \u0027exploiting his trust\u0027)."
+}

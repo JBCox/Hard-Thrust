@@ -1,0 +1,39 @@
+﻿{
+    "chapter":  29,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "timeline",
+                       "severity":  "CRITICAL",
+                       "line_text":  "And you\u0027re aware that Oregon has the death penalty for aggravated murder?",
+                       "description":  "Oregon abolished the death penalty in 1964 (reinstated 1978-1981, then again 1984-present, but Governor Kate Brown commuted all death sentences in 2022 and the legislature is working toward abolition). By 2025, this statement would be factually incorrect.",
+                       "fix":  "And you\u0027re aware that Oregon carries mandatory life without parole for aggravated murderΓÇöor indefinite psychiatric commitment if you\u0027re found guilty but mentally ill?",
+                       "rationale":  "Updates to reflect Oregon\u0027s actual legal framework. Maintains the severity while being factually accurate. This also sets up the psychiatric commitment route that Josh ultimately receives."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "CRITICAL",
+                       "line_text":  "The DA is going to want the death penalty",
+                       "description":  "Same issueΓÇöOregon does not have active death penalty prosecutions by 2025.",
+                       "fix":  "The DA is going to push for life without parole. Unless the psychiatric evaluation supports commitment instead.",
+                       "rationale":  "Reflects actual Oregon law. Still shows serious consequences while being factually accurate."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "CRITICAL",
+                       "line_text":  "I don\u0027t want to die. I want to serve the sentence.",
+                       "description":  "Josh\u0027s response assumes death penalty is on the table, which it wouldn\u0027t be in Oregon by 2025.",
+                       "fix":  "I\u0027m not fighting for leniency. I want to serve the full sentence.",
+                       "rationale":  "Maintains Josh\u0027s intent to accept full consequences without referencing a death penalty that doesn\u0027t exist. Still shows he\u0027s not seeking reduced punishment."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I\u0027ll do the evaluations,",
+                       "description":  "Minor stylistic: The comma placement creates a slight awkwardness in the flow.",
+                       "fix":  "I\u0027ll do the evaluations",
+                       "rationale":  "Smoother read without changing meaning. The comma is grammatically unnecessary here."
+                   }
+               ],
+    "notes":  "Chapter is otherwise clean. Josh\u0027s mental state is consistent with post-confession trauma. His acceptance of guilt without using the fugue state as defense is psychologically sound. The timeline placement (March 15 evening, four hours after arrest) aligns with Chapter 28\u0027s evening confession. No spoiler risksΓÇöall protected twists have already been revealed in Chapters 25-27. The factual error about Oregon\u0027s death penalty is the only critical issue requiring correction."
+}

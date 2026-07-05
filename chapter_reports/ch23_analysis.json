@@ -1,0 +1,39 @@
+﻿{
+    "chapter":  23,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "**Eleanor\u0027s Method:** She drugs me, directs me to disable my own cameras during controlled states, making it look like I\u0027m hiding something when I\u0027m actually following her chemical programming.",
+                       "description":  "Josh\u0027s theory uses \u0027controlled states\u0027 language that\u0027s too close to the truth of dissociative fugue states. This makes his wrong theory sound too much like the right answer, potentially tipping off readers that Josh IS having real episodes (not being drugged).",
+                       "fix":  "**Eleanor\u0027s Method:** She drugs me with something that makes me suggestible, then directs me to disable my own cameras, making it look like I\u0027m hiding something when I\u0027m actually following her instructions.",
+                       "rationale":  "Changes \u0027controlled states\u0027 (clinical, accurate to fugue disorder) to \u0027suggestible\u0027 (fits drugging theory). Removes \u0027chemical programming\u0027 which sounds too precise. Maintains Josh\u0027s wrong theory while removing language that accidentally hints at the truth."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "**Why It\u0027s Impossible:** I wasn\u0027t here in February 2020. Someone else killed her. Someone else was here that winter. The police had other suspects. I wasn\u0027t the only person with access.",
+                       "description":  "Josh claims \u0027The police had other suspects\u0027 but this contradicts the Story Bible. The 2020 murder was unsolved with no clear suspects - that\u0027s why it\u0027s a cold case. If police had other suspects, Josh would know their names from his research.",
+                       "fix":  "**Why It\u0027s Impossible:** I wasn\u0027t here in February 2020. Someone else killed her. Someone else was here that winter. The case went cold because they never identified a clear suspect. I wasn\u0027t the only person who could have accessed this property.",
+                       "rationale":  "Removes the false claim about \u0027other suspects\u0027 and replaces with accurate cold case language. Maintains Josh\u0027s denial while fixing the factual error about the investigation\u0027s status."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "**Alternative:** She drugs me, directs me to disable my own cameras during controlled states, making it look like I\u0027m hiding something when I\u0027m actually following her chemical programming.",
+                       "description":  "Same issue as first finding - \u0027controlled states\u0027 and \u0027chemical programming\u0027 language is too clinically accurate to fugue states.",
+                       "fix":  "**Alternative:** She drugs me with something that makes me compliant, then directs me to disable my own cameras, making it look like I\u0027m hiding something when I\u0027m actually following her commands.",
+                       "rationale":  "Changes clinical language to simpler drugging-theory language. \u0027Compliant\u0027 and \u0027commands\u0027 fit a drugging scenario better than \u0027controlled states\u0027 and \u0027programming\u0027."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "I checked the time. 7:42 AM.",
+                       "description":  "Timeline precision issue. Josh started barricading at 5:17 AM, and the text describes him working methodically through dawn (which breaks around 6:30-7:00 AM in late February Oregon). By 7:42 AM he\u0027s written a complex 6-part evidence document, backed it up to three drives, filled water bottles, and done extensive security checks. This is plausible but very fast for the amount of detailed work described.",
+                       "fix":  "I checked the time. 8:12 AM.",
+                       "rationale":  "Gives Josh an extra 30 minutes for all the described activities (barricading, writing detailed document, backing up files, water collection, security checks). Makes the timeline more comfortable without changing any plot beats."
+                   }
+               ],
+    "notes":  "Chapter is generally strong. Josh\u0027s paranoid investigator voice is well-maintained. The \u0027impossibilities\u0027 list is effective misdirection - readers should believe his drugging theory. Main issues are: (1) clinical language that accidentally hints at real dissociative states, and (2) one factual error about police suspects. The timeline is tight but acceptable with minor adjustment. No spoilers about Eleanor being Lily\u0027s sister, Eleanor dying, or Josh\u0027s mother\u0027s 1998 murder. The locked room reveal setup at the end is appropriately suspenseful."
+}

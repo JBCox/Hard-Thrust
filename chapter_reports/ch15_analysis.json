@@ -1,0 +1,39 @@
+﻿{
+    "chapter":  15,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "An investigator like me would have checked for surveillance.",
+                       "description":  "Josh calling himself \u0027an investigator\u0027 sounds too much like Eleanor\u0027s actual role. He\u0027s a true crime WRITER/podcaster, not an investigator. This language pattern was previously flagged as problematic.",
+                       "fix":  "A true crime writer like me would have noticed cameras.",
+                       "rationale":  "Maintains Josh\u0027s self-awareness while using his established professional identity (podcaster/writer). Avoids \u0027investigator\u0027 terminology that belongs to Eleanor\u0027s hidden role."
+                   },
+                   {
+                       "category":  "character_knowledge",
+                       "severity":  "MEDIUM",
+                       "line_text":  "How? When did someone get physical access to install this?",
+                       "description":  "Josh\u0027s question about physical access seems odd when Eleanor has had access to the mansion throughout his stay (she brings firewood, meals, has been the groundskeeper for months). The answer is obvious: she had access anytime he was out or sleeping.",
+                       "fix":  "She\u0027d had access to the mansion the whole time. Any morning walk, any meal in the cottage, any time I was working in the library. When did it happen?",
+                       "rationale":  "Josh is observant enough to recognize the obvious - Eleanor has had countless opportunities. The real question is WHEN, not HOW she got access. This makes him seem appropriately paranoid but not obtuse."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Where are these images coming from? My mother was murdered when I was threeΓÇöbut I don\u0027t remember that. Can\u0027t remember that. The mind doesn\u0027t work that way, storing trauma you\u0027re too young to process.",
+                       "description":  "Josh is too confident that the mind \u0027doesn\u0027t work that way.\u0027 This undermines the reveal that his childhood trauma IS the source of his fugue states. A savvy reader might flag this as foreshadowing he DOES have traumatic memories.",
+                       "fix":  "Where are these images coming from? My mother was murdered when I was threeΓÇöbut I don\u0027t remember that. Can\u0027t remember that. They told me I was too young, that the mind doesn\u0027t store memories from that age.",
+                       "rationale":  "Softens Josh\u0027s certainty by attributing it to what he\u0027s been told (by adoptive parents/therapists), rather than stating it as absolute fact. Leaves room for the later reveal that trauma CAN create fragmentary sensory memories even from age 3."
+                   },
+                   {
+                       "category":  "timeline",
+                       "severity":  "MEDIUM",
+                       "line_text":  "Three days pass in careful distance.",
+                       "description":  "The chapter header says Dec 14-19 (6 days), but the text describes only three days of surveillance work (Day One: Dec 17, Day Two: Dec 18, Day Three: Dec 19). This leaves Dec 14-16 unaccounted for. Chapter 14 ended Dec 12, so there should be a clearer transition.",
+                       "fix":  "Five days pass in careful distance.\n\nI avoid Eleanor for two full days after the episode in the bedroomΓÇöDec 13 and 14, holed up in the library, nursing my confusion and shame. By the 15th, I\u0027m ready to start looking for answers. By the 17th, I\u0027ve found the keystroke logger, and everything shifts into high gear.",
+                       "rationale":  "Accounts for the full Dec 12-19 span and explains why Josh starts his intensive surveillance on Dec 17. The five-day opening statement now matches the chapter header timeline."
+                   }
+               ],
+    "notes":  "Chapter is mostly clean. The keystroke logger discovery is a strong reveal and Josh\u0027s paranoid spiraling feels authentic. The fugue state scene (lines ~180-260) is appropriately terrifying and maintains ambiguity about what Josh is fighting. The surveillance/intimacy reversal (watching footage while masturbating) is psychologically complex and fits Josh\u0027s deteriorating mental state. The buried box scene adds new mystery without spoiling Eleanor\u0027s actual role. No victim count errors, no timeline math errors beyond the one flagged, no name inconsistencies detected."
+}

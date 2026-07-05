@@ -1,0 +1,31 @@
+﻿{
+    "chapter":  8,
+    "status":  "ISSUES_FOUND",
+    "issues":  [
+                   {
+                       "category":  "spoiler",
+                       "severity":  "HIGH",
+                       "line_text":  "My thoughts pulse with everything I can\u0027t tell himΓÇöa reminder of things I can\u0027t think about right now.",
+                       "description":  "This line is too vague and could confuse readers. Eleanor\u0027s internal monologue should either reinforce her predatory mindset OR provide concrete sensory detail. \u0027Things I can\u0027t think about\u0027 sounds like avoidance of grief/investigation rather than predatory focus.",
+                       "fix":  "My head throbsΓÇöa dull ache behind my temples. I push it aside. Can\u0027t think about that right now.",
+                       "rationale":  "Changes abstract \u0027things I can\u0027t think about\u0027 to a physical symptom (headache) that fits Eleanor\u0027s actual terminal illness while remaining ambiguous enough to avoid spoiling the reveal. Readers will interpret it as stress/tension from the seduction, not as illness symptoms."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "My anxiety is worseΓÇöa sharp spike of guilt that makes my hands tremble as I button my shirt. A reminder that I can\u0027t let myself forget why I\u0027m here.",
+                       "description":  "Eleanor references \u0027anxiety\u0027 getting worse and hands trembling. This could be read as illness symptoms (which would spoil Reveal #2). The Story Bible states physical symptoms are SAFE if they could be situational (stress, exhaustion). The \u0027guilt\u0027 framing helps, but \u0027worse\u0027 implies an ongoing condition rather than situational stress.",
+                       "fix":  "My hands tremble as I button my shirt. Guilt, sharp and unexpected. A reminder that I can\u0027t let myself forget why I\u0027m here.",
+                       "rationale":  "Removes \u0027anxiety is worse\u0027 (implies ongoing condition) and keeps the trembling hands as situational guilt/stress response. Maintains Eleanor\u0027s internal conflict without suggesting chronic illness symptoms."
+                   },
+                   {
+                       "category":  "spoiler",
+                       "severity":  "MEDIUM",
+                       "line_text":  "The pressure is getting worse. He\u0027s getting suspicious. And I still don\u0027t have the answers I came here to find.",
+                       "description":  "Eleanor writes \u0027the pressure is getting worse\u0027 in her journal. This phrase could refer to her illness (intracranial pressure from brain tumor) or to situational stress. Combined with earlier anxiety references, this creates a pattern that could tip off savvy readers to a medical condition.",
+                       "fix":  "He\u0027s getting suspicious. And I still don\u0027t have the answers I came here to find.",
+                       "rationale":  "Removes \u0027the pressure is getting worse\u0027 entirely. The remaining lines convey the same investigative frustration without the medical undertone. The journal entry remains focused on her mission rather than her physical state."
+                   }
+               ],
+    "notes":  "Overall chapter maintains good misdirection. Eleanor\u0027s POV reads as predatory/manipulative (\u0027closer to whatever he\u0027s hiding,\u0027 \u0027what I came to do,\u0027 \u0027how this ends\u0027). The intimacy scene works because readers should think she\u0027s using sex as a weapon/tool. The guilt/conflict reads as someone executing a dark plan, not as an investigator. Main fixes are to ensure physical symptoms stay clearly situational rather than suggesting chronic illness."
+}
