@@ -6,10 +6,11 @@
 ## Headline
 
 - **263 raw findings** → **187 survived** adversarial verification (178 confirmed, 8 intentional-by-design, 1 refuted).
-- **85 fixes applied & committed** (13 HIGH, 41 MEDIUM, 31 LOW) — every one passed dual vetting. Commit `260bfaf`.
-- **35 confirmed issues held for your decision** (all 4 CRITICALs + structural chronology tangles + the reveal police-ID cluster), plus 6 marketing/metadata items and 2 drafts needing rework — see the Fix Proposal.
-- Twist protection **held or improved**: all pre-reveal exact-term scans still clean; the DID-signal clusters previously flagged in Ch 11/13/17 are eliminated.
-- **Biggest theme:** the unaudited Apr 18 edits changed individual scenes without re-checking their partner scenes, creating mutually-exclusive accounts of several nights (Nov 8, Dec 10–12) and a duplicated confrontation. These are the held CRITICAL/HIGH items.
+- **181 edits applied & committed across three waves** — every one passed independent spoiler + continuity vetting: wave 1 = 85 mechanical/determinable fixes (`260bfaf`); wave 2 = 60 coordinated cluster resolutions (`e46bf48`); wave 3 = 36 final cluster resolutions (`5a1f03e`).
+- **Nothing left held.** The 35 items originally flagged as author-decisions were resolved on your instruction to make the editorial calls — including all 4 CRITICAL chronology/reveal tangles, the reveal police-ID logic, the setup/payoff closures, and the marketing spoiler. The back-cover twist-leak is removed and the subtitle is standardized to "A Novel".
+- Twist protection **held**: all pre-reveal exact-term scans clean (Marcus Webb, illness, sister, 1998, M+L all 0); no edit introduced a forbidden term. **Correction to an earlier draft of this report:** only the Ch 17 DID cluster was eliminated; Ch 11 (4 indicators) and Ch 13 (3) remain — these are pre-existing, drug-attributed misdirection that prior audits judged acceptable, not regressions.
+- **Biggest theme:** the unaudited Apr 18 edits changed individual scenes without re-checking their partner scenes, creating mutually-exclusive accounts of several nights (Nov 8–9, Dec 9–12) and a duplicated confrontation. All are now reconciled (see Resolution below).
+- **Action still needed from you:** rebuild the DOCX exports (`python convert_to_docx_v3.py`) so the print/Kindle files pick up the 181 manuscript edits and the corrected front matter — the committed `.docx` files are pre-audit.
 
 ## What changed since the last audit
 
@@ -17,6 +18,23 @@ The working copy carried ~27 uncommitted edits from Apr 18 (11 approved audit fi
 - **H1:** REFUTED on the core claim (no text calls Dec 12 the first blackout), but the same chunk contains a real continuity FINDING (time-of-day contradiction), and the hypothesis's chapter labels were wrong twice.
 - **H2:** REFUTED — no duplicated-paragraph artifact exists; the current Ch 10 text reads cleanly.
 - **H3:** CONFIRMED as located (with corrected chapters) — and the recounting chunks AGREE with each other; no cross-scene contradiction.
+
+## Resolution of the held items (editorial decisions taken)
+
+Grouped into 12 interlocking clusters; each resolved by an Opus agent producing coordinated verbatim edits, then gated on spoiler + continuity + "does it actually resolve the tangle" before applying.
+
+- **Nov 7–9 nights (CL1):** Ch 6 (Nov 7) is the true first night and is full sex; Ch 8 (Nov 8 eve) is the canonical overnight; Ch 7's solitary vigil + overheard phone call was relocated to a Nov 9–10 night (its content kept verbatim for the Ch 9 callback). Ch 7's morning-after recap now acknowledges the full night instead of "just a kiss".
+- **Notebook/tower discovered twice (CL2):** kept as an intentional amnesia demonstration but fixed its execution — corrected the Nov 14 timing impossibility, differentiated the Dec dialogue so it isn't verbatim-identical, and framed Josh's not-remembering as drugging (not dissociation).
+- **Dec 9–12 grid (CL3):** compressed Ch 13's ending by one day so Dec 12 belongs solely to Ch 14's blackout; date-stamped Ch 12's evening as Dec 9; corrected the misdated journal entry.
+- **Winter road access (CL4):** canonical rule is intermittent storm closures with plowed windows between — reconciles every on-page town trip, supply run, and treatment drive while keeping the isolation mood.
+- **Feb 4 attack + drugging policy (CL5):** locked the canon that Eleanor never actually drugged Josh; reframed her Ch 14/22 narration so the drugging stays Josh's inference, and reconciled the attack's throat detail between Ch 22 and the Ch 26 recap.
+- **Ch 24 police deadline (CL6):** every reference now reads as Eleanor's fabricated deadline (no police arrive Feb 28; real arrest Mar 15).
+- **Duplicate door visit (CL7):** cut Josh's redundant ~11:07 AM visit so Ch 23's noon visit stands alone, and aligned the intentional Ch 23/24 dual-POV echo.
+- **Reveal police-ID (CL8):** locked one airtight explanation — 2020 tape shows a bearded, heavier man; Josh's public headshots are clean-shaven; degraded 1990s footage returned nothing conclusive; the breakthrough is matching the alias "Marcus Webb" to Josh.
+- **Setup/payoff closures (CL9):** paid off the torn guest-book pages, the planted boots/jacket, the cairn glove, the buried box, and the dead-man's-switch email with minimal beats in the reveal/aftermath chapters; the register-signer count was already consistent.
+- **Independent fixes (CL10):** Derek's email recast as a webzine matter, a Josh-side bridge into Ch 21, the secondhand-signature fix, a tense pass, sentencing moved to Mon Jun 16 2025 (Jun 15 was a Sunday), and the STORY_BIBLE/CHAPTER_MAP ownership canon aligned to the manuscript.
+- **Draft-fails reworked (CL11)** and **marketing (CL12):** back-cover DID spoiler removed, subtitle standardized, content notes harmonized, stale bio corrected.
+- **Mom-call time (range_B-2):** kept the atmospheric 3:17 AM loft scene and moved Josh's single evening cue to night, which also sharpens the tension (she believes he's asleep).
 
 ## Findings by dimension (confirmed)
 

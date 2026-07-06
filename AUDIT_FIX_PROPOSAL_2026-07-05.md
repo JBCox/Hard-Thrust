@@ -10,7 +10,9 @@ This file has two parts: **(A)** confirmed issues that need *your* decision (not
 
 ## Part A — Needs your decision (43 items)
 
-These were confirmed real by adversarial verification but **not** auto-applied: fixing each requires choosing which version of the story you intend, or rewriting across chapters. Each carries a recommended resolution. The biggest ones are the chronology tangles introduced when scenes were edited without re-checking their partner scenes.
+> **STATUS: ALL RESOLVED (2026-07-05).** You instructed me to make the editorial calls, so every item below was resolved and committed (waves `e46bf48` and `5a1f03e`) rather than left for you. The recommended resolution shown for each is, in almost all cases, what was applied. See the "Resolution of the held items" section of `AUDIT_FINAL_REPORT_2026-07-05.md` for the per-cluster decisions. This section is retained as the record of what each problem was.
+
+These were confirmed real by adversarial verification. Fixing each required choosing which version of the story to treat as canonical, or rewriting across chapters. The biggest ones are the chronology tangles introduced when scenes were edited without re-checking their partner scenes.
 
 ### CRITICAL severity
 
