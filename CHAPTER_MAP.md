@@ -63,7 +63,7 @@ After sleeping together, Josh catalogs 17 inconsistencies in Eleanor's backgroun
 **Nov 14 | Eleanor**
 Eleanor can't sleep, watches Josh's light in the mansion. The roads will close soon—they'll be trapped together. She reflects on the cost of getting close to him, the manipulation, her failing health. Time running out.
 
-### Chapter 11: FRACTURES
+### Chapter 11: THE FOG
 **Nov 15-22 | Josh**
 Josh's insomnia worsens. He hears humming, suspects hidden speakers. Background check confirms Eleanor Moore doesn't exist. He documents her movements obsessively. Growing paranoia that she's not who she claims.
 
@@ -92,7 +92,7 @@ Josh reviews security footage, analyzing Eleanor's behavior for manipulation tec
 **Dec 17 | Eleanor**
 Josh confronts Eleanor about her notebook—he found notes tracking his movements. She admits to watching him, claims fear after the 2020 murder. He's starting to see through her cover. The careful balance cracking.
 
-### Chapter 17: THE WRITING
+### Chapter 17: RESEARCH
 **Dec 21 | Josh**
 At 3 AM, Josh writes a murder scene—visceral, detailed, disturbingly precise. He tells himself it's research paying off, channeling childhood trauma into fiction. His hands shake as he types.
 
@@ -104,15 +104,15 @@ Josh has found Eleanor's cameras. She prepares for confrontation, taser in pocke
 **Dec 26-27 | Josh**
 While Eleanor is away, Josh breaks into her cottage and finds her investigation room. Boxes of files on five specific victims. His photo at the center of a conspiracy board. She's been investigating him.
 
-### Chapter 20: PREPARATION
+### Chapter 20: OBSESSION
 **Dec 27, 3:47 AM | Eleanor**
 Eleanor can't sleep. She reviews her evidence, her purpose. Reflects on abandoning her old life for this obsession. Writes in her notebook about the impossible position — loving the man she came to destroy. Soon she'll have to tell Josh the truth. Running out of time and nerve. (Trimmed Mar 19 2026: removed ~80 lines of repetitive internal debate that rehashed the love-vs-mission conflict without new progression.)
 
-### Chapter 21: BLANK SPACES
+### Chapter 21: WHAT SHE TOOK
 **January 8 & February 4, 2025 | Josh**
 **January 8:** Josh shows Eleanor his only photo of his mother. Something happens to Eleanor's face—a flicker, her eyes go distant, her breath catches. She hands it back without meeting his eyes. **February 4:** Josh wakes in bed with no memory of how he got there. Scratches on his hands, dirt under fingernails. He finds Eleanor in her cottage with a dark purple bruise on her arm—the size of a handprint. She claims she fell on ice, refuses to explain. He suspects she drugged him again. More lost time he can't explain.
 
-### Chapter 22: CERTAINTY
+### Chapter 22: THE LOCK
 **January 8 & February 4, 2025 | Eleanor**
 **January 8:** The photo hits Eleanor hard—Josh's mother's face stirs something. She goes to the loft, to the locked room, certain she's close to the answer she needs. **February 4, 3:00 AM:** Josh walks into Eleanor's cottage without knocking. His eyes are open but he isn't awake—something mechanical in his movements. He grabs her arm hard enough to bruise. She tries to talk to him but he doesn't respond, stares through her. Then suddenly he lets go, turns, walks out without a word. Eleanor sits on her kitchen floor for an hour afterward, shaking. Now she's 100% certain—something dark lives behind those eyes, capable of anything.
 
@@ -131,7 +131,7 @@ Josh barricades the mansion. He's seen footage of himself moving like a machine,
 **Feb 28 | Eleanor**
 Eleanor sees Josh has barricaded himself inside. He found the footage—but interpreted it wrong. He thinks she's the threat. Today was supposed to be when she gently showed him the evidence. Now everything's complicated. **Timeline pressure:** Eleanor has ~3 weeks before the tumor takes her ability to function. The headaches are worse, vision blurring more often. She's running out of time to get justice for Lily—Josh's paranoid barricade forces her to adapt her plan.
 
-### Chapter 25: THE BOXES
+### Chapter 25: THE WALL
 **Feb 28 | Josh**
 **REVEAL #4 (Marcus Webb):** Eleanor shows Josh her evidence room. His face surrounded by six victims. Travel records, security footage stills, employment contracts signed as "Marcus Webb." Josh asks "Did I kill them?" Eleanor confirms. She hints at a personal connection but can't say the name yet—"Tomorrow."
 
