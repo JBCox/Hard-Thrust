@@ -13,6 +13,18 @@
 
 ---
 
+## TWIST-PROTECTION DEVICES (added 2026-07-05 — treat as canon; do not "correct")
+
+A blind savvy-reader simulation showed readers were solving "Josh is the killer" long before the Ch 25 reveal. These devices were added to slow detection and must be preserved:
+
+- **Retitled chapters** (the TOC was telegraphing the fugue-killer architecture): Ch 11 FRACTURES→**THE FOG**, Ch 17 THE WRITING→**RESEARCH**, Ch 20 PREPARATION→**OBSESSION**, Ch 21 BLANK SPACES→**WHAT SHE TOOK**, Ch 22 CERTAINTY→**THE LOCK**, Ch 25 THE BOXES→**THE WALL**.
+- **"The man from 2020" red herring:** Josh's true-crime instinct fixates on an unnamed winter-2020 caretaker (bearded, seasonal, "gone by spring," no name in the records) as the real killer — planted Ch 9 (hardware-store corkboard photo + missing employment records), reinforced Ch 15 (unexplained figure at the tree line on his own camera), reached for at peak suspicion Ch 21 (possible intruder who bruised Eleanor). This man IS Marcus Webb = Josh's fugue-self, so the theory is secretly-correct-but-wrong-about-identity — pure dramatic irony on reread. NEVER name him pre-Ch 25.
+- **Ch 11 blackout log is inverted:** the file Josh types in a fugue catalogs *his own* movements ("subject does not remember the gaps"), reading pre-reveal as someone surveilling HIM (Eleanor); post-reveal as the Marcus-alter logging the host. It must NOT catalog Eleanor as prey.
+- **Ch 19 loft — proof withheld:** Josh finds Eleanor's obsessive wall (victim files, a male-drifter suspect file that points AWAY from him, stalker-style photos of him) but NOT the smoking-gun "handwriting matches / Joshua Caine 2020 / PROOF" note. The handwriting-match proof is revealed for the first time in Ch 25-26. Do not reintroduce an explicit pre-Ch 25 note naming Josh as the 2020 killer.
+- **No pre-Ch 25 rehearsal of the specific accusation:** Josh's paranoid narration may voice vague gaslighting-fear ("she's rewriting what's real") but must NOT spell out the exact case against himself (his handwriting in the Feb 2020 guest book, his name in the register, his fiction = confession). Each explicit rehearsal is a denial-spoiler.
+
+---
+
 ## JOSH CAINE - FULL PROFILE
 
 ### Physical Description
