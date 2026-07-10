@@ -93,8 +93,8 @@ Josh reviews security footage, analyzing Eleanor's behavior for manipulation tec
 Josh confronts Eleanor about her notebook—he found notes tracking his movements. She admits to watching him, claims fear after the 2020 murder. He's starting to see through her cover. The careful balance cracking.
 
 ### Chapter 17: RESEARCH
-**Dec 21 | Josh**
-At 3 AM, Josh writes a murder scene—visceral, detailed, disturbingly precise. He tells himself it's research paying off, channeling childhood trauma into fiction. His hands shake as he types.
+**Dec 21-25 | Josh**
+Dec 21 morning: Josh asks Eleanor how the 2020 victim died; she reluctantly gives him facts (strangulation, woods, partial burial). That night (3 AM Dec 22) a murder scene pours out of him—visceral, eerily easy. He attributes it to research + her account (**order matters: he is TOLD before he WRITES — the fiction must stay fully attributable pre-reveal; what remains eerie is the ease/interiority, not the facts**). Derek's concerned reply triggers the Christmas Eve confrontation: Josh accuses Eleanor of feeding him details/gaslighting; she counters she's been recording his absences. "One of us is a killer. And I know which one."
 
 ### Chapter 18: DESPERATION
 **Dec 26 | Eleanor**
@@ -102,7 +102,7 @@ Josh has found Eleanor's cameras. She prepares for confrontation, taser in pocke
 
 ### Chapter 19: THE LOFT
 **Dec 26-27 | Josh**
-While Eleanor is away, Josh breaks into her cottage and finds her investigation room. Boxes of files on five specific victims. His photo at the center of a conspiracy board. She's been investigating him.
+While Eleanor is away, Josh breaks into her cottage loft: five victim dossiers; a suspect file profiling an ALIAS-using drifter-caretaker (witness descriptions contradictory — points AWAY from Josh); surveillance photos of Josh dating to the summer before his application (he concludes he was LURED here); a locked steel strongbox he can't open (**the deep archive/proof stays hidden until Ch 25**); the victim's personal photos, which he reads as possible TROPHIES. He concludes Eleanor is the killer building a frame around him. **Do not reintroduce any pre-Ch 25 item naming Josh as the 2020 man (old "PROOF" note removed 2026-07-09).**
 
 ### Chapter 20: OBSESSION
 **Dec 27, 3:47 AM | Eleanor**
@@ -114,7 +114,7 @@ Eleanor can't sleep. She reviews her evidence, her purpose. Reflects on abandoni
 
 ### Chapter 22: THE LOCK
 **January 8 & February 4, 2025 | Eleanor**
-**January 8:** The photo hits Eleanor hard—Josh's mother's face stirs something. She goes to the loft, to the locked room, certain she's close to the answer she needs. **February 4, 3:00 AM:** Josh walks into Eleanor's cottage without knocking. His eyes are open but he isn't awake—something mechanical in his movements. He grabs her arm hard enough to bruise. She tries to talk to him but he doesn't respond, stares through her. Then suddenly he lets go, turns, walks out without a word. Eleanor sits on her kitchen floor for an hour afterward, shaking. Now she's 100% certain—something dark lives behind those eyes, capable of anything.
+**January 8:** The photo hits Eleanor hard—Josh's mother's face stirs something. She goes to the loft, to the locked room, certain she's close to the answer she needs. **February 4, 3:00 AM:** Her lock is picked; in the pitch-dark kitchen a shape grabs her arm (bruise) and closes a hand on her throat, then releases and leaves without a word. **She never sees a face** (consistent with Ch 26 recap L~8421 "your hands on my neck in the dark"). Her identification is inference — wine on the breath, one-man-mountain logic — a conviction she *chooses* ("I've stopped hoping I'm wrong"), not witnessed proof. **Pre-reveal, the reader must retain the "man from 2020"/intruder alternative; do not restore a face-seen version.**
 
 > **PLANT → PAYOFF:** Eleanor's reaction to Josh's mother's photo (Ch 21) pays off in Ch 27—she recognized Rebecca Holloway's face. Eleanor discovered through the 1998 police report that Josh's mother was murdered at Thornewood by his father, and 3-year-old Josh witnessed it. This is the origin of his dissociative disorder.
 
