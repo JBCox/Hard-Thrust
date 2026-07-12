@@ -16,8 +16,8 @@
 | 9 | 2394 | Nov 9-14 | Josh | CROSSING LINES | Investigation deepens; Thursday discovery |
 | 10 | 2957 | Nov 14 | Eleanor | THE COST | Eleanor's internal conflict |
 | 11 | 3036 | Nov 15-22 | Josh | FRACTURES | Roads close, trapped for winter |
-| 12 | 3701 | Dec 10 | Eleanor (mixed POV) | THE LIBRARY | 25-day gap; winter isolation deepens |
-| 13 | 4174 | Dec 10 | Josh | THE DISCOVERY | Same day as Eleanor's Ch 12 |
+| 12 | 3701 | Dec 9-10 | Eleanor (mixed POV) | THE LIBRARY | Love scene Dec 9 eve; loft/call + pancakes Dec 10 AM |
+| 13 | 4174 | Dec 10-11 | Josh | THE DISCOVERY | Kill kit midday Dec 10 (after Ch 12's breakfast); insomnia + refused lunch Dec 11 |
 | 14 | 4569 | Dec 12 | Eleanor | VULNERABILITY | Eleanor's deterioration hints |
 | 15 | 4668 | Dec 14-19 | Josh | SURVEILLANCE | Multi-day span; Josh finds cameras |
 | 16 | 5169 | Dec 17 | Eleanor | EXPOSURE | Eleanor's perspective on being watched |
@@ -58,10 +58,10 @@
 | Gap | Location | Duration | Purpose |
 |-----|----------|----------|---------|
 | Oct 28 → Nov 7 | Ch 5 to Ch 6 | 10 days | Time compression; Josh settling in |
-| Nov 17 → Dec 10 | Ch 11 to Ch 12 | 23 days | Winter isolation deepening |
+| Nov 17 → Dec 9 | Ch 11 to Ch 12 | 22 days | Winter isolation deepening |
 | Dec 27 → Feb 28 | Ch 20 to Ch 23 | ~2 months | Jump to confrontation day |
 | Mar 2 → Mar 15 | Ch 27 to Ch 28 | 13 days | Eleanor's rapid decline |
-| Jun 15 → Sep 2025 | Ch 33 to Epilogue Pt 2 | ~3 months | Josh's institutionalization |
+| Jun 16 → Sep 2025 | Ch 33 to Epilogue Pt 2 | ~3 months | Josh's institutionalization |
 
 ---
 

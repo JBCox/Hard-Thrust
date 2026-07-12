@@ -2499,7 +2499,7 @@ And wondered if I was looking at a murderer.
 
 The library was wrong that afternoon.
 
-I'd been working for hours, reviewing my notes on the missing persons cases—the three I'd narrowed down from my initial eight, trying to find the pattern I knew was there—when unease crept over me. The house had settled around me—groaning wood, ticking radiator, wind testing the windows. Something was off.
+I'd been working for hours, reviewing my notes on the missing persons cases—the six I'd narrowed down from my initial eight, trying to find the pattern I knew was there—when unease crept over me. The house had settled around me—groaning wood, ticking radiator, wind testing the windows. Something was off.
 
 Three weeks of isolation was playing tricks on my perception. Making ordinary sounds seem significant.
 
@@ -3676,7 +3676,7 @@ Just the darkness where the rest of my life should have been.
 ========================================
 
 # CHAPTER 12: THE LIBRARY
-## December 10 — Eleanor
+## December 9-10 — Eleanor
 
 ---
 
@@ -3794,7 +3794,7 @@ I leave. Walk back to the cottage through the falling snow. My hands are shaking
 
 In the loft, I sit at my desk. Open my journal.
 
-**December 10.**
+**December 9.**
 
 *He loves me. He said it. And I wanted to say it back.*
 
@@ -3964,11 +3964,11 @@ She'd sounded... determined. Resigned. Like someone who'd made a difficult decis
 
 Like someone planning an act they couldn't take back.
 
-I walked back to the mansion through the gathering dark, my appetite gone. In the kitchen, I stood at the window, watching the cottage. Light still on in the loft. Eleanor's shadow moving behind the curtains.
+I walked back to the mansion through the dark, sleep out of the question. In the kitchen, I stood at the window, watching the cottage. Light still on in the loft. Eleanor's shadow moving behind the curtains.
 
 *He'll never see it coming.*
 
-I pulled out my phone. Typed a text: *Not hungry tonight. Going to work. See you tomorrow?*
+I pulled out my phone. Typed a text: *Can't sleep. Going to get some work done. See you at breakfast?*
 
 Her response came five minutes later: *Okay. Sleep well.*
 
@@ -4151,11 +4151,11 @@ The pressure was unmistakable.
 ========================================
 
 # CHAPTER 13: THE DISCOVERY
-## December 10 — Josh
+## December 10-11 — Josh
 
 ---
 
-**Earlier that day**
+**Late morning**
 
 I needed to move my truck. The snow was picking up again, and if I didn't relocate it to the cleared area near the mansion, it'd be buried where it sat by morning.
 
@@ -4558,7 +4558,7 @@ My shoulders ache from tension. I roll my neck, hear it crack, and keep working.
 
 I watch the empty driveway from my cottage window. Six in the morning, he drove away. Now it's past one, and I don't know where he went. Don't know what he's been doing. Don't know what he's capable of when I'm not watching.
 
-At 13:15, his truck finally returns. I watch him get out. His movements are stiff. There's a new scratch on his knuckles, and his jacket is soiled. The confusion on his face as he checks his phone—he doesn't know where he's been either.
+At 13:15, his truck finally returns. I watch him get out. His movements are stiff, his boots and jacket streaked with mud. The confusion on his face as he checks his phone—he doesn't know where he's been either.
 
 Seven hours. Gone. Just like that.
 
@@ -4632,7 +4632,7 @@ He falls asleep in my arms. I lie there in the darkness, listening to him breath
 
 **December 12.**
 
-*Seven hours today. Gone, and he came back disoriented, scratched up, bruised. He doesn't know what happened. That's what I needed to see. I'm not afraid. I'm almost ready.*
+*Seven hours today. Gone, and he came back disoriented and mud-spattered, shaken to the core. He doesn't know what happened. That's what I needed to see. I'm not afraid. I'm almost ready.*
 
 *I told him I'd help him find the truth. I meant it. He's coming undone. The more confused he gets, the easier this becomes.*
 
@@ -4653,7 +4653,7 @@ He falls asleep in my arms. I lie there in the darkness, listening to him breath
 
 Five days pass in careful distance.
 
-December 12th: seven hours gone. I'd left the mansion with some vague intention about town and returned just past one in the afternoon with a scratch on my knuckles and a bruise I couldn't account for, no clear memory of the interval. Eleanor had been waiting. She asked where I'd been. I couldn't answer.
+December 12th: seven hours gone. I'd left the mansion with some vague intention about town and returned just past one in the afternoon with mud dried on my boots and no clear memory of the interval. Eleanor had been waiting. She asked where I'd been. I couldn't answer.
 
 She'd been gentle about it. Brought me to the bedroom, held me while I tried to reconstruct the gap. Said she'd help me find the truth. I'd believed her in the moment—which was the part I kept coming back to. How easily I'd let her near me. How little alarm I'd felt about seven missing hours when she was the most likely explanation for them.
 
@@ -6182,6 +6182,8 @@ Why me?
 
 Underneath the photos, at the bottom of the box, sat a steel document safe. Small, heavy, fireproof. Combination dial and a keyhole, both locked. I turned it over, shook it once—paper, and something that slid. Whatever mattered most to her lived in that box, and I wasn't getting into it with a hairpin and nerve.
 
+Wedged beside the safe was an external hard drive, palm-sized, labeled in her neat block letters: ARCHIVE—BACKUP. That, I could get into. I slipped it into my jacket pocket.
+
 I found a map in the third box. Thornewood Estate, marked with red X's. Five of them scattered across the property.
 
 Burial sites? Dump sites? Or just the corners of the grounds where her nameless drifter might have gone to ground—she'd have mapped them the way I mapped everything, chasing a man who was never here.
@@ -6242,9 +6244,9 @@ I needed answers. Real evidence. Not speculation, not paranoia, but proof of wha
 
 ---
 
-I started with Eleanor's surveillance system—the cameras she'd hidden throughout the mansion. I'd found them weeks ago, documented their locations. Tonight, I wanted to see what she'd been recording.
+I started with Eleanor's surveillance system—the cameras she'd hidden throughout the mansion. I'd found them days earlier, documented their locations. Tonight, I wanted to see what she'd been recording.
 
-I bypassed her laptop encryption easily enough. Four years of investigative journalism had taught me a few things about digital security. Her password was predictable: ThornewoodEstate2024.
+I bypassed the backup drive's encryption easily enough. Four years of investigative journalism had taught me a few things about digital security. Her password was predictable: ThornewoodEstate2024.
 
 The files were organized by date and location. Bedroom. Library. Kitchen. Basement. Hundreds of hours of footage.
 
@@ -6350,7 +6352,7 @@ And she was carrying a dead woman's private photographs. Had lied about her enti
 
 What else had she lied about?
 
-I copied everything to an encrypted drive and hid it in my laptop bag. This was evidence—evidence of Eleanor's deception, her surveillance, her connection to the 2020 murder.
+I copied everything to my own encrypted drive and hid it in my laptop bag. This was evidence—evidence of Eleanor's deception, her surveillance, her connection to the 2020 murder.
 
 The mansion creaked around me. 4:47 AM. Still hours until light, but Eleanor would be awake soon.
 
@@ -6459,7 +6461,7 @@ He's kind to me. He listens. When he touches me, he's gentle—reverent, even. L
 
 I could let it go.
 
-But then I look at the photograph of him. Two years I hunted a man who was nothing but an alias and a blurred shape on old tape—and this is the face I finally pinned to him. The face that won't let me stop.
+But then I look at the photograph of him. Two years of my life have narrowed to this face. The face that won't let me stop.
 
 I pull out the notebook. The one I've filled with him—every habit, every tell, every way in. My fingers fumble to the page that started it all. The one that first told me exactly what he was.
 
@@ -7777,6 +7779,8 @@ Lily Ashford: Thornewood, February 2020. I was at Thornewood, February 2020.
 
 Jennifer Wallace: Portland, May 2020. I was in Portland, May 2020.
 
+David Park: Thornewood, August 2022. I was camping in the Cascades that month—alone, off the grid, no one to say otherwise.
+
 I wasn't at Thornewood that winter.
 
 I've never been to Thornewood before October 2024.
@@ -8412,7 +8416,7 @@ But he deserves the truth. They all deserve the truth.
 
 I let that sit for a moment. Then I continue.
 
-"So I built the case myself. Your podcast gave me more than you know." I pull up three audio clips on the laptop, each bookmarked and labeled. "Episode forty-seven. You describe the eastern trail near Thornewood where Sarah Martinez's body was found. You mention the switchback near the creek crossing—the one the police never released to the public. In Lily's journal, she wrote about that same trail three days before she disappeared. You couldn't have known that detail unless you were there."
+"So I built the case myself. Your podcast gave me more than you know." I pull up three audio clips on the laptop, each bookmarked and labeled. "Episode forty-seven. You describe the eastern trail near Thornewood—the switchback near the creek crossing, the one the police never released to the public. In Lily's journal, she wrote about that same trail three days before she disappeared. You couldn't have known that detail unless you were there."
 
 I play the second clip. "Episode sixty-two. You say the caretaker cottage at Thornewood had a 'green door with a brass knocker.' The door was repainted brown later that year. The brass knocker was removed after the murder. You described the door as it looked in February 2020."
 
@@ -8897,7 +8901,7 @@ She stands. Reaches into the box she'd brought from the cottage—the one she'd 
 
 Eleanor points to another document. Medical examiner's report. Cause of death: asphyxiation, manual strangulation. Time of death estimated February 18, based on decomposition, weather patterns, insect evidence.
 
-"Four minutes," Eleanor says quietly. "That's what the ME estimated. Four minutes from initial pressure to death. She fought. There were defensive wounds. Skin under her fingernails. Scratches and bruises on her attacker's hands and forearms."
+"Four minutes," Eleanor says quietly. "That's what the ME estimated. Four minutes from initial pressure to death. She fought. There were defensive wounds. Scratches and bruises on her attacker's hands and forearms."
 
 She shows me another document. Photos from a social media account. Josh Caine, late winter 2020. In several photos from after he left Thornewood—there are visible scratches on his hands and forearms.
 
